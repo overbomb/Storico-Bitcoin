@@ -290,6 +290,7 @@ Bitcoin come Whirlpool.
 GNU è l'acronimo di "GNU's Not Unix". È un progetto avviato da Richard Stallman nel 1983 con l'obiettivo di sviluppare un sistema operativo completamente libero. Il progetto GNU è stato fondamentale per la diffusione del concetto di software libero.
 
 **ITA** - [Youtube](https://www.youtube.com/watch?v=y4ko7LnLs4c)
+**ENG** - [GNU Manifesto](https://www.gnu.org/gnu/manifesto.en.html)
 </details>
 
 </details>
