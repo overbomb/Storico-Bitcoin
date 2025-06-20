@@ -9,11 +9,10 @@
 Il 5 aprile 1933, il presidente Franklin D. Roosevelt firma l'ordine esecutivo 6102 che proibisce il possesso di oro in tutte le sue forme, comprese 
 monete, lingotti e certificati aurei, da parte di individui, associazioni o società residenti negli Stati Uniti d'America. Tutti i cittadini 
 statuinitensi sono costretti a consegnare l'oro in cambio di $ 20.67 per oncia (28,35 grammi circa). La maggior parte dell'oro dei cittadini era 
-tenuto al "sicuro" nelle banche. Quest'ultime consegnarono immediatamente l'oro dei cittadini.
+tenuto al "sicuro" nelle banche. Quest'ultime consegnarono immediatamente l'oro dei cittadini al governo.
 
 ⚠️ Questa data è significativa perché sottolinea l'importanza di avere un denaro non confiscabile. Essa rappresenta la necessità di possedere un 
-denaro al portatore, senza dover riporre fiducia su terze parti per la sua custodia. La fiducia in queste istituzioni si è rivelata infondata, poiché
-molte persone hanno visto confiscato il proprio oro.
+denaro al portatore, senza dover riporre fiducia su terze parti per la sua custodia. Satoshi Nakamoto con Bitcoin rimuove totalmente il concetto di fiducia dalla moneta.
 
 In questo contesto, sembra che Satoshi Nakamoto possa aver scelto il 5 aprile come data di nascita fittizia ispirandosi a tale evento. Inoltre, è 
 probabile che abbia preso in considerazione il numero esecutivo 6102, invertendo i numeri per arrivare a 2016, che rappresenta il numero di blocchi 
@@ -49,9 +48,11 @@ Getta le basi per l'informatica moderna. Le sue intuizioni sulla natura della co
 <details>
 <summary>Torpedo Data Computer (TDC) 🔍</summary>
 
-Sopra un sottomarino americano venne costruito il Torpedo Data Computer (TDC), il primo computer a funzionare con impulsi elettromagnetici anziché in
+Dentro un sottomarino americano venne costruito il Torpedo Data Computer (TDC), il primo computer a funzionare con impulsi elettromagnetici anziché in
 modo meccanico. Il Torpedo Data Computer era un computer analogico elettromeccanico utilizzato per il controllo di tiro dei siluri sui sottomarini 
 americani durante la Seconda Guerra Mondiale.
+
+**ENG** - [wikipedia](https://en.wikipedia.org/wiki/Torpedo_Data_Computer)
 </details>
 
 </details>
@@ -65,6 +66,8 @@ americani durante la Seconda Guerra Mondiale.
 <summary>Computer Z2 Digital 🔍</summary>
 
 Il Computer Z2, sviluppato dall'ingegnere tedesco Konrad Zuse, è considerato il primo computer digitale.
+
+**ENG** - [wikipedia](https://en.wikipedia.org/wiki/Z2_(computer))
 </details>
 
 </details>
@@ -272,8 +275,7 @@ Il testo "Elliptic Curve Cryptography" tratta della crittografia a chiave pubbli
 più efficiente di crittografia a chiave pubblica. La crittografia a curve ellittiche oggi è uno standard utilizzato per garantire la sicurezza delle 
 chiavi private.
 
-**ENG** - [Paper](https://web.archive.org/web/20180726024835/https://www.ams.org/journals/mcom/1987-48-177/S0025-5718-1987-0866109-5/S0025-5718-1987-
-0866109-5.pdf)
+**ENG** - [Paper](https://web.archive.org/web/20180726024835/https://www.ams.org/journals/mcom/1987-48-177/S0025-5718-1987-0866109-5/S0025-5718-1987-0866109-5.pdf)
 </details>
 
 <details>
@@ -327,8 +329,9 @@ coordinare le transazioni utilizza un server centrale, similmente a come fa una 
 | Problema della doppia spesa   |   🟡   |
 | Scarsità                      |   ❌   |
 
-**ITA** [Digicash] (https://it.wikipedia.org/wiki/DigiCash)
-**ENG** -   [Digicash](https://web.archive.org/web/19970610020649/http://www.digicash.com/ecash/about.html)
+**ITA** [Digicash](https://it.wikipedia.org/wiki/DigiCash)
+
+**ENG** - [Digicash](https://web.archive.org/web/19970610020649/http://www.digicash.com/ecash/about.html)
 </details>
 
 <details>
@@ -537,6 +540,7 @@ altro.
 In questo libro viene emerge l'importanza di internet per la libertà dell'individuo e la necessità di libero mercato tra monete digitali private.
 
 **ENG** - https://www.lopp.net/pdf/The%20Sovereign%20Individual.pdf
+
 **ITA** - Sul profilo github di Ventunobtc si trova il libro in italiano. Link al loro profilo github di Ventunobtc: https://github.com/ventunobtc
 </details>
 
@@ -568,7 +572,6 @@ un canale di trasmissione che sia non disturbabile e anche sincrono.
 richiesta una cauzione per diventare server, che viene persa in caso di disonestà. Questo sistema tende alla centralizzazione su pochi server.
 Questa soluzione verrà ripresa successivamente da altre crittovalute basate su meccanismo di consenso proof of stake.
 
-http://www.weidai.com/bmoney.txt
 
 | Caratteristica                | Stato  |
 |-------------------------------|--------|
@@ -577,6 +580,9 @@ http://www.weidai.com/bmoney.txt
 | Incensurabilità               |   ❌   |
 | Problema della doppia spesa   |   🟡   |
 | Scarsità                      |   ❌   |
+
+http://www.weidai.com/bmoney.txt
+
 </details>
 
 <details>
@@ -586,8 +592,6 @@ Il Liberty Dollar era strutturato attorno a un sistema di riserva di metalli pre
 di Liberty Dollar era direttamente correlata alla quantità di oro o argento custodita presso la società di von NotHaus. Nel 2007 oltre 250 mila
 persone detenevano certificati di liberty dollar. Nel 2009 fù costretto a chiudere l'attività perchè accusato di vari crimini. 
 
-**ITA** - https://atlas21.com/it/tredici-anni-fa-la-condanna-al-fondatore-dellamerican-liberty-dollar/
-**ENG** - https://ldfa.nl/page/3
 
 | Caratteristica                | Stato  |
 |-------------------------------|--------|
@@ -596,6 +600,11 @@ persone detenevano certificati di liberty dollar. Nel 2009 fù costretto a chiud
 | Incensurabilità               |   ❌   |
 | Problema della doppia spesa   |   🟡   |
 | Scarsità                      |   ✅   |
+
+**ITA** - https://atlas21.com/it/tredici-anni-fa-la-condanna-al-fondatore-dellamerican-liberty-dollar/
+
+**ENG** - https://ldfa.nl/page/3
+
 </details>
 
 <details>
@@ -619,7 +628,8 @@ Elon Musk come Peter Tiel vuole creare una moneta per internet, indipendente dal
 <summary>Milton Friedman prevede Bitcoin 🌱</summary>
 L'economista Milton Friedman rilascia un'intervista e prevede l'arrivo di una moneta su internet.
 
-**ENG** - https://www.youtube.com/watch?v=C_Ny-UPve-8
+**ENG** - [youtube](https://www.youtube.com/watch?v=C_Ny-UPve-8)
+
 </details>
 
 </details>
@@ -657,7 +667,9 @@ Elon Musk e Peter Tiel che avevano la medesima idea di "moneta per internet" si 
 Dopo svariati tentativi di condivisione libera di file digitali, Bram Cohen trova la soluzione creando una rete peer to peer. BitTorrent è la dimostrazione che le reti p2p sono resilienti ad attacchi di censura da parte di governi.
 
 **ITA** - https://it.wikipedia.org/wiki/BitTorrent_(software)
+
 **ENG** - https://en.wikipedia.org/wiki/BitTorrent
+
 </details>
 
 <details>
@@ -666,7 +678,9 @@ Dopo l'attacco delle torri gemelle viene rilasciata una legge federale, che incr
 persone.
 
 **ITA** - https://it.wikipedia.org/wiki/USA_PATRIOT_Act
+
 **ENG** - https://en.wikipedia.org/wiki/Patriot_Act
+
 </details>
 
 </details>
@@ -682,7 +696,7 @@ La società Linden Lab sviluppa un gioco di nome Second Life. All'interno del gi
 Le politiche monetarie differenti di questo token, hanno portato ad un apprezzamento di valore rispetto al dollaro. Più avanti interverranno le
 autorità per non permettere al linden dollar di circolare al di fuori del videogioco.
 
-**ENG** - https://philiprosedale.substack.com/p/adventures-of-the-linden-dollar
+
 
 | Caratteristica                | Stato  |
 |-------------------------------|--------|
@@ -691,6 +705,9 @@ autorità per non permettere al linden dollar di circolare al di fuori del video
 | Incensurabilità               |   ❌   |
 | Problema della doppia spesa   |   🟡   |
 | Scarsità                      |   ❌   |
+
+**ENG** - https://philiprosedale.substack.com/p/adventures-of-the-linden-dollar
+
 </details>
 
 </details>
@@ -714,6 +731,10 @@ in modo sicuro l'hash del software che sta eseguendo. Sposta la fiducia da una p
 | Incensurabilità               |   ❌   |
 | Problema della doppia spesa   |   🟡   |
 | Scarsità                      |   ❌   |
+
+
+**ENG** - [Nakamoto Institute](https://nakamotoinstitute.org/finney/rpow/)
+
 </details>
 
 </details>
@@ -730,7 +751,6 @@ prova di lavoro, Bit Gold permette di generare e verificare stringhe di bit in m
 
   
 
-**ENG** - https://bitcoinstan.io/prehistory/doc/1998_2.pdf
 
 | Caratteristica                | Stato  |
 |-------------------------------|--------|
@@ -739,6 +759,9 @@ prova di lavoro, Bit Gold permette di generare e verificare stringhe di bit in m
 | Incensurabilità               |   ❌   |
 | Problema della doppia spesa   |   🟡   |
 | Scarsità                      |   ❌   |
+
+**ENG** - [Nakamoto Institute](https://nakamotoinstitute.org/library/bit-gold/)
+
 </details>
 
 </details>
@@ -778,9 +801,9 @@ forte crisi.
 <details>
 <summary>Registrazione sito bitcoin.org</summary>
 Il 18 Agosto 2008 viene registrato il sito bitcoin.org. Viene registrato anonimamente attraverso il servizio di anonymous speech che accettava
-pagamenti cash o e-gold.
+pagamenti cash o e-gold. Satoshi registrerà anche il dominio netcoin.com.
 
-Satoshi registrerà anche il dominio netcoin.com.
+https://web.archive.org/web/20090313031316/https://www.anonymousspeech.com/default.aspx
 </details>
 
 <details>
@@ -788,7 +811,7 @@ Satoshi registrerà anche il dominio netcoin.com.
 Il 31 Ottobre Satoshi Nakamoto pubblica il whitepaper di Bitcoin. Crea un denaro digitale senza controparte fidata, ed utilizza la proof of work per
 risolvere il problema della doppia spesa.
 
-https://bitcoin.org/en/bitcoin-paper
+
 
 | Caratteristica                | Stato  |
 |-------------------------------|--------|
@@ -797,6 +820,9 @@ https://bitcoin.org/en/bitcoin-paper
 | Incensurabilità               |   ✅   |
 | Problema della doppia spesa   |   ✅   |
 | Scarsità                      |   ✅   |
+
+https://bitcoin.org/en/bitcoin-paper
+
 </details>
 
 <details>
@@ -810,7 +836,7 @@ Il 2 Novembre James A. Donald risponde alla pubblicazione di Satoshi Nakamoto po
 <summary>Pre-release del software di Bitcoin</summary>
 Nel Novembre del 2008, Satoshi Nakamoto invia privatamente la versione alpha di bitcoin per poterla revisionare prima del rilascio ufficiale.
 
-Fonte: https://satoshi.nakamotoinstitute.org/code/
+**ENG**  [Nakamoto Institute](https://satoshi.nakamotoinstitute.org/code/)
 </details>
 
 </details>
@@ -825,6 +851,9 @@ Fonte: https://satoshi.nakamotoinstitute.org/code/
 <summary>Blocco Genesi 🎊</summary>
 Il 3 gennaio 2009 Satoshi Nakamoto esegue la versione 0.1 di Bitcoin e mina il primo blocco della timechain, conosciuto con il nome "genesis block".
 All'interno del blocco Satoshi scrive il titolo in prima pagina del giornale "The Times" di Londra "Chancellor on brink of second bailout for banks".
+
+https://mempool.space/it/tx/4a5e1e4baab89f3a32518a88c31bc87f618f76673e2cc77ab2127b7afdeda33b
+
 </details>
 
 <details>
@@ -838,7 +867,8 @@ scaricare il software.
 Il giorno 11 Gennaio 2009, Hal Finney installa il software di Satoshi Nakamoto e condivide su Twitter la celebre frase "Running Bitcoin". Questo
 giorno viene ricordato e festeggiato tutti gli anni dalla community Bitcoin.
 
-https://bibliotecabitcoin.org/satoshi/bitcoin-list/2010-07-06_21.53.53/
+[Tweet](https://x.com/halfin/status/1110302988)
+
 </details>
 
 <details>
@@ -967,7 +997,9 @@ https://bitcointalk.org/index.php?topic=5477395.0
 <details>
 <summary>La fondazione Electronic Frontier Foundation (EFF) accetta Bitcoin 🌍</summary>
 La fondazione EFF annuncia di Accettare Bitcoin come sistema di pagamento  
-[Link](https://en.wikipedia.org/wiki/Electronic_Frontier_Foundation)
+  
+**ENG** - [Wikipedia](https://en.wikipedia.org/wiki/Electronic_Frontier_Foundation)
+
 </details>
 
 <details>
@@ -1004,15 +1036,16 @@ Nel maggio 2011 Namecoin viene lanciata ed è la seconda crittovaluta creata dop
 
 <details>
 <summary>Wikileaks accetta Bitcoin per le donazioni 🌍</summary>
-Wikileaks comincia ad accettare donazioni in bitcoin  
-Fonte [Link](https://x.com/wikileaks/status/80774521350668288)
+Wikileaks comincia ad accettare donazioni in bitcoin
+  
+[Tweet](https://x.com/wikileaks/status/80774521350668288)
 </details>
 
 <details>
 <summary>Bitcoin ad un dollaro 🌍</summary>
 Il 9 Febbraio 2011 il prezzo di Bitcoin supera il valore di 1 dollaro creando una corrente mediatica che porterà alla prima bolla di prezzo. In pochi 
 mesi bitcoin raggiunge il valore di 29,60 dollari per poi crollare a 2 dollari in poche ore.  
-[Link](https://charts.coinmetrics.io/crypto-data/)
+
 </details>
 
 <details>
@@ -1023,6 +1056,7 @@ Il 17 Luglio 2011 nasce P2Pool. È la prima mining pool decentralizzata senza co
 <details>
 <summary>BIP (Bitcoin Improvement Proposal)🔍</summary>
 Nel settembre 2011 Amir Taaki ha l'idea ed implementa i *Bitcoin Improvement Proposal* (BIP).
+  
 [**ENG**](https://bips.dev/1/)
 </details>
 
@@ -1045,9 +1079,13 @@ sviluppatore Luke Dashjr propone BIP 17.
 Gavin Andresen propone che se almeno il 55% dei miner sono favorevoli a Bip 16 verrà implementato P2SH. Gavin mette come data limite il 1° Febbraio
 2012.  
 Il 55% non viene raggiunto, ma Gavin attiva comunque BIP 16 il 1° Aprile.  
+  
 [**ENG**](https://bips.dev/16/)  
+
 [**ENG**](https://bips.dev/17/)  
+
 [**ENG**](https://bitcointalk.org/index.php?topic=61125.0)
+
 </details>
 
 <details>
@@ -1093,8 +1131,11 @@ alle crisi delle monete Fiat.
 L'11 marzo è stato effettuato l'aggiornamento alla versione 0.8 del protocollo, che ha riguardato la gestione del database e il passaggio da Berkeley 
 DB a LevelDB. Durante questo aggiornamento, la rete ha subito un fork di 24 blocchi. In questo intervallo, si è verificato un double-spending di 
 211.909 Bitcoin.  
+  
 [**ENG**](https://github.com/bitcoin/bips/blob/master/bip-0050.mediawiki)  
+
 [**ENG**](https://bitcointalk.org/index.php?topic=152348.0)
+
 </details>
 
 <details>
@@ -1115,17 +1156,22 @@ Il 17 maggio 2013 torna ad accettare Bitcoin.
 
 <details>
 <summary>19 agosto Gregory Maxwell - Sidechain🌱🔍</summary>
-Il 19 Agosto Gregory Maxwell propone coinwitness, la prima idea di sidechain.  
-[**ENG**](https://bitcointalk.org/index.php?topic=277389.0)
+Il 19 Agosto Gregory Maxwell propone coinwitness, la prima idea di sidechain. 
+  
+**ENG** - [Bitcointalk](https://bitcointalk.org/index.php?topic=277389.0)
 </details>
 
 <details>
 <summary>L'arresto di Ross Ulbricht</summary>
-Il 2 Ottobre 2013 Il sito onion The Silk Road viene chiuso e Ross Ulbricht viene arrestato. Il processo porterà alla condanna di 2 ergastoli.  
+Il 2 Ottobre 2013 Il sito onion The Silk Road viene chiuso e Ross Ulbricht viene arrestato. Il processo porterà alla condanna di 2 ergastoli.
 Per approfondire:  
+  
 Parte 1 [Link](https://www.wired.com/2015/04/silk-road-1/)  
+
 Parte 2 [Link](https://www.wired.com/2015/05/silk-road-2/)  
+
 [Link](https://bitcointalk.org/index.php?topic=47811.msg568744#msg568744)
+
 </details>
 
 </details>
@@ -1144,25 +1190,32 @@ Il primo Ban di Bitcoin da parte del governo cinese.
 <summary>Mt Gox, not your keys not your bitcoin</summary>
 Dopo svariati hack subiti dall'exchange negli anni, MtGox il 24 Febbraio 2014 è offline e le persone che hanno i bitcoin depositati sull'exchange, non 
 li vedranno più.  
-[Link](https://medium.com/@bishr_tabbaa/the-rise-and-fall-of-mt-gox-whats-in-your-bitcoin-wallet-bd5eb4106f4e)
+  
+**ENG** - [MEDIUM](https://medium.com/@bishr_tabbaa/the-rise-and-fall-of-mt-gox-whats-in-your-bitcoin-wallet-bd5eb4106f4e)
 </details>
 
 <details>
 <summary>Gavin Andresen out ⚔️🟢</summary>
-Il 7 Aprile 2014 Gavin Andresen lascia il controllo su GitHub. Il suo ruolo passa a Wladimir van der Laan.  
-[**ENG**](https://en.bitcoin.it/wiki/Wladimir_van_der_Laan)
+  
+Il 7 Aprile 2014 Gavin Andresen lascia il controllo su GitHub. Il suo ruolo passa a Wladimir van der Laan. 
+  
+**ENG** - [BitcoinWiki](https://en.bitcoin.it/wiki/Wladimir_van_der_Laan)
 </details>
 
 <details>
 <summary>Blockstream ⚔️🟠🔍</summary>
 Viene fondata Blockstream il 19 Novembre 2014. Blockstream mira a sviluppare strumenti per Bitcoin.  
-[**ENG**](https://en.wikipedia.org/wiki/Blockstream)
+  
+**ENG** - [Wikipedia](https://en.wikipedia.org/wiki/Blockstream)
+
 </details>
 
 <details>
 <summary>Mike Hearn lancia Bitcoin XT ⚔️🟢</summary>
 Il 27 Dicembre 2014 Mike Hearn rilascia Bitcoin XT. Bitcoin XT è un client alternativo di Bitcoin Core che implementa la BIP 64.  
-[**ENG**](https://en.bitcoin.it/wiki/Bitcoin_XT)
+  
+**ENG** - [BitcoinWiki](https://en.bitcoin.it/wiki/Bitcoin_XT)
+
 </details>
 
 </details>
@@ -1182,13 +1235,16 @@ A Gennaio 2015 nasce BlockchainLab a Milano. Diventa un punto di ritrovo per svi
 Gavin Andresen il 15 aprile 2015 partecipa alla conferenza "Devcore" e discute sulla necessità di avere blocchi più grandi per scalare Bitcoin. Nel 
 Q&A successivo il 18 Aprile Gavin risponde che se non si troverà "accordo" sull'aumentare lo spazio nei blocchi, imporrà la decisione a tutto il 
 network.  
-[**ENG**](https://www.youtube.com/watch?v=RIafZXRDH7w)
+  
+[Youtube](https://www.youtube.com/watch?v=RIafZXRDH7w)
+
 </details>
 
 <details>
 <summary>Vladimir van der Laan si oppone a modifiche senza consenso ⚔️🟠</summary>
 Il nuovo Maintener Vladimir van der Laan non è d'accordo sulla scelta di aumentare lo spazio nei blocchi soprattutto senza consenso da parte della 
 rete.
+  
 </details>
 
 <details>
@@ -1197,10 +1253,14 @@ BIP 101. Gavin Andresen con la BIP 101 🚨 propone un hard fork per aumentare l
 nell'implementazione al 11 Gennaio 2016 altrimenti passerà su Bitcoin XT. Non trova consenso.  
 BIP 102. Jeff Garzik con la BIP 102 propone un hard fork di aumentare il blocco fino a 2 mega. Non trova consenso perché non è una soluzione per
 scalare sul lungo periodo.  
-BIP 103. Sipa con la BIP 103 propone un hard fork che aumenta la dimensione del blocco ogni anno del 17.7% fino al 2063. Non trova consenso.  
+BIP 103. Sipa con la BIP 103 propone un hard fork che aumenta la dimensione del blocco ogni anno del 17.7% fino al 2063. Non trova consenso. 
+  
 **ENG** [BIP 101](https://bips.dev/101/)  
+
 **ENG** [BIP 102](https://bips.dev/102/)  
+
 **ENG** [BIP 103](https://bips.dev/103/)
+
 </details>
 
 <details>
@@ -1211,7 +1271,9 @@ Il 30 Luglio 2015 Vitalik Buterin lancia Ethereum.
 <details>
 <summary>THE BLOCK SIZE WAR ⚔️🟢</summary>
 Il 15 Agosto 2015 ha inizio la guerra della dimensione del blocco. Gavin Andresen smette di contribuire a Bitcoin Core e passa a Bitcoin XT con Mike Hearn. Annunciano che nel nuovo aggiornamento di Bitcoin XT verrà implementata la BIP 101.  
+  
 [**ENG**](https://en.bitcoin.it/wiki/Bitcoin_XT)
+
 </details>
 
 <details>
@@ -1219,7 +1281,9 @@ Il 15 Agosto 2015 ha inizio la guerra della dimensione del blocco. Gavin Andrese
 Il 15 Agosto dopo la dichiarazione di Mike Hearn e Gavin Andresen, una mail dalla casella di posta di Satoshi Nakamoto satoshi@vistomail.com scrive 
 che se 2 persone hanno il potere di decidere che cos'è Bitcoin, allora il progetto Bitcoin si può dichiarare fallito. Non c'è certezza che questa mail 
 giunga da Satoshi Nakamoto.  
-[**ENG**](https://www.reddit.com/r/Bitcoin/comments/76mwyv/satoshi_nakamoto_about_hijack_fork_attempts/#lightbox)
+  
+[REDDIT](https://www.reddit.com/r/Bitcoin/comments/76mwyv/satoshi_nakamoto_about_hijack_fork_attempts/#lightbox)
+
 </details>
 
 <details>
@@ -1227,6 +1291,7 @@ giunga da Satoshi Nakamoto.
 Sul Forum di Bitcoin Reddit gestito da Theymus si parla di Bitcoin XT e blocchi grandi. Theymus invita le persone interessate a questi argomenti di 
 aprire un forum dedicato. Il 17 Agosto Theymus banna più persone che volevano parlare di Bitcoin XT sul forum Bitcoin perché era più popolato. Anche 
 Bitcoin Jesus, Roger Ver è bannato dal forum e diventerà sostenitore di molte shitcoin in futuro.
+  
 </details>
 
 <details>
@@ -1234,7 +1299,8 @@ Bitcoin Jesus, Roger Ver è bannato dal forum e diventerà sostenitore di molte 
 Le industrie Bitcoin (I CEOs of BitPay, Blockchain.info, Circle, Kncminer, itBit, Bitnet, Xapo and BitGo) scrivono e firmano una lettera a sostegno di
 Bitcoin XT e BIP 101. Nella lettera: "Sosteniamo l'implementazione del BIP101. Abbiamo trovato convincenti gli argomenti di Gavin sia sulla necessità
 di blocchi più grandi che sulla fattibilità della loro implementazione."  
-[**ENG**](https://blog.bitmex.com/the-blocksize-war-chapter-1-first-strike/)
+  
+**ENG** - https://blog.bitmex.com/the-blocksize-war-chapter-1-first-strike/
 </details>
 
 
@@ -1244,7 +1310,8 @@ di blocchi più grandi che sulla fattibilità della loro implementazione."
 Per provare a risolvere la questione "dimensione dei blocchi" v**ENG**ono organizzate delle conferenze con il nome Scaling Bitcoin. Il primo 
 appuntamento è a Montreal i giorni 11 e 12 Settembre. La discussione sui blocchi verrà interrotta da Gregory Maxwell perché Bitcoin deve essere 
 discusso su internet non a porte chiuse. Nel frattempo Thaddeus Dryja e Joseph Poon propongono per la prima volta Lightning Network.  
-[**ENG**](https://scalingbitcoin.org/montreal2015/presentations/Day2/3-JosephPoonAndThaddeusDryja.pdf)
+  
+**ENG** - https://scalingbitcoin.org/montreal2015/presentations/Day2/3-JosephPoonAndThaddeusDryja.pdf
 </details>
 
 <details>
@@ -1279,14 +1346,18 @@ Il 3 Gennaio 2016 Brian Armstrong, CEO di Coinbase, annuncia che Bitcoin XT è s
 <summary>Fine di Bitcoin XT</summary>
 Mike Hearn il 14 Gennaio dichiara l'esperimento Bitcoin fallito. Secondo Mike Hearn, Bitcoin Core non funziona senza BIP 101 ed è centralizzato, 
 mentre Bitcoin XT non ha ricevuto l'attenzione meritata per via della censura e dei fondi necessari.  
-[**ENG**](https://blog.plan99.net/the-resolution-of-the-bitcoin-experiment-dabb30201f7)
+  
+**ENG** - https://blog.plan99.net/the-resolution-of-the-bitcoin-experiment-dabb30201f7
 </details>
 
 <details>
 <summary>Craig Wright è Satoshi?🚨</summary>
 Il 5 Febbraio 2016 sulla rivista Wired viene pubblicata la notizia falsa che Craig Wright è Satoshi Nakamoto.  
-[**ENG**](https://www.wired.com/2015/12/new-clues-suggest-satoshi-suspect-craig-wright-may-be-a-hoaxer/)  
-[**ENG**](https://www.wired.com/2015/12/bitcoins-creator-satoshi-nakamoto-is-probably-this-unknown-australian-genius/)
+  
+https://www.wired.com/2015/12/new-clues-suggest-satoshi-suspect-craig-wright-may-be-a-hoaxer/
+
+https://www.wired.com/2015/12/bitcoins-creator-satoshi-nakamoto-is-probably-this-unknown-australian-genius/
+
 </details>
 
 <details>
@@ -1305,7 +1376,9 @@ essere un hard fork per implementare la dimensione dei blocchi su Bitcoin Core.
 Il 2 maggio 2016, Gavin Andresen ha pubblicato sul suo blog un resoconto dell'incontro avuto con Craig Wright nei giorni precedenti. Durante questo 
 incontro, Wright gli ha fornito delle prove crittografiche per dimostrare di essere realmente Satoshi Nakamoto. Inoltre, ha annunciato che il 3 maggio 
 avrebbe reso pubbliche queste prove per confermare a tutti la sua identità come Satoshi Nakamoto.  
-[**ENG**](http://gavinandresen.ninja/satoshi)
+  
+http://gavinandresen.ninja/satoshi
+
 </details>
 
 <details>
@@ -1328,13 +1401,16 @@ Il 9 Luglio avviene il dimezzamento della produzione di nuovi BTC ad ogni blocco
 <summary>Ethereum DAO hack</summary>
 Il 23 Luglio avviene il DAO hack su ETHEREUM. Gli investitori, tra cui Vitalik, perdono molti soldi. Avviene uno split della catena, una che continua 
 la storia della catena senza interventi (Ethereum Classic) e una che riavvolge la catena a prima dell'attacco alla DAO (Ethereum).  
-[**ENG**](https://en.wikipedia.org/wiki/The_DAO)
+
+**ENG* - [Wikipedia](https://en.wikipedia.org/wiki/The_DAO)
+
 </details>
 
 <details>
 <summary>Bitcoin Unlimited⚔️🟢</summary>
 L'11 marzo 2016 lo sviluppatore Andrew Stone rilascia la prima versione di Bitcoin Unlimited con dimensione di blocchi personalizzabili.  
-[**ENG**](https://en.wikipedia.org/wiki/Bitcoin_Unlimited)
+  
+**ENG** - [Wikipedia](https://en.wikipedia.org/wiki/Bitcoin_Unlimited)
 </details>
 
 <details>
@@ -1343,20 +1419,23 @@ I giorni 8 e 9 Ottobre a Milano si svolge la conferenza Scaling Bitcoin ospitata
 Bitcoin offchain. Nei giorni successivi all'evento BlockchainLab ha ospitato negli uffici di Milano gli sviluppatori che stavano lavorando a soluzioni 
 scalabili Offchain come Blockstream, Acinq, Lightning Labs, BitFury, AmicoPay. Da questo incontro nasce BOLT (Basics of Lightning Technology), 
 inizialmente chiamato Milan Protocol.  
-[**ENG**]([**ENG**](https://milan2016.scalingbitcoin.org/)  
-[**ENG**](https://medium.com/@lightningnetwork/lightning-network-meeting-on-interoperability-and-specifications-ea49e47696a4)
+  
+**ENG** - https://milan2016.scalingbitcoin.org/ 
+**ENG** - https://medium.com/@lightningnetwork/lightning-network-meeting-on-interoperability-and-specifications-ea49e47696a4
+
 </details>
 
 <details>
 <summary>Versione Bitcoin con Segwit Soft Fork🌱🔍</summary>
 A Novembre 2016 viene rilasciata la versione 0.13.1 di Bitcoin Core con il Soft Fork Segwit e l'aumento delle dimensioni del blocco con un meccanismo
 di attivazione che richiede il 95% del consenso per essere attivato.  
-[**ENG**](https://bitcoincore.org/en/releases/0.13.1/)
+  
+**ENG** - https://bitcoincore.org/en/releases/0.13.1/
 </details>
 
 <details>
 <summary>Bitmain VS Soft Fork🚨</summary>
-Bitmain non è d'accordo con il soft fork di Segwit. Vuole che Segwit v**ENG**a fatto con hard fork per ragioni al momento sconosciute. Bitmain ha 
+Bitmain non è d'accordo con il soft fork di Segwit. Vuole che Segwit venga fatto con hard fork per ragioni al momento sconosciute. Bitmain ha 
 molta potenza di calcolo, quindi rende impossibile il soft fork.
 </details>
 
