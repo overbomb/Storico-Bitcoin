@@ -100,7 +100,7 @@ Il Computer Z2, sviluppato dall'ingegnere tedesco Konrad Zuse, è considerato il
 <summary>1971&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚠️</summary>
 
 <details>
-<summary>Nixon Shock ⚠️</summary>
+<summary>Nixon Shock -e l'inizio della moneta FIAT⚠️</summary>
 
 Il Nixon Shock, avvenuto il 15 agosto 1971, è stato un insieme di decisioni economiche del presidente Richard Nixon, tra cui la sospensione della 
 convertibilità del dollaro in oro. Questo ha segnato la fine agli accordi di Bretton Woods e l'inizio di un sistema monetario basato su valute FIAT.
@@ -281,6 +281,15 @@ David Chaum introduce un sistema di firme cieche, che permettono di oscurare un 
 Bitcoin come Whirlpool.
 
 **ENG** - [Paper](https://github.com/pburkart/Blind-Signatures-for-Untraceable-Payments/blob/main/Paper.md)
+</details>
+
+
+<details>
+<summary>Richard Stallman - GNU</summary>
+
+GNU è l'acronimo di "GNU's Not Unix". È un progetto avviato da Richard Stallman nel 1983 con l'obiettivo di sviluppare un sistema operativo completamente libero. Il progetto GNU è stato fondamentale per la diffusione del concetto di software libero.
+
+**ITA** - [Youtube](https://www.youtube.com/watch?v=y4ko7LnLs4c)
 </details>
 
 </details>
