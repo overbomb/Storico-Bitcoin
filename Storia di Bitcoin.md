@@ -1,16 +1,29 @@
-Legenda:
+
+<summary>LEGENDA</summary>
+
 
 ⚠️ Problema del monopolio monetario
+
 🔍 Evoluzione tecnologica che ha portato a Bitcoin e alle sue tecnologie correlate
+
 🌱 Ideologia fondante di Bitcoin
+
 🪙 Tentativo di creare moneta prima di Bitcoin
+
 🎊 Evento che ha dato origine a festività bitcoiner
+
 🌍 Momento significativo per l'adozione di Bitcoin
+
 🚧 Bug/problemi su al protocollo
+
 ⚙️ Aggiornamento al protocollo
+
 ⚔️ EVento rilevante nella "guerra dei blocchi"
+
 🟢 Big Blocker
+
 🟠 Small Blocker
+
 🚨 Tentativi di centralizzare/governare nuovamente la moneta
 
 
