@@ -1384,20 +1384,18 @@ di blocchi più grandi che sulla fattibilità della loro implementazione."
 
 <details>
 <summary>Scaling Bitcoin 1 - Lightning Network🌱🔍</summary>
-Per provare a risolvere la questione "dimensione dei blocchi" v**ENG**ono organizzate delle conferenze con il nome Scaling 
-Bitcoin. Il primo appuntamento è a Montreal i giorni 11 e 12 Settembre. La discussione sui blocchi verrà interrotta da Gregory 
-Maxwell perché Bitcoin deve essere discusso su internet non a porte chiuse. Nel frattempo Thaddeus Dryja e Joseph Poon propongono
-per la prima volta Lightning Network.  
+Per provare a risolvere la questione "dimensione dei blocchi" vengono organizzate delle conferenze con il nome Scaling 
+Bitcoin. Il primo appuntamento è a Montreal l' 11 e il 12 Settembre. La discussione sui blocchi verrà interrotta da Gregory 
+Maxwell perché, secondo lui, Bitcoin deve essere discusso su internet e non a porte chiuse. Nel frattempo, Thaddeus Dryja e Joseph Poon propongono per la prima volta Lightning Network.  
   
 **ENG** - https://scalingbitcoin.org/montreal2015/presentations/Day2/3-JosephPoonAndThaddeusDryja.pdf
 </details>
 
 <details>
 <summary>Scaling Bitcoin 2 - Segwit 🌱🔍</summary>
-Il secondo appuntamento è a Hong Kong il 6 e 7 Dicembre. Emerge Segwit (Segregated Witness) presentata da Pieter Wuille. Questo 
-soft fork  proposta avrebbe reso possibile lo sviluppo di Lightning Network. Luke Dashjr deduce inoltre che Segwit non solo può 
-abilitare Lightning ma permette anche l'aumento della dimensione del blocco tramite soft fork e non con hard fork come proposto
-dalle BIP precedenti.  
+Il secondo appuntamento è a Hong Kong il 6 e 7 Dicembre. Emerge Segwit (Segregated Witness) presentata da Pieter Wuille. Questo soft fork  avrebbe reso possibile lo sviluppo di Lightning Network. Luke Dashjr deduce inoltre, che Segwit non solo può 
+abilitare Lightning, ma permette anche l'aumento della dimensione del blocco tramite soft fork (non con hard fork come proposto
+dalle BIP precedenti).  
   
 **ITA** [Wkikipedia](https://it.wikipedia.org/wiki/SegWit)  
 **ENG** [En.Bitcoin](https://en.bitcoin.it/wiki/Segregated_Witness)
@@ -1405,7 +1403,7 @@ dalle BIP precedenti.
 
 <details>
 <summary>Bitmain vuole un HARD FORK🚨</summary>
-Jihan Wu, il CEO di Bitmain (azienda di mining e di produzione/vendita ASIC) non è d'accordo con l'idea di soft fork, vuole che 
+Jihan Wu, il CEO di Bitmain (azienda di mining e di produzione/vendita ASIC) non è d'accordo con l'idea di soft fork. Vuole che 
 Segwit sia implementato con hard fork.
 </details>
 
