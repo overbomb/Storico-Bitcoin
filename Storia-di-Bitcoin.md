@@ -855,7 +855,7 @@ parte del governo è in forte crisi.
 
 <details>
 <summary>Registrazione sito bitcoin.org</summary>
-Il 18 Agosto 2008 viene registrato il sito bitcoin.org. Viene registrato anonimamente attraverso il servizio di anonymous speech 
+Il 18 agosto 2008 viene registrato il sito bitcoin.org. Viene registrato anonimamente attraverso il servizio di anonymous speech 
 che accettava pagamenti cash o e-gold. Satoshi registrerà anche il dominio netcoin.com.
 
 https://web.archive.org/web/20090313031316/https://www.anonymousspeech.com/default.aspx
@@ -863,7 +863,7 @@ https://web.archive.org/web/20090313031316/https://www.anonymousspeech.com/defau
 
 <details>
 <summary>Satoshi Nakamoto pubblica il whitepaper di Bitcoin ₿🔍🌱🎊</summary>
-Il 31 Ottobre Satoshi Nakamoto pubblica il whitepaper di Bitcoin. Crea un denaro digitale senza controparte fidata, utilizzando
+Il 31 ottobre Satoshi Nakamoto pubblica il whitepaper di Bitcoin. Crea un denaro digitale senza controparte fidata, utilizzando
 la PROOF OF WORK per risolvere il problema della doppia spesa.
 
 
@@ -882,7 +882,7 @@ https://bitcoin.org/en/bitcoin-paper
 
 <details>
 <summary>James A. Donald risponde al whitepaper di Satoshi Nakamoto</summary>
-Il 2 Novembre James A. Donald risponde alla pubblicazione di Satoshi Nakamoto portando scetticismo sulla possibilità di scalare 
+Il 2 novembre James A. Donald risponde alla pubblicazione di Satoshi Nakamoto portando scetticismo sulla possibilità di scalare 
 il protocollo.
 
 **ENG** - https://www.metzdowd.com/pipermail/cryptography/2008-November/014815.html
@@ -890,7 +890,7 @@ il protocollo.
 
 <details>
 <summary>Pre-release del software di Bitcoin</summary>
-Nel Novembre del 2008, Satoshi Nakamoto invia privatamente la versione alpha di bitcoin per poterla revisionare prima del
+Nel novembre del 2008, Satoshi Nakamoto invia privatamente la versione alpha di bitcoin per poterla revisionare prima del
 rilascio ufficiale.
 
 **ENG**  [Nakamoto Institute](https://satoshi.nakamotoinstitute.org/code/)
@@ -916,13 +916,13 @@ https://mempool.space/it/tx/4a5e1e4baab89f3a32518a88c31bc87f618f76673e2cc77ab212
 
 <details>
 <summary>Satoshi Nakamoto rilascia il Codice di Bitcoin </summary>
-Il 9 Gennaio 2009 Satoshi Nakamoto annuncia la versione 0.1 di Bitcoin sul sito https://sourceforge.net/p/bitcoin/news/ con il 
+Il 9 gennaio 2009 Satoshi Nakamoto annuncia la versione 0.1 di Bitcoin sul sito https://sourceforge.net/p/bitcoin/news/ con il 
 link per poter scaricare il software.
 </details>
 
 <details>
 <summary>Hal Finney pubblica su Twitter "Running Bitcoin" 🎊🌍</summary>
-Il giorno 11 Gennaio 2009, Hal Finney installa il software di Satoshi Nakamoto e condivide su Twitter la celebre frase "Running 
+Il giorno 11 gennaio 2009, Hal Finney installa il software di Satoshi Nakamoto e condivide su Twitter la celebre frase "Running 
 Bitcoin". Questo giorno viene ricordato e festeggiato tutti gli anni dalla community Bitcoin.
 
 [Tweet](https://x.com/halfin/status/1110302988)
@@ -931,14 +931,14 @@ Bitcoin". Questo giorno viene ricordato e festeggiato tutti gli anni dalla commu
 
 <details>
 <summary>Satoshi scrive sul forum della p2p foundation 🌍</summary>
-L'11 Febbraio 2009 Satoshi Nakamoto crea un profilo sul forum della fondazione p2p e propone la sua idea di denaro digitale. 
+L'11 febbraio 2009 Satoshi Nakamoto crea un profilo sul forum della fondazione p2p e propone la sua idea di denaro digitale. 
 
 https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/
 </details>
 
 <details>
 <summary>New Liberty Standard è il primo exchange USD/bitcoin 🌍</summary>
-Il 10 Maggio 2009 nasce il primo exchange per scambiare Bitcoin con dollari e viceversa. Il sito si chiama New Liberty Standard. 
+Il 10 maggio 2009 nasce il primo exchange per scambiare Bitcoin con dollari e viceversa. Il sito si chiama New Liberty Standard. 
 
 https://web.archive.org/web/20100414172629/http://newlibertystandard.wetpaint.com/photos
 </details>
@@ -958,7 +958,7 @@ Il 29 ottobre 2009 avviene la migrazione del software da SourceForge a GitHub.
 
 <details>
 <summary>Bitcointalk</summary>
-Il 22 Novembre il forum su SourceForge si sposta su Bitcointalk.
+Il 22 novembre il forum su SourceForge si sposta su Bitcointalk.
 </details>
 
 </details>
@@ -970,7 +970,7 @@ Il 22 Novembre il forum su SourceForge si sposta su Bitcointalk.
 
 <details>
 <summary>Pizza Day 🎊</summary>
-Il 22 Maggio 2010, lo sviluppatore Lazlo scambia 10000 Bitcoin per 2 pizze. Il 22 Maggio di tutti gli anni si festeggia il pizza 
+Il 22 maggio 2010, lo sviluppatore Lazlo scambia 10000 Bitcoin per 2 pizze. Il 22 maggio di tutti gli anni si festeggia il pizza 
 day, in ricordo del primo scambio di Bitcoin per un bene reale.
 
 https://bitcointalk.org/index.php?topic=137.0
@@ -978,14 +978,14 @@ https://bitcointalk.org/index.php?topic=137.0
 
 <details>
 <summary>Limite dello spazio del blocco ad 1 Mb ⚙️⚔️</summary>
-I blocchi di Bitcoin non hanno un limite massimo di dati da poter scrivere all'interno dei blocchi. Il 15 Luglio 2010 Satoshi 
+I blocchi di Bitcoin non hanno un limite massimo di dati da poter scrivere all'interno dei blocchi. Il 15 luglio 2010 Satoshi 
 Nakamoto rilascia una nuova versione del codice ed inserisce il parametro "Max block size" ad un 1 megabyte. Ora i blocchi non 
 possono contenere più di 1 Mb di dati.
 </details>
 
 <details>
 <summary>Primo blocco minato con GPU</summary>
-Il 18 Luglio 2010 viene minato il primo blocco con GPU.
+Il 18 luglio 2010 viene minato il primo blocco con GPU.
 
 https://bitcoin.stackexchange.com/questions/3572/when-was-the-first-gpu-miner-made-available-publicly
 </details>
@@ -1000,7 +1000,7 @@ A luglio 2010 MtGox offre servizio di Exchange per comprare e vendere Bitcoin pe
 <details>
 <summary>Satoshi Nakamoto modifica il codice di Bitcoin⚙️</summary>
 Nel 2010 Satoshi Nakamoto interviene più volte sul codice per risolvere problemi di sicurezza e stabilità del software. In 
-particolare il 15 Agosto 2010 viene sfruttato un bug che permette ad un utente della rete di creare 184,467,440,737.09551616 
+particolare il 15 agosto 2010 viene sfruttato un bug che permette ad un utente della rete di creare 184,467,440,737.09551616 
 Bitcoin. Satoshi Nakamoto interviene per riparare il software.
 
 **ENG** - https://en.bitcoin.it/wiki/Value_overflow_incident
@@ -1008,7 +1008,7 @@ Bitcoin. Satoshi Nakamoto interviene per riparare il software.
 
 <details>
 <summary>Bug importante su Bitcoin🚧⚙️</summary>
-Il 15 Agosto un utente di Bitcoin sfrutta un baco e genera 184.5 miliardi di Bitcoin. Satoshi è ancora presente, dopo poche ore 
+Il 15 agosto un utente di Bitcoin sfrutta un baco e genera 184.5 miliardi di Bitcoin. Satoshi è ancora presente, dopo poche ore 
 verrà rilasciato il nuovo client che impedisce di sfruttare il baco.
 
 **ENG** - https://bitcointalk.org/index.php?topic=822.0
@@ -1016,7 +1016,7 @@ verrà rilasciato il nuovo client che impedisce di sfruttare il baco.
 
 <details>
 <summary>Jeff Garzik suggerisce di togliere il limite di un Mega ⚔️</summary>
-Il 4 Ottobre 2010 lo sviluppatore Jeff Garzik rilascia un nuovo client che elimina il blocksize precedentemente inserito da 
+Il 4 ottobre 2010 lo sviluppatore Jeff Garzik rilascia un nuovo client che elimina il blocksize precedentemente inserito da 
 Satoshi Nakamoto. Satoshi Nakamoto non è d'accordo e suggerisce di rimandare la questione più avanti.
 
 **ENG** - https://bitcointalk.org/index.php?topic=1347.0
@@ -1043,7 +1043,7 @@ potrebbe essere vulnerabile.
 
 <details>
 <summary>Satoshi Nakamoto lascia la community</summary>
-Il 12 Dicembre 2010, Satoshi Nakamoto lascia il suo ultimo messaggio pubblico.
+Il 12 dicembre 2010, Satoshi Nakamoto lascia il suo ultimo messaggio pubblico.
 
 https://bitcointalk.org/index.php?topic=5477395.0
 </details>
@@ -1065,18 +1065,18 @@ La fondazione EFF annuncia di accettare Bitcoin come sistema di pagamento
 
 <details>
 <summary>Silk Road 🌍</summary>
-Nel Febbraio 2011 apre "The Silk Road", un sito onion su rete Tor dove è possibile commerciare beni e servizi pagando con Bitcoin.
+Nel febbraio 2011 apre "The Silk Road", un sito onion su rete Tor dove è possibile commerciare beni e servizi pagando con Bitcoin.
 </details>
 
 <details>
 <summary>Mike Hearn "impiegato Bitcoin"</summary>
-Nel Marzo 2011 Mike Hearn, sviluppatore Google, propone a Google di esser pagato per lavorare sul protocollo Bitcoin il 20% del 
+Nel marzo 2011 Mike Hearn, sviluppatore Google, propone a Google di esser pagato per lavorare sul protocollo Bitcoin il 20% del 
 suo tempo. Sarà il primo sviluppatore pagato per lavorare su Bitcoin.
 </details>
 
 <details>
 <summary>Satoshi Nakamoto(?) scrive l'ultima mail a Mike Hearn</summary>
-Mike Hearn rivela una mail ricevuta da Satoshi Nakamoto il 23 Aprile 2011 dove gli annuncia che lascia il progetto BITCOIN 
+Mike Hearn rivela una mail ricevuta da Satoshi Nakamoto il 23 aprile 2011 dove gli annuncia che lascia il progetto BITCOIN 
 definitivamente per dedicarsi ad altro e che Bitcoin è in buone mani con Gavin Andresen. Questa mail non viene messa in dubbio 
 dalla community nel 2011 ma non ne è mai 
 stata verificata l'esistenza.  
@@ -1106,7 +1106,7 @@ Wikileaks comincia ad accettare donazioni in bitcoin
 
 <details>
 <summary>Bitcoin ad un dollaro 🌍</summary>
-Il 9 Febbraio 2011 il prezzo di Bitcoin supera il valore di 1 dollaro creando una corrente mediatica che porterà alla prima bolla
+Il 9 febbraio 2011 il prezzo di Bitcoin supera il valore di 1 dollaro creando una corrente mediatica che porterà alla prima bolla
 di prezzo. In pochi 
 mesi bitcoin raggiunge il valore di 29,60 dollari per poi crollare a 2 dollari in poche ore.  
 
@@ -1114,7 +1114,7 @@ mesi bitcoin raggiunge il valore di 29,60 dollari per poi crollare a 2 dollari i
 
 <details>
 <summary>P2Pool + la prima Mining Pool Decentralizzata 🔍</summary>
-Il 17 Luglio 2011 nasce P2Pool. È la prima mining pool decentralizzata senza coordinatore centrale.
+Il 17 luglio 2011 nasce P2Pool. È la prima mining pool decentralizzata senza coordinatore centrale.
 </details>
 
 <details>
@@ -1141,8 +1141,8 @@ Ad inizio 2012, nella puntata Bitcoin for Dummies della serie tv "The God Wife",
 Gavin Andresen che ha "preso il posto di Satoshi Nakamoto", propone Bip 16 (P2SH). Non riceve consenso dalla community ed in 
 particolare lo sviluppatore Luke Dashjr propone BIP 17.  
 Gavin Andresen propone che, se almeno il 55% dei miner è favorevole a Bip 16, verrà implementato P2SH. Gavin mette come data 
-limite per raggiungere il consenso il 1° Febbraio 2012.  
-Il 55% non viene raggiunto, ma Gavin attiva comunque BIP 16 il 1° Aprile.  
+limite per raggiungere il consenso il 1° febbraio 2012.  
+Il 55% non viene raggiunto, ma Gavin attiva comunque BIP 16 il 1° aprile.  
   
 [**ENG**](https://bips.dev/16/)  
 
@@ -1180,7 +1180,7 @@ A fine anno Gavin Andresen viene assunto dalla Bitcoin Foundation e stipendiato 
 
 <details>
 <summary>Bitcoin core</summary>
-Mike Hearn a Febbraio convince Gavin a rinominare il software Bitcoin in Bitcoin Core per distinguere il software dalla moneta.
+Mike Hearn a febbraio convince Gavin a rinominare il software Bitcoin in Bitcoin Core per distinguere il software dalla moneta.
 </details>
 
 <details>
@@ -1204,7 +1204,7 @@ si è verificato un double-spending di 211.909 Bitcoin.
 
 <details>
 <summary>95% per il consenso🌱</summary>
-Il 24 Marzo viene attivato il BIP 34 che richiede di inserire l'altezza del blocco nello scriptSig della transazione coinbase. A
+Il 24 marzo viene attivato il BIP 34 che richiede di inserire l'altezza del blocco nello scriptSig della transazione coinbase. A
 differenza delle BIP precedenti, per attivare questa proposta, si è dovuto raggiungere il 95% del consenso dei miner.
 </details>
 
@@ -1215,12 +1215,12 @@ Il 17 maggio 2013 torna ad accettare Bitcoin.
 
 <details>
 <summary>Wikileaks riaccetta Bitcoin 🌍</summary>
-14 Giugno 2013 Wikileaks torna ad accettare Bitcoin.
+14 giugno 2013 Wikileaks torna ad accettare Bitcoin.
 </details>
 
 <details>
 <summary>19 agosto Gregory Maxwell - Sidechain🌱🔍</summary>
-Il 19 Agosto Gregory Maxwell propone coinwitness, la prima idea di sidechain. 
+Il 19 agosto Gregory Maxwell propone coinwitness, la prima idea di sidechain. 
   
 **ENG** - [Bitcointalk](https://bitcointalk.org/index.php?topic=277389.0)
 </details>
@@ -1253,7 +1253,7 @@ Il primo Ban di Bitcoin da parte del governo cinese.
 
 <details>
 <summary>Mt Gox, not your keys not your bitcoin</summary>
-Dopo svariati hack subiti dall'exchange negli anni, MtGox, il 24 Febbraio 2014, è offline e le persone che hanno i bitcoin 
+Dopo svariati hack subiti dall'exchange negli anni, MtGox, il 24 febbraio 2014, è offline e le persone che hanno i bitcoin 
 depositati sull'exchange non li otterranno più indietro. 
   
 **ENG** - [MEDIUM](https://medium.com/@bishr_tabbaa/the-rise-and-fall-of-mt-gox-whats-in-your-bitcoin-wallet-bd5eb4106f4e)
@@ -1262,14 +1262,14 @@ depositati sull'exchange non li otterranno più indietro.
 <details>
 <summary>Gavin Andresen out ⚔️🟢</summary>
   
-Il 7 Aprile 2014 Gavin Andresen lascia il controllo su GitHub. Il suo ruolo passa a Wladimir van der Laan. 
+Il 7 aprile 2014 Gavin Andresen lascia il controllo su GitHub. Il suo ruolo passa a Wladimir van der Laan. 
   
 **ENG** - [BitcoinWiki](https://en.bitcoin.it/wiki/Wladimir_van_der_Laan)
 </details>
 
 <details>
 <summary>Blockstream ⚔️🟠🔍</summary>
-Viene fondata Blockstream il 19 Novembre 2014. Blockstream mira a sviluppare strumenti per Bitcoin.  
+Viene fondata Blockstream il 19 novembre 2014. Blockstream mira a sviluppare strumenti per Bitcoin.  
   
 **ENG** - [Wikipedia](https://en.wikipedia.org/wiki/Blockstream)
 
@@ -1277,7 +1277,7 @@ Viene fondata Blockstream il 19 Novembre 2014. Blockstream mira a sviluppare str
 
 <details>
 <summary>Mike Hearn lancia Bitcoin XT ⚔️🟢</summary>
-Il 27 Dicembre 2014 Mike Hearn rilascia Bitcoin XT. Bitcoin XT è un client alternativo di Bitcoin Core che implementa la BIP 64.  
+Il 27 dicembre 2014 Mike Hearn rilascia Bitcoin XT. Bitcoin XT è un client alternativo di Bitcoin Core che implementa la BIP 64.  
   
 **ENG** - [BitcoinWiki](https://en.bitcoin.it/wiki/Bitcoin_XT)
 
@@ -1292,7 +1292,7 @@ Il 27 Dicembre 2014 Mike Hearn rilascia Bitcoin XT. Bitcoin XT è un client alte
 
 <details>
 <summary>Blockchain Lab ⚔️🟠</summary>
-A Gennaio 2015 nasce BlockchainLab a Milano. Diventa un punto di ritrovo per sviluppatori che prenderà posizione nella block size 
+A gennaio 2015 nasce BlockchainLab a Milano. Diventa un punto di ritrovo per sviluppatori che prenderà posizione nella block size 
 war.
 </details>
 
@@ -1318,7 +1318,7 @@ consenso da parte della rete.
 BIP 101.
   
 Gavin Andresen con la BIP 101 🚨 propone un hard fork per aumentare la dimensione del blocco ogni anno. La
-scadenza per l'implementazione è l' 11 Gennaio 2016, altrimenti passerà su Bitcoin XT. Non trova consenso.
+scadenza per l'implementazione è l' 11 gennaio 2016, altrimenti passerà su Bitcoin XT. Non trova consenso.
 
 BIP 102.
   
@@ -1340,7 +1340,7 @@ trova consenso.
 
 <details>
 <summary>ETHEREUM</summary>
-Il 30 Luglio 2015 Vitalik Buterin lancia Ethereum.
+Il 30 luglio 2015 Vitalik Buterin lancia Ethereum.
 </details>
 
 <details>
@@ -1365,7 +1365,7 @@ dichiarare fallito. Non c'è certezza che questa mail giunga da Satoshi Nakamoto
 <details>
 <summary>Moderazione o Censura</summary>
 Sul forum di Bitcoin Reddit gestito da Theymus si parla di Bitcoin XT e blocchi grandi. Theymus invita le persone interessate a 
-questi argomenti ad aprire un forum dedicato. Il 17 Agosto Theymus banna alcune persone che volevano parlare di Bitcoin XT sul 
+questi argomenti ad aprire un forum dedicato. Il 17 agosto Theymus banna alcune persone che volevano parlare di Bitcoin XT sul 
 forum Bitcoin perché era più popolato. Anche Bitcoin Jesus (Roger Ver) è bannato dal forum e, in futuro,  diventerà sostenitore di molte shitcoin
   
 </details>
@@ -1385,7 +1385,7 @@ di blocchi più grandi che sulla fattibilità della loro implementazione."
 <details>
 <summary>Scaling Bitcoin 1 - Lightning Network🌱🔍</summary>
 Per provare a risolvere la questione "dimensione dei blocchi" vengono organizzate delle conferenze con il nome Scaling 
-Bitcoin. Il primo appuntamento è a Montreal l' 11 e il 12 Settembre. La discussione sui blocchi verrà interrotta da Gregory 
+Bitcoin. Il primo appuntamento è a Montreal l' 11 e il 12 settembre. La discussione sui blocchi verrà interrotta da Gregory 
 Maxwell perché, secondo lui, Bitcoin deve essere discusso su internet e non a porte chiuse. Nel frattempo, Thaddeus Dryja e 
 Joseph Poon propongono per la prima volta Lightning Network.  
   
@@ -1394,7 +1394,7 @@ Joseph Poon propongono per la prima volta Lightning Network.
 
 <details>
 <summary>Scaling Bitcoin 2 - Segwit 🌱🔍</summary>
-Il secondo appuntamento è a Hong Kong il 6 e 7 Dicembre. Emerge Segwit (Segregated Witness) presentata da Pieter Wuille. Questo 
+Il secondo appuntamento è a Hong Kong il 6 e 7 dicembre. Emerge Segwit (Segregated Witness) presentata da Pieter Wuille. Questo 
 soft fork  avrebbe reso possibile lo sviluppo di Lightning Network. Luke Dashjr deduce inoltre, che Segwit non solo può 
 abilitare Lightning, ma permette anche l'aumento della dimensione del blocco tramite soft fork (non con hard fork come proposto
 dalle BIP precedenti).  
@@ -1418,12 +1418,12 @@ Segwit sia implementato con hard fork.
 
 <details>
 <summary>Coinbase supporta Bitcoin XT🚨</summary>
-Il 3 Gennaio 2016 Brian Armstrong, CEO di Coinbase, annuncia che Bitcoin XT è supportato e che Bitcoin Core non sarà supportato.
+Il 3 gennaio 2016 Brian Armstrong, CEO di Coinbase, annuncia che Bitcoin XT è supportato e che Bitcoin Core non sarà supportato.
 </details>
 
 <details>
 <summary>Fine di Bitcoin XT</summary>
-Mike Hearn, il 14 Gennaio, dichiara l'esperimento Bitcoin fallito. Secondo Mike Hearn, Bitcoin Core non funziona senza BIP 101 ed
+Mike Hearn, il 14 gennaio, dichiara l'esperimento Bitcoin fallito. Secondo Mike Hearn, Bitcoin Core non funziona senza BIP 101 ed
 è centralizzato, mentre Bitcoin XT non ha ricevuto l'attenzione meritata per via della censura e dei fondi necessari.  
   
 **ENG** - https://blog.plan99.net/the-resolution-of-the-bitcoin-experiment-dabb30201f7
@@ -1441,7 +1441,7 @@ https://www.wired.com/2015/12/bitcoins-creator-satoshi-nakamoto-is-probably-this
 
 <details>
 <summary>Bitcoin Classic⚔️🟢</summary>
-Il 10 Febbraio 2016 Gavin lancia un fork di Bitcoin per aumentare le dimensioni del blocco. Il fork si chiama Bitcoin Classic.
+Il 10 febbraio 2016 Gavin lancia un fork di Bitcoin per aumentare le dimensioni del blocco. Il fork si chiama Bitcoin Classic.
 </details>
 
 <details>
@@ -1463,23 +1463,23 @@ http://gavinandresen.ninja/satoshi
 
 <details>
 <summary>Craig Wright è Faketoshi</summary>
-Il 3 Maggio Craig Wright pubblica una firma di transazione pubblica codificata in Base64 che non prova nulla.  
+Il 3 maggio Craig Wright pubblica una firma di transazione pubblica codificata in Base64 che non prova nulla.  
 **ENG**https://www.reddit.com/r/Bitcoin/comments/4hflr3/craig_wrights_signature_is_worthless/
 </details>
 
 <details>
 <summary>Gavin è fuori senza chiavi Github</summary>
-Il 6 Maggio Wladimir J. van der Laan rimuove la chiave di accesso GitHub di Gavin Andresen.
+Il 6 maggio Wladimir J. van der Laan rimuove la chiave di accesso GitHub di Gavin Andresen.
 </details>
 
 <details>
 <summary>Bitcoin HALVING🎉</summary>
-Il 9 Luglio avviene il dimezzamento della produzione di nuovi BTC ad ogni blocco. La nuova offerta è di 12,5 bitcoin per blocco.
+Il 9 luglio avviene il dimezzamento della produzione di nuovi BTC ad ogni blocco. La nuova offerta è di 12,5 bitcoin per blocco.
 </details>
 
 <details>
 <summary>Ethereum DAO hack</summary>
-Il 23 Luglio avviene il DAO hack su ETHEREUM. Gli investitori, tra cui Vitalik, perdono molti soldi. Avviene uno split della 
+Il 23 luglio avviene il DAO hack su ETHEREUM. Gli investitori, tra cui Vitalik, perdono molti soldi. Avviene uno split della 
 catena, una che continua la storia della catena senza interventi (Ethereum Classic) e una che riavvolge la catena a prima 
 dell'attacco alla DAO (Ethereum).  
 
@@ -1497,7 +1497,7 @@ personalizzabili.
 
 <details>
 <summary>BOLT🌱🔍⚔️🟠</summary>
-Nei giorni 8 e 9 Ottobre a Milano si svolge la conferenza Scaling Bitcoin ospitata da BlockchainLab. Il tema della conferenza è
+Nei giorni 8 e 9 ottobre a Milano si svolge la conferenza Scaling Bitcoin ospitata da BlockchainLab. Il tema della conferenza è
 come si può scalare Bitcoin offchain. Nei giorni successivi all'evento BlockchainLab ha ospitato negli uffici di Milano gli 
 sviluppatori che stavano lavorando a soluzioni scalabili Offchain come Blockstream, Acinq, Lightning Labs, BitFury, AmicoPay. Da
 questo incontro nasce BOLT (Basics of Lightning Technology) inizialmente chiamato Milan Protocol.  
@@ -1509,7 +1509,7 @@ questo incontro nasce BOLT (Basics of Lightning Technology) inizialmente chiamat
 
 <details>
 <summary>Versione Bitcoin con Segwit Soft Fork🌱🔍</summary>
-A Novembre 2016 viene rilasciata la versione 0.13.1 di Bitcoin Core con il Soft Fork Segwit e l'aumento delle dimensioni del
+A novembre 2016 viene rilasciata la versione 0.13.1 di Bitcoin Core con il Soft Fork Segwit e l'aumento delle dimensioni del
 blocco con un meccanismo di attivazione che richiede il 95% del consenso per essere attivato.  
   
 **ENG** - https://bitcoincore.org/en/releases/0.13.1/
@@ -1530,7 +1530,7 @@ sconosciute. Bitmain ha molta potenza di calcolo, quindi rende impossibile il so
 
 <details>
 <summary>UASF BIP 148 (User Activated Soft Fork)🌱⚔️🟠</summary>
-Il 21 Marzo 2017 l'anonimo Shaolinfry propone la BIP 148 che implementa il soft fork di Segwit. UASF è stato creato per impedire
+Il 21 marzo 2017 l'anonimo Shaolinfry propone la BIP 148 che implementa il soft fork di Segwit. UASF è stato creato per impedire
 ai miner di bloccare il soft-fork. Il rischio è che, se non trova consenso, la rete splitta ed una parte della rete non ha hash 
 power dei miner. Se l'aggiornamento trova consenso, allora i miner si trovano costretti ad aggiornare a segwit. L'idea è che gli utenti decidano cos'è Bitcoin ed i miner prestino servizio agli utenti. Per questo l'acronimo è UASF "User Activated Soft Fork".
 
@@ -1539,7 +1539,7 @@ power dei miner. Se l'aggiornamento trova consenso, allora i miner si trovano co
 
 <details>
 <summary>I nodi di Bitcoin Unlimited arrivano al pettine</summary>
-Il 17 Marzo 2017 diverse importanti piattaforme di scambio, tra cui Bitfinex, Kraken e Bitstamp, dopo alcuni bug importanti e quasi nessuna adozione in termini di utenti e developer, comunicano che non supporteranno più il progetto di Bitcoin Unlimited.
+Il 17 marzo 2017 diverse importanti piattaforme di scambio, tra cui Bitfinex, Kraken e Bitstamp, dopo alcuni bug importanti e quasi nessuna adozione in termini di utenti e developer, comunicano che non supporteranno più il progetto di Bitcoin Unlimited.
 
 **ENG** - https://blog.bitmex.com/the-blocksize-war-chapter-13-exchanges/
 </details>
@@ -1554,7 +1554,7 @@ di esprimere opinioni con un reale coinvolgimento finanziario. Di conseguenza, i
 
 <details>
 <summary>Bitmain Covert AsicBoost🚨</summary>
-Il 5 Aprile 2017 Gregory Maxwell, all'epoca CTO di Blockstream, ha rivelato che Bitmain aveva implementato l'exploit "covert 
+Il 5 aprile 2017 Gregory Maxwell, all'epoca CTO di Blockstream, ha rivelato che Bitmain aveva implementato l'exploit "covert 
 AsicBoost" nel suo hardware. Questo software, installato da Bitmain sulle ASICS vendute ai clienti, permetteva di sottrarre il 20-
 30 % di potenza di calcolo dai proprietari delle macchine e di usarla per sè ad insaputa degli acquirenti. Covert AsicBoost 
 funzionava solo in caso di segwit hard fork e non con soft fork.
@@ -1564,7 +1564,7 @@ funzionava solo in caso di segwit hard fork e non con soft fork.
 
 <details>
 <summary>Bitmain Scandalo Antbleed🚨⚔</summary>
-Il 27 Aprile 2017 Gregory Maxwell e altri sviluppatori scoprono che i firmware degli ASIC prodotti da BITMAIN avrebbero reso 
+Il 27 aprile 2017 Gregory Maxwell e altri sviluppatori scoprono che i firmware degli ASIC prodotti da BITMAIN avrebbero reso 
 possibile all'azienda di spegnere le macchine da remoto.
 
 **ENG** - https://bitcointalk.org/index.php?topic=1888573.0
@@ -1572,7 +1572,7 @@ possibile all'azienda di spegnere le macchine da remoto.
 
 <details>
 <summary>NYA BIG BLOCK🚨⚔️🟢</summary>
-Il 22 Maggio, a New York, c'è una conferenza organizzata da Coin Desk che si chiama Consensus. All'apertura della 
+Il 22 maggio, a New York, c'è una conferenza organizzata da Coin Desk che si chiama Consensus. All'apertura della 
 conferenza viene annunciato che il New York Agreement con le più importanti aziende Bitcoin (Coinbase, BitPay, Bitmain etc...) ha
 trovato il modo di implementare l'aumento della grandezza dei blocchi e segwit con hard fork. Nei giorni successivi molte aziende 
 Bitcoin si aggregano a questa proposta. La proposta è BIP 91 con il software BTC1.
@@ -1582,12 +1582,12 @@ Bitcoin si aggregano a questa proposta. La proposta è BIP 91 con il software BT
 
 <details>
 <summary>Bitcoin Cash⚔️🟢</summary>
-Il 1 Agosto Bitcoin splitta e nasce Bitcoin Cash con blocchi più grandi e senza l'implementazione di segwit.
+Il 1 agosto Bitcoin splitta e nasce Bitcoin Cash con blocchi più grandi e senza l'implementazione di segwit.
 </details>
 
 <details>
 <summary>Da Bitpay a BTCPay Server🔍</summary>
-Il 17 Agosto 2017 BitPay manda una mail ai suoi clienti invitandoli a scaricare una versione di Bitcoin incompatibile con il 
+Il 17 agosto 2017 BitPay manda una mail ai suoi clienti invitandoli a scaricare una versione di Bitcoin incompatibile con il 
 consenso di Bitcoin Core che si chiama BTC1 (software del NYA) per ragioni di sicurezza. Lo sviluppatore Francese Nicolas Dorier, 
 infastidito dal comportamento di BitPay scrive in un Tweet "This is lies, my trust in you is broken, I will make you obsolete" e 
 crea BTCPay Server.
@@ -1595,7 +1595,7 @@ crea BTCPay Server.
 
 <details>
 <summary>SEGWIT è attivo su Bitcoin Core ⚙️</summary>
-Il giorno 24 Agosto Segwit è attivo con la proposta di soft fork BIP 141.
+Il giorno 24 agosto Segwit è attivo con la proposta di soft fork BIP 141.
 
 **ENG** -   https://coinexplorers.com/insights/get-ready-for-fud-bitpay-directing-users-to-upgrade-to-btc1-nodes_6uayna  
 **TWEET** - https://x.com/NicolasDorier/status/898378514256207872
@@ -1603,24 +1603,24 @@ Il giorno 24 Agosto Segwit è attivo con la proposta di soft fork BIP 141.
 
 <details>
 <summary> FINE BLOCK SIZE WAR 🟠</summary>
-Il giorno 8 Novembre viene abortito il fork di New York Agreement perchè non c'è consenso. Pochi giorni dopo si scopre che il 
+Il giorno 8 novembre viene abortito il fork di New York Agreement perchè non c'è consenso. Pochi giorni dopo si scopre che il 
 codice di BTC1 avrebbe spento tutta la rete di Bitcoin dopo l'hard fork per un bug presente nel codice.
 </details>
 
 <details>
 <summary>Bitcoin core bug inflattivo 🚧⚙️</summary>
-Il 14 Novembre 2017 uno sviluppatore di Bitcoin Cash scopre un bug inflattivo su Bitcoin core. Era un baco introdotto poco prima
+Il 14 novembre 2017 uno sviluppatore di Bitcoin Cash scopre un bug inflattivo su Bitcoin core. Era un baco introdotto poco prima
 che, se sfruttato, avrebbe causato un altro episodio di inflazione incontrollata su Bitcoin.
 </details>
 
 <details>
 <summary>Steam non accetta più Bitcoin</summary>
-Il 7 Dicembre 2017 Steam smette di accettare Bitcoin.
+Il 7 dicembre 2017 Steam smette di accettare Bitcoin.
 </details>
 
 <details>
 <summary>Bitcoin Futures</summary>
-Il 9 Dicembre 2017 vengono annunciati i primi future su Bitcoin.
+Il 9 dicembre 2017 vengono annunciati i primi future su Bitcoin.
 </details>
 
 </details>
@@ -1637,7 +1637,7 @@ Il 22 gennaio 2018 Gregory Maxwell su Bitcoin Dev mailing list rilascia l'idea T
 
 <details>
 <summary>THE BITCOIN STANDARD 🌍</summary>
-Il 23 Marzo viene pubblicato il libro "The Bitcoin Standard" di Saifedean Ammous. Il libro ha molto successo, in molti dopo la sua lettura, si avvicinano a Bitcoin.
+Il 23 marzo viene pubblicato il libro "The Bitcoin Standard" di Saifedean Ammous. Il libro ha molto successo, in molti dopo la sua lettura, si avvicinano a Bitcoin.
 </details>
 
 <details>
@@ -1649,7 +1649,7 @@ Il 30 aprile 2018 Christian Decker, Rusty Russell e Olaoluwa Osuntokun pubblican
 
 <details>
 <summary>RGB 🔍🌱</summary>
-Il 3 Luglio 2018 Giacomo Zucco a Lisbona presenta RGB.
+Il 3 luglio 2018 Giacomo Zucco a Lisbona presenta RGB.
 
 **ENG** - https://rgb.info/
 </details>
@@ -1663,7 +1663,7 @@ Il 3 Luglio 2018 Giacomo Zucco a Lisbona presenta RGB.
 
 <details>
 <summary>Lightning Torch 🌱🌍</summary>
-Hodlonaut, il 19 Gennaio 2019, per promuovere l'uso della rete Lightning di Bitcoin scrive un tweet dove offrirà 100.000 satoshi alla prima persona che risponde. Questa persona aggiungerà 10.000 satoshi per un altro partecipante. L'iniziativa, che oinvolgerà 
+Hodlonaut, il 19 gennaio 2019, per promuovere l'uso della rete Lightning di Bitcoin scrive un tweet dove offrirà 100.000 satoshi alla prima persona che risponde. Questa persona aggiungerà 10.000 satoshi per un altro partecipante. L'iniziativa, che oinvolgerà 
 figure come Jack Dorsey ed Elizabeth Stark, terminerà il 13 aprile. La transazione passerà anche in Iran violando le 
 restrizioni e arriverà infine in Bitcoin Venezuela, dove verranno raccolti tutti i satoshi.
 </details>
@@ -1693,14 +1693,14 @@ catena pagando i miner per orfanare i blocchi e rifare le transazioni. Non riusc
 
 <details>
 <summary>LNP/BP 🔍</summary>
-Il 1 Ottobre Giacomo Zucco e Maxim Orlovsky fondano l'associazione no profit LNP/BP.
+Il 1 ottobre Giacomo Zucco e Maxim Orlovsky fondano l'associazione no profit LNP/BP.
 
 https://github.com/LNP-BP
 </details>
 
 <details>
 <summary>Bitfinex + Lightning 🌍</summary>
-Il 3 Dicembre l'exchange Bitfinex integra Lightning Network.
+Il 3 dicembre l'exchange Bitfinex integra Lightning Network.
 
 **ITA** - https://it.cointelegraph.com/news/bitcoin-lightning-network-payments-hit-bitfinex-in-industry-first  
 **ENG** - https://cointelegraph.com/news/bitcoin-lightning-network-payments-hit-bitfinex-in-industry-first
@@ -1708,7 +1708,7 @@ Il 3 Dicembre l'exchange Bitfinex integra Lightning Network.
 
 <details>
 <summary>Phoenix Wallet Lightning 🔍</summary>
-Il 12 Dicembre 2019 viene rilasciato il Wallet Lightning Phoenix.
+Il 12 dicembre 2019 viene rilasciato il Wallet Lightning Phoenix.
 </details>
 
 </details>
@@ -1728,19 +1728,19 @@ OP_CHECKTEMPLATEVERIFY.
 
 <details>
 <summary>Taproot BIP 341 di SIPA 🔍</summary>
-Sipa, il 19 Gennaio 2020, propone la BIP 341. Sarà la BIP che implementa l'aggiornamento Taproot.
+Sipa, il 19 gennaio 2020, propone la BIP 341. Sarà la BIP che implementa l'aggiornamento Taproot.
 
 https://bips.dev/341/
 </details>
 
 <details>
 <summary>COVID DROP</summary>
-Sono sempre di più le restrizioni imposte per l'emergenza COVID.  Il 12 Marzo 2020 Bitcoin crolla a 3300 dollari.
+Sono sempre di più le restrizioni imposte per l'emergenza COVID.  Il 12 marzo 2020 Bitcoin crolla a 3300 dollari.
 </details>
 
 <details>
 <summary>HALVING 🎉</summary>
-L'11 Maggio 2020 avviene il terzo Halving. La nuova offerta è di 6.25 bitcoin per blocco.
+L'11 maggio 2020 avviene il terzo Halving. La nuova offerta è di 6.25 bitcoin per blocco.
 </details>
 
 </details>
@@ -1752,7 +1752,7 @@ L'11 Maggio 2020 avviene il terzo Halving. La nuova offerta è di 6.25 bitcoin p
 
 <details>
 <summary>La bolla di Tesla</summary>
-L'8 Febbraio Elon Musk con la sua azienda Tesla compra Bitcoin e accetta Bitcoin come sistema di pagamento. Bitcoin cresce di 
+L'8 febbraio Elon Musk con la sua azienda Tesla compra Bitcoin e accetta Bitcoin come sistema di pagamento. Bitcoin cresce di 
 valore rispetto al dollaro molto velocemente.
 </details>
 
@@ -1763,7 +1763,7 @@ Il 12 febbraio comincia la campagna "Laser Eye until 100k".
 
 <details>
 <summary>Taproot Speedy Trial ⚙️</summary>
-Il 6 Marzo comincia la votazione dei miner per il consenso a Taproot. Il consenso minimo del 90% viene raggiunto entro i 3 mesi e 
+Il 6 marzo comincia la votazione dei miner per il consenso a Taproot. Il consenso minimo del 90% viene raggiunto entro i 3 mesi e 
 si procede per l'attivazione di Taproot.
 
 **ENG** - https://taprootactivation.com/
@@ -1771,7 +1771,7 @@ si procede per l'attivazione di Taproot.
 
 <details>
 <summary>Marathon OFAC Compliant</summary>
-Il 6 Maggio Marathon, la società bitcoin quotata in borsa, scrive in un blocco "questo è un blocco OFAC compliant". I bitcoiner 
+Il 6 maggio Marathon, la società bitcoin quotata in borsa, scrive in un blocco "questo è un blocco OFAC compliant". I bitcoiner 
 fanno coinjoin come movimento di ribellione, transazioni in Iran e piccole transazioni sull'indirizzo Coinbase di Marathon.
 
 **TWEET** - https://x.com/thomasheller_/status/1390282795558137860
@@ -1779,12 +1779,12 @@ fanno coinjoin come movimento di ribellione, transazioni in Iran e piccole trans
 
 <details>
 <summary>Tesla non accetta più Bitcoin come mezzo di pagamento</summary>
-Tesla il 19 Maggio smette di accettare Bitcoin come mezzo di pagamento e mantiene le riserve di Bitcoin acquistate.
+Tesla il 19 maggio smette di accettare Bitcoin come mezzo di pagamento e mantiene le riserve di Bitcoin acquistate.
 </details>
 
 <details>
 <summary>Cina ban</summary>
-Il 21 Maggio il governo cinese banna il mining sul suolo Cinese.
+Il 21 maggio il governo cinese banna il mining sul suolo Cinese.
 
 **ITA** - https://koinsquare.com/tutte-le-volte-cina-ha-bannato-bitcoin/  
 **ENG** - https://edition.cnn.com/2021/05/24/investing/bitcoin-mining-china-crackdown-intl-hnk/index.html
@@ -1792,7 +1792,7 @@ Il 21 Maggio il governo cinese banna il mining sul suolo Cinese.
 
 <details>
 <summary>EL SALVADOR SU BITCOIN 🌍</summary>
-Il 5 Giugno, durante Bitcoin conference di Miami, viene annunciato che El Salvador adotterà Bitcoin come valuta a corso legale.
+Il 5 giugno, durante Bitcoin conference di Miami, viene annunciato che El Salvador adotterà Bitcoin come valuta a corso legale.
 </details>
 
 <details>
@@ -1802,20 +1802,20 @@ Il 12 giugno termina il meccanismo di attivazione di Taproot speedy trial con ol
 
 <details>
 <summary>Bitcoin è legal tender in El Salvador 🌍</summary>
-Il 7 Settembre Bitcoin è moneta a corso legale in El Salvador.
+Il 7 settembre Bitcoin è moneta a corso legale in El Salvador.
 
 **ITA** - https://atlas21.com/it/7-settembre-2021-bitcoin-diventa-moneta-a-corso-legale-in-el-salvador-un-bilancio-a-tre-anni-dallintroduzione/  
 **ENG** - https://atlas21.com/september-7-2021-bitcoin-becomes-legal-tender-in-el-salvador-a-three-year-review-after-the-introduction/
 </details>
 
 <details>
-<summary>Novembre conferenza Adopting Bitcoin a San Salvador 🌍</summary>
-A Novembre si svolge la conferenza Adopting Bitcoin a San Salvador.
+<summary>novembre conferenza Adopting Bitcoin a San Salvador 🌍</summary>
+A novembre si svolge la conferenza Adopting Bitcoin a San Salvador.
 </details>
 
 <details>
 <summary>TAPROOT è attivo su Bitcoin ⚙️</summary>
-Dal 14 Novembre Taproot viene attivato.
+Dal 14 novembre Taproot viene attivato.
 
 **ITA** - https://atlas21.com/it/che-cose-taproot/  
 **ENG** - https://cointelegraph.com/news/breaking-the-bitcoin-network-welcomes-taproot-soft-fork-upgrade
@@ -1830,7 +1830,7 @@ Dal 14 Novembre Taproot viene attivato.
 
 <details>
 <summary>BIP 119 - Jeremy Rubin 🔍</summary>
-Il 19 Aprile Jeremy Rubin propone la BIP 119 con l'uso di speedy trial per l'aggiornamento CTV (Check Template Verify).
+Il 19 aprile Jeremy Rubin propone la BIP 119 con l'uso di speedy trial per l'aggiornamento CTV (Check Template Verify).
 
 **ENG** - https://bips.dev/119/
 </details>
@@ -1847,7 +1847,7 @@ Il 19 Aprile Jeremy Rubin propone la BIP 119 con l'uso di speedy trial per l'agg
 <details>
 <summary>Bitcoin ETF 🔍</summary>
   
-Il 10 Gennaio la SEC approva gli ETF su Bitcoin
+Il 10 gennaio la SEC approva gli ETF su Bitcoin
 
 </details>
 
@@ -1855,6 +1855,6 @@ Il 10 Gennaio la SEC approva gli ETF su Bitcoin
 <details>
 <summary>HALVING🎉</summary>
   
-Il 20 Aprile 2024 avviene il 4° Halving e la nuova offerta di Bitcoin, ogni 10 minuti, è di 3,125 Bitcoin.
+Il 20 aprile 2024 avviene il 4° Halving e la nuova offerta di Bitcoin, ogni 10 minuti, è di 3,125 Bitcoin.
 
 </details>
