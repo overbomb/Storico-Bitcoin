@@ -638,7 +638,7 @@ http://www.weidai.com/bmoney.txt
 
 <details>
 <summary>Liberty dollar - Bernard von NotHaus 🪙</summary>
-Bernard von NotHaus cercava una soluzione al denaro Fiat inflazionato.
+Bernard von NotHaus cercava una soluzione al denaro fiat inflazionato.
 Il Liberty Dollar era strutturato attorno ad un sistema di riserva di metalli preziosi che, in origine, comprendeva solo oro e 
 argento. Ogni emissione di Liberty Dollar era direttamente correlata alla quantità di oro o argento custodita presso la società 
 di von NotHaus. Nel 2007 oltre 250 mila persone detenevano certificati di liberty dollar. Nel 2009 fù costretto a chiudere 
@@ -661,7 +661,7 @@ l'attività perchè accusato di vari crimini.
 
 <details>
 <summary>Peter Tiel - coinfinity 🪙</summary>
-Peter Tiel nel 1998 vuole creare una moneta per internet, indipendete dalle valute FIAT.
+Peter Tiel nel 1998 vuole creare una moneta per internet, indipendete dalle valute fiat.
 </details>
 
 </details>
@@ -985,7 +985,7 @@ possono contenere più di 1 Mb di dati.
 
 <details>
 <summary>Primo blocco minato con GPU</summary>
-Il 18 Luglio 2010 viene minato il primo blocco minato con GPU.
+Il 18 Luglio 2010 viene minato il primo blocco con GPU.
 
 https://bitcoin.stackexchange.com/questions/3572/when-was-the-first-gpu-miner-made-available-publicly
 </details>
@@ -1057,7 +1057,7 @@ https://bitcointalk.org/index.php?topic=5477395.0
 
 <details>
 <summary>La fondazione Electronic Frontier Foundation (EFF) accetta Bitcoin 🌍</summary>
-La fondazione EFF annuncia di Accettare Bitcoin come sistema di pagamento  
+La fondazione EFF annuncia di accettare Bitcoin come sistema di pagamento  
   
 **ENG** - [Wikipedia](https://en.wikipedia.org/wiki/Electronic_Frontier_Foundation)
 
@@ -1070,7 +1070,7 @@ Nel Febbraio 2011 apre "The Silk Road", un sito onion su rete Tor dove è possib
 
 <details>
 <summary>Mike Hearn "impiegato Bitcoin"</summary>
-Nel Marzo 2011 Mike Hearn sviluppatore Google, propone a Google di esser pagato per lavorare sul protofollo Bitcoin il 20% del 
+Nel Marzo 2011 Mike Hearn, sviluppatore Google, propone a Google di esser pagato per lavorare sul protocollo Bitcoin il 20% del 
 suo tempo. Sarà il primo sviluppatore pagato per lavorare su Bitcoin.
 </details>
 
@@ -1119,7 +1119,7 @@ Il 17 Luglio 2011 nasce P2Pool. È la prima mining pool decentralizzata senza co
 
 <details>
 <summary>BIP (Bitcoin Improvement Proposal)🔍</summary>
-Nel settembre 2011 Amir Taaki ha l'idea ed implementa i *Bitcoin Improvement Proposal* (BIP).
+Nel settembre 2011 Amir Taaki ha l'idea ed implementa i "Bitcoin Improvement Proposal" (BIP).
   
 [**ENG**](https://bips.dev/1/)
 </details>
@@ -1133,15 +1133,15 @@ Nel settembre 2011 Amir Taaki ha l'idea ed implementa i *Bitcoin Improvement Pro
 
 <details>
 <summary>Bitcoin for Dummies 🌍</summary>
-Ad inizio 2012, nella puntata Bitcoin for Dummies della serie tv "The God Wife" viene citato Bitcoin.
+Ad inizio 2012, nella puntata Bitcoin for Dummies della serie tv "The God Wife", viene citato Bitcoin.
 </details>
 
 <details>
 <summary>BIP16 vs BIP17🚨⚙️</summary>
-Gavin Andresen che ha "preso il posto di Satoshi Nakamoto" propone Bip 16 (P2SH). Non riceve consenso dalla community ed in particolare lo 
-sviluppatore Luke Dashjr propone BIP 17.  
-Gavin Andresen propone che se almeno il 55% dei miner sono favorevoli a Bip 16 verrà implementato P2SH. Gavin mette come data limite il 1° Febbraio
-2012.  
+Gavin Andresen che ha "preso il posto di Satoshi Nakamoto", propone Bip 16 (P2SH). Non riceve consenso dalla community ed in 
+particolare lo sviluppatore Luke Dashjr propone BIP 17.  
+Gavin Andresen propone che, se almeno il 55% dei miner è favorevole a Bip 16, verrà implementato P2SH. Gavin mette come data 
+limite per raggiungere il consenso il 1° Febbraio 2012.  
 Il 55% non viene raggiunto, ma Gavin attiva comunque BIP 16 il 1° Aprile.  
   
 [**ENG**](https://bips.dev/16/)  
@@ -1154,15 +1154,15 @@ Il 55% non viene raggiunto, ma Gavin attiva comunque BIP 16 il 1° Aprile.
 
 <details>
 <summary>BIP 30 Gavin Andresen Soft Fork🚨⚙️</summary>
-Gavin Andresen, decide di fare un soft fork per impedire che si verifichino 2 transazioni con lo stesso ID.  
+Gavin Andresen decide di fare un soft fork per impedire che si verifichino 2 transazioni con lo stesso ID.  
 Ancora una volta Gavin Andresen implementa il codice senza preoccuparsi molto dell'opinione degli utenti e della comunità.
 </details>
 
 <details>
 <summary>Bitcoin Foundation🚨⚔️🟢</summary>
-A settembre 2012 viene creata la fondazione Bitcoin Foundation. Gavin Andresen è chief scientist. Questo evento porta a discussioni sulla 
-centralizzazione del progetto bitcoin e non verrà considerata a lungo. La foundation esiste ancora ma non ha alcuna influenza sul progetto open source
-Bitcoin.
+A settembre 2012 viene creata la fondazione Bitcoin Foundation. Gavin Andresen è chief scientist. Questo evento porta a 
+discussioni sulla centralizzazione del progetto bitcoin e non verrà considerata a lungo. La foundation esiste ancora ma non ha
+alcuna influenza sul progetto open source Bitcoin.
 </details>
 
 <details>
@@ -1180,21 +1180,21 @@ A fine anno Gavin Andresen viene assunto dalla Bitcoin Foundation e stipendiato 
 
 <details>
 <summary>Bitcoin core</summary>
-Mike Hearn a Febbraio convince Gavin a rinominare il software Bitcoin in Bitcoin Core, per distinguere il software dalla moneta.
+Mike Hearn a Febbraio convince Gavin a rinominare il software Bitcoin in Bitcoin Core per distinguere il software dalla moneta.
 </details>
 
 <details>
 <summary>Crisi di Cipro 🌍</summary>
-Il 25 marzo 2013 scoppia la crisi di Cipro, le banche di Cipro sono insolventi, migliaia di persone v**ENG**ono confiscate dal proprio denaro, i 
-cittadini di Cipro hanno grossi problemi a prelevare ed utilizzare il proprio denaro. Il tema "Bitcoin" in quei giorni emerge come alternativa valida 
-alle crisi delle monete Fiat.
+Il 25 marzo 2013 scoppia la crisi di Cipro. Le banche di Cipro sono insolventi, migliaia di persone vengono confiscate del 
+proprio denaro, i cittadini di Cipro hanno grossi problemi a prelevare ed utilizzare il proprio denaro. Il tema "Bitcoin", in
+quei giorni, emerge come alternativa valida alle crisi delle monete fiat.
 </details>
 
 <details>
 <summary>Avviene un double spending su Bitcoin🚧⚙️</summary>
-L'11 marzo è stato effettuato l'aggiornamento alla versione 0.8 del protocollo, che ha riguardato la gestione del database e il passaggio da Berkeley 
-DB a LevelDB. Durante questo aggiornamento, la rete ha subito un fork di 24 blocchi. In questo intervallo, si è verificato un double-spending di 
-211.909 Bitcoin.  
+L'11 marzo è stato effettuato l'aggiornamento alla versione 0.8 del protocollo che ha riguardato la gestione del database e il 
+passaggio da Berkeley DB a LevelDB. Durante questo aggiornamento, la rete ha subito un fork di 24 blocchi. In questo intervallo, 
+si è verificato un double-spending di 211.909 Bitcoin.  
   
 [**ENG**](https://github.com/bitcoin/bips/blob/master/bip-0050.mediawiki)  
 
@@ -1204,8 +1204,8 @@ DB a LevelDB. Durante questo aggiornamento, la rete ha subito un fork di 24 bloc
 
 <details>
 <summary>95% per il consenso🌱</summary>
-Il 24 Marzo viene attivato il BIP 34 che richiede di inserire l'altezza del blocco nello scriptSig della transazione coinbase. A differenza delle BIP 
-precedenti, per attivare questa proposta si è dovuto raggiungere il 95% del consenso dei miner.
+Il 24 Marzo viene attivato il BIP 34 che richiede di inserire l'altezza del blocco nello scriptSig della transazione coinbase. A
+differenza delle BIP precedenti, per attivare questa proposta, si è dovuto raggiungere il 95% del consenso dei miner.
 </details>
 
 <details>
@@ -1227,7 +1227,8 @@ Il 19 Agosto Gregory Maxwell propone coinwitness, la prima idea di sidechain.
 
 <details>
 <summary>L'arresto di Ross Ulbricht</summary>
-Il 2 Ottobre 2013 Il sito onion The Silk Road viene chiuso e Ross Ulbricht viene arrestato. Il processo porterà alla condanna di 2 ergastoli.
+Il 2 ottobre 2013 il sito onion The Silk Road viene chiuso e Ross Ulbricht viene arrestato. Il processo porterà alla pena di 
+2 ergastoli.
 Per approfondire:  
   
 Parte 1 [Link](https://www.wired.com/2015/04/silk-road-1/)  
@@ -1252,8 +1253,8 @@ Il primo Ban di Bitcoin da parte del governo cinese.
 
 <details>
 <summary>Mt Gox, not your keys not your bitcoin</summary>
-Dopo svariati hack subiti dall'exchange negli anni, MtGox il 24 Febbraio 2014 è offline e le persone che hanno i bitcoin depositati sull'exchange, non 
-li vedranno più.  
+Dopo svariati hack subiti dall'exchange negli anni, MtGox il 24 Febbraio 2014 è offline e le persone che hanno i bitcoin 
+depositati sull'exchange non li otterranno più indietro. 
   
 **ENG** - [MEDIUM](https://medium.com/@bishr_tabbaa/the-rise-and-fall-of-mt-gox-whats-in-your-bitcoin-wallet-bd5eb4106f4e)
 </details>
@@ -1291,13 +1292,15 @@ Il 27 Dicembre 2014 Mike Hearn rilascia Bitcoin XT. Bitcoin XT è un client alte
 
 <details>
 <summary>Blockchain Lab ⚔️🟠</summary>
-A Gennaio 2015 nasce BlockchainLab a Milano. Diventa un punto di ritrovo per sviluppatori che prenderà posizione nella block size war.
+A Gennaio 2015 nasce BlockchainLab a Milano. Diventa un punto di ritrovo per sviluppatori che prenderà posizione nella block size 
+war.
 </details>
 
 <details>
 <summary>Gavin Andresen Big Blocker ⚔️🟢</summary>
-Gavin Andresen il 15 aprile 2015 partecipa alla conferenza "Devcore" e discute sulla necessità di avere blocchi più grandi per scalare Bitcoin. Nel 
-Q&A successivo il 18 Aprile Gavin risponde che se non si troverà "accordo" sull'aumentare lo spazio nei blocchi, imporrà la decisione a tutto il 
+Gavin Andresen il 15 aprile 2015 partecipa alla conferenza "Devcore" e discute sulla necessità di avere blocchi più grandi per 
+scalare Bitcoin. Nel Q&A successivo il 18 Aprile Gavin risponde che se non si troverà "accordo" sull'aumentare lo spazio nei 
+blocchi, imporrà la decisione a tutto il 
 network.  
   
 [Youtube](https://www.youtube.com/watch?v=RIafZXRDH7w)
@@ -1306,18 +1309,20 @@ network.
 
 <details>
 <summary>Vladimir van der Laan si oppone a modifiche senza consenso ⚔️🟠</summary>
-Il nuovo Maintener Vladimir van der Laan non è d'accordo sulla scelta di aumentare lo spazio nei blocchi soprattutto senza consenso da parte della 
+Il nuovo Maintener Vladimir van der Laan non è d'accordo sulla scelta di aumentare lo spazio nei blocchi soprattutto senza 
+consenso da parte della 
 rete.
   
 </details>
 
 <details>
 <summary>Le BIP di Giugno e Luglio 2015🚨</summary>
-BIP 101. Gavin Andresen con la BIP 101 🚨 propone un hard fork per aumentare la dimensione del blocco ogni anno. Mette una scadenza 
-nell'implementazione al 11 Gennaio 2016 altrimenti passerà su Bitcoin XT. Non trova consenso.  
-BIP 102. Jeff Garzik con la BIP 102 propone un hard fork di aumentare il blocco fino a 2 mega. Non trova consenso perché non è una soluzione per
-scalare sul lungo periodo.  
-BIP 103. Sipa con la BIP 103 propone un hard fork che aumenta la dimensione del blocco ogni anno del 17.7% fino al 2063. Non trova consenso. 
+BIP 101. Gavin Andresen con la BIP 101 🚨 propone un hard fork per aumentare la dimensione del blocco ogni anno. Mette una
+scadenza nell'implementazione al 11 Gennaio 2016 altrimenti passerà su Bitcoin XT. Non trova consenso.  
+BIP 102. Jeff Garzik con la BIP 102 propone un hard fork di aumentare il blocco fino a 2 mega. Non trova consenso perché non è 
+una soluzione per scalare sul lungo periodo.  
+BIP 103. Sipa con la BIP 103 propone un hard fork che aumenta la dimensione del blocco ogni anno del 17.7% fino al 2063. Non 
+trova consenso. 
   
 **ENG** [BIP 101](https://bips.dev/101/)  
 
@@ -1334,7 +1339,8 @@ Il 30 Luglio 2015 Vitalik Buterin lancia Ethereum.
 
 <details>
 <summary>THE BLOCK SIZE WAR ⚔️🟢</summary>
-Il 15 Agosto 2015 ha inizio la guerra della dimensione del blocco. Gavin Andresen smette di contribuire a Bitcoin Core e passa a Bitcoin XT con Mike Hearn. Annunciano che nel nuovo aggiornamento di Bitcoin XT verrà implementata la BIP 101.  
+Il 15 Agosto 2015 ha inizio la guerra della dimensione del blocco. Gavin Andresen smette di contribuire a Bitcoin Core e passa a 
+Bitcoin XT con Mike Hearn. Annunciano che nel nuovo aggiornamento di Bitcoin XT verrà implementata la BIP 101.  
   
 [**ENG**](https://en.bitcoin.it/wiki/Bitcoin_XT)
 
@@ -1342,8 +1348,9 @@ Il 15 Agosto 2015 ha inizio la guerra della dimensione del blocco. Gavin Andrese
 
 <details>
 <summary>Riapparizione di SATOSHI?</summary>
-Il 15 Agosto dopo la dichiarazione di Mike Hearn e Gavin Andresen, una mail dalla casella di posta di Satoshi Nakamoto satoshi@vistomail.com scrive 
-che se 2 persone hanno il potere di decidere che cos'è Bitcoin, allora il progetto Bitcoin si può dichiarare fallito. Non c'è certezza che questa mail 
+Il 15 Agosto dopo la dichiarazione di Mike Hearn e Gavin Andresen, una mail dalla casella di posta di Satoshi Nakamoto 
+satoshi@vistomail.com scrive che se 2 persone hanno il potere di decidere che cos'è Bitcoin, allora il progetto Bitcoin si può 
+dichiarare fallito. Non c'è certezza che questa mail 
 giunga da Satoshi Nakamoto.  
   
 [REDDIT](https://www.reddit.com/r/Bitcoin/comments/76mwyv/satoshi_nakamoto_about_hijack_fork_attempts/#lightbox)
@@ -1352,16 +1359,18 @@ giunga da Satoshi Nakamoto.
 
 <details>
 <summary>Moderazione o Censura</summary>
-Sul Forum di Bitcoin Reddit gestito da Theymus si parla di Bitcoin XT e blocchi grandi. Theymus invita le persone interessate a questi argomenti di 
-aprire un forum dedicato. Il 17 Agosto Theymus banna più persone che volevano parlare di Bitcoin XT sul forum Bitcoin perché era più popolato. Anche 
-Bitcoin Jesus, Roger Ver è bannato dal forum e diventerà sostenitore di molte shitcoin in futuro.
+Sul Forum di Bitcoin Reddit gestito da Theymus si parla di Bitcoin XT e blocchi grandi. Theymus invita le persone interessate a 
+questi argomenti di aprire un forum dedicato. Il 17 Agosto Theymus banna più persone che volevano parlare di Bitcoin XT sul 
+forum Bitcoin perché era più popolato. Anche Bitcoin Jesus (Roger Ver) è bannato dal forum e diventerà sostenitore di molte 
+shitcoin in futuro.
   
 </details>
 
 <details>
 <summary>I CEOs vs Bitcoin🚨</summary>
-Le industrie Bitcoin (I CEOs of BitPay, Blockchain.info, Circle, Kncminer, itBit, Bitnet, Xapo and BitGo) scrivono e firmano una lettera a sostegno di
-Bitcoin XT e BIP 101. Nella lettera: "Sosteniamo l'implementazione del BIP101. Abbiamo trovato convincenti gli argomenti di Gavin sia sulla necessità
+Le industrie Bitcoin (I CEOs of BitPay, Blockchain.info, Circle, Kncminer, itBit, Bitnet, Xapo and BitGo) scrivono e firmano una 
+lettera a sostegno di Bitcoin XT e BIP 101. Nella lettera: "Sosteniamo l'implementazione del BIP101. Abbiamo trovato convincenti 
+gli argomenti di Gavin sia sulla necessità
 di blocchi più grandi che sulla fattibilità della loro implementazione."  
   
 **ENG** - https://blog.bitmex.com/the-blocksize-war-chapter-1-first-strike/
@@ -1371,18 +1380,20 @@ di blocchi più grandi che sulla fattibilità della loro implementazione."
 
 <details>
 <summary>Scaling Bitcoin 1 - Lightning Network🌱🔍</summary>
-Per provare a risolvere la questione "dimensione dei blocchi" v**ENG**ono organizzate delle conferenze con il nome Scaling Bitcoin. Il primo 
-appuntamento è a Montreal i giorni 11 e 12 Settembre. La discussione sui blocchi verrà interrotta da Gregory Maxwell perché Bitcoin deve essere 
-discusso su internet non a porte chiuse. Nel frattempo Thaddeus Dryja e Joseph Poon propongono per la prima volta Lightning Network.  
+Per provare a risolvere la questione "dimensione dei blocchi" v**ENG**ono organizzate delle conferenze con il nome Scaling 
+Bitcoin. Il primo appuntamento è a Montreal i giorni 11 e 12 Settembre. La discussione sui blocchi verrà interrotta da Gregory 
+Maxwell perché Bitcoin deve essere discusso su internet non a porte chiuse. Nel frattempo Thaddeus Dryja e Joseph Poon propongono
+per la prima volta Lightning Network.  
   
 **ENG** - https://scalingbitcoin.org/montreal2015/presentations/Day2/3-JosephPoonAndThaddeusDryja.pdf
 </details>
 
 <details>
 <summary>Scaling Bitcoin 2 - Segwit 🌱🔍</summary>
-Il secondo appuntamento è a Hong Kong il 6 e 7 Dicembre. Emerge Segwit (Segregated Witness) presentata da Pieter Wuille. Quest soft fork  proposta 
-avrebbe reso possibile lo sviluppo di Lightning Network. Luke Dashjr deduce inoltre che Segwit non solo può abilitare Lightning ma permette anche 
-l'aumento della dimensione del blocco tramite soft fork e non con hard fork come proposto dalle BIP precedenti.  
+Il secondo appuntamento è a Hong Kong il 6 e 7 Dicembre. Emerge Segwit (Segregated Witness) presentata da Pieter Wuille. Questo 
+soft fork  proposta avrebbe reso possibile lo sviluppo di Lightning Network. Luke Dashjr deduce inoltre che Segwit non solo può 
+abilitare Lightning ma permette anche l'aumento della dimensione del blocco tramite soft fork e non con hard fork come proposto
+dalle BIP precedenti.  
   
 **ITA** [Wkikipedia](https://it.wikipedia.org/wiki/SegWit)  
 **ENG** [En.Bitcoin](https://en.bitcoin.it/wiki/Segregated_Witness)
@@ -1390,8 +1401,8 @@ l'aumento della dimensione del blocco tramite soft fork e non con hard fork come
 
 <details>
 <summary>Bitmain vuole un HARD FORK🚨</summary>
-Jihan Wu, il CEO di Bitmain (azienda di mining e di produzione/vendita ASIC) non è d'accordo con l'idea di soft fork, vuole che Segwit sia 
-implementato con hard fork.
+Jihan Wu, il CEO di Bitmain (azienda di mining e di produzione/vendita ASIC) non è d'accordo con l'idea di soft fork, vuole che 
+Segwit sia implementato con hard fork.
 </details>
 
 </details>
@@ -1408,15 +1419,15 @@ Il 3 Gennaio 2016 Brian Armstrong, CEO di Coinbase, annuncia che Bitcoin XT è s
 
 <details>
 <summary>Fine di Bitcoin XT</summary>
-Mike Hearn il 14 Gennaio dichiara l'esperimento Bitcoin fallito. Secondo Mike Hearn, Bitcoin Core non funziona senza BIP 101 ed è centralizzato, 
-mentre Bitcoin XT non ha ricevuto l'attenzione meritata per via della censura e dei fondi necessari.  
+Mike Hearn il 14 Gennaio dichiara l'esperimento Bitcoin fallito. Secondo Mike Hearn, Bitcoin Core non funziona senza BIP 101 ed è 
+centralizzato, mentre Bitcoin XT non ha ricevuto l'attenzione meritata per via della censura e dei fondi necessari.  
   
 **ENG** - https://blog.plan99.net/the-resolution-of-the-bitcoin-experiment-dabb30201f7
 </details>
 
 <details>
 <summary>Craig Wright è Satoshi?🚨</summary>
-Il 5 Febbraio 2016 sulla rivista Wired viene pubblicata la notizia falsa che Craig Wright è Satoshi Nakamoto.  
+Il 5 febbraio 2016 sulla rivista Wired viene pubblicata la notizia falsa che Craig Wright è Satoshi Nakamoto.  
   
 https://www.wired.com/2015/12/new-clues-suggest-satoshi-suspect-craig-wright-may-be-a-hoaxer/
 
@@ -1431,7 +1442,8 @@ Il 10 Febbraio 2016 Gavin lancia un fork di Bitcoin per aumentare le dimensioni 
 
 <details>
 <summary>Hong-Kong Round Table⚔️🟢🚨</summary>
-Il 20 Febbraio si tiene una riunione ad Hong-Kong. I miner che sono favore dell'hard fork si esprimono a favore di Bitcoin Classic se non ci dovesse 
+Il 20 febbraio si tiene una riunione ad Hong-Kong. I miner che sono favore dell'hard fork si esprimono a favore di Bitcoin 
+Classic se non ci dovesse 
 essere un hard fork per implementare la dimensione dei blocchi su Bitcoin Core.
 </details>
 
