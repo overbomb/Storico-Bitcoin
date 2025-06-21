@@ -1386,14 +1386,16 @@ di blocchi più grandi che sulla fattibilità della loro implementazione."
 <summary>Scaling Bitcoin 1 - Lightning Network🌱🔍</summary>
 Per provare a risolvere la questione "dimensione dei blocchi" vengono organizzate delle conferenze con il nome Scaling 
 Bitcoin. Il primo appuntamento è a Montreal l' 11 e il 12 Settembre. La discussione sui blocchi verrà interrotta da Gregory 
-Maxwell perché, secondo lui, Bitcoin deve essere discusso su internet e non a porte chiuse. Nel frattempo, Thaddeus Dryja e Joseph Poon propongono per la prima volta Lightning Network.  
+Maxwell perché, secondo lui, Bitcoin deve essere discusso su internet e non a porte chiuse. Nel frattempo, Thaddeus Dryja e 
+Joseph Poon propongono per la prima volta Lightning Network.  
   
 **ENG** - https://scalingbitcoin.org/montreal2015/presentations/Day2/3-JosephPoonAndThaddeusDryja.pdf
 </details>
 
 <details>
 <summary>Scaling Bitcoin 2 - Segwit 🌱🔍</summary>
-Il secondo appuntamento è a Hong Kong il 6 e 7 Dicembre. Emerge Segwit (Segregated Witness) presentata da Pieter Wuille. Questo soft fork  avrebbe reso possibile lo sviluppo di Lightning Network. Luke Dashjr deduce inoltre, che Segwit non solo può 
+Il secondo appuntamento è a Hong Kong il 6 e 7 Dicembre. Emerge Segwit (Segregated Witness) presentata da Pieter Wuille. Questo 
+soft fork  avrebbe reso possibile lo sviluppo di Lightning Network. Luke Dashjr deduce inoltre, che Segwit non solo può 
 abilitare Lightning, ma permette anche l'aumento della dimensione del blocco tramite soft fork (non con hard fork come proposto
 dalle BIP precedenti).  
   
@@ -1421,8 +1423,8 @@ Il 3 Gennaio 2016 Brian Armstrong, CEO di Coinbase, annuncia che Bitcoin XT è s
 
 <details>
 <summary>Fine di Bitcoin XT</summary>
-Mike Hearn il 14 Gennaio dichiara l'esperimento Bitcoin fallito. Secondo Mike Hearn, Bitcoin Core non funziona senza BIP 101 ed è 
-centralizzato, mentre Bitcoin XT non ha ricevuto l'attenzione meritata per via della censura e dei fondi necessari.  
+Mike Hearn, il 14 Gennaio, dichiara l'esperimento Bitcoin fallito. Secondo Mike Hearn, Bitcoin Core non funziona senza BIP 101 ed
+è centralizzato, mentre Bitcoin XT non ha ricevuto l'attenzione meritata per via della censura e dei fondi necessari.  
   
 **ENG** - https://blog.plan99.net/the-resolution-of-the-bitcoin-experiment-dabb30201f7
 </details>
@@ -1444,16 +1446,16 @@ Il 10 Febbraio 2016 Gavin lancia un fork di Bitcoin per aumentare le dimensioni 
 
 <details>
 <summary>Hong-Kong Round Table⚔️🟢🚨</summary>
-Il 20 febbraio si tiene una riunione ad Hong-Kong. I miner che sono favore dell'hard fork si esprimono a favore di Bitcoin 
-Classic se non ci dovesse 
-essere un hard fork per implementare la dimensione dei blocchi su Bitcoin Core.
+Il 20 febbraio si tiene una riunione ad Hong-Kong. I miner che supportano l'hard fork si schierano a favore di Bitcoin Classic 
+nel caso in cui non venga effettuato un hard fork per aumentare la dimensione dei blocchi su Bitcoin Core.
 </details>
 
 <details>
 <summary>Gavin incontra Satoshi?</summary>
-Il 2 maggio 2016, Gavin Andresen ha pubblicato sul suo blog un resoconto dell'incontro avuto con Craig Wright nei giorni precedenti. Durante questo 
-incontro, Wright gli ha fornito delle prove crittografiche per dimostrare di essere realmente Satoshi Nakamoto. Inoltre, ha annunciato che il 3 maggio 
-avrebbe reso pubbliche queste prove per confermare a tutti la sua identità come Satoshi Nakamoto.  
+Il 2 maggio 2016 Gavin Andresen ha pubblicato sul suo blog un resoconto dell'incontro avuto con Craig Wright nei giorni 
+precedenti. Durante questo incontro, Wright gli ha fornito delle prove crittografiche per dimostrare di essere realmente Satoshi 
+Nakamoto. Inoltre, ha annunciato che il 3 maggio avrebbe reso pubbliche queste prove per confermare a tutti la sua identità come
+Satoshi Nakamoto.  
   
 http://gavinandresen.ninja/satoshi
 
@@ -1462,7 +1464,7 @@ http://gavinandresen.ninja/satoshi
 <details>
 <summary>Craig Wright è Faketoshi</summary>
 Il 3 Maggio Craig Wright pubblica una firma di transazione pubblica codificata in Base64 che non prova nulla.  
-[**ENG**](https://www.reddit.com/r/Bitcoin/comments/4hflr3/craig_wrights_signature_is_worthless/)
+**ENG**https://www.reddit.com/r/Bitcoin/comments/4hflr3/craig_wrights_signature_is_worthless/
 </details>
 
 <details>
@@ -1477,26 +1479,28 @@ Il 9 Luglio avviene il dimezzamento della produzione di nuovi BTC ad ogni blocco
 
 <details>
 <summary>Ethereum DAO hack</summary>
-Il 23 Luglio avviene il DAO hack su ETHEREUM. Gli investitori, tra cui Vitalik, perdono molti soldi. Avviene uno split della catena, una che continua 
-la storia della catena senza interventi (Ethereum Classic) e una che riavvolge la catena a prima dell'attacco alla DAO (Ethereum).  
+Il 23 Luglio avviene il DAO hack su ETHEREUM. Gli investitori, tra cui Vitalik, perdono molti soldi. Avviene uno split della 
+catena, una che continua la storia della catena senza interventi (Ethereum Classic) e una che riavvolge la catena a prima 
+dell'attacco alla DAO (Ethereum).  
 
-**ENG* - [Wikipedia](https://en.wikipedia.org/wiki/The_DAO)
+**ENG** - [Wikipedia](https://en.wikipedia.org/wiki/The_DAO)
 
 </details>
 
 <details>
 <summary>Bitcoin Unlimited⚔️🟢</summary>
-L'11 marzo 2016 lo sviluppatore Andrew Stone rilascia la prima versione di Bitcoin Unlimited con dimensione di blocchi personalizzabili.  
+L'11 marzo 2016 lo sviluppatore Andrew Stone rilascia la prima versione di Bitcoin Unlimited con dimensione di blocchi 
+personalizzabili.  
   
 **ENG** - [Wikipedia](https://en.wikipedia.org/wiki/Bitcoin_Unlimited)
 </details>
 
 <details>
 <summary>BOLT🌱🔍⚔️🟠</summary>
-I giorni 8 e 9 Ottobre a Milano si svolge la conferenza Scaling Bitcoin ospitata da BlockchainLab. Il tema della conferenza è come si può scalare 
-Bitcoin offchain. Nei giorni successivi all'evento BlockchainLab ha ospitato negli uffici di Milano gli sviluppatori che stavano lavorando a soluzioni 
-scalabili Offchain come Blockstream, Acinq, Lightning Labs, BitFury, AmicoPay. Da questo incontro nasce BOLT (Basics of Lightning Technology), 
-inizialmente chiamato Milan Protocol.  
+Nei giorni 8 e 9 Ottobre a Milano si svolge la conferenza Scaling Bitcoin ospitata da BlockchainLab. Il tema della conferenza è
+come si può scalare Bitcoin offchain. Nei giorni successivi all'evento BlockchainLab ha ospitato negli uffici di Milano gli 
+sviluppatori che stavano lavorando a soluzioni scalabili Offchain come Blockstream, Acinq, Lightning Labs, BitFury, AmicoPay. Da
+questo incontro nasce BOLT (Basics of Lightning Technology) inizialmente chiamato Milan Protocol.  
   
 **ENG** - https://milan2016.scalingbitcoin.org/ 
 **ENG** - https://medium.com/@lightningnetwork/lightning-network-meeting-on-interoperability-and-specifications-ea49e47696a4
@@ -1505,16 +1509,16 @@ inizialmente chiamato Milan Protocol.
 
 <details>
 <summary>Versione Bitcoin con Segwit Soft Fork🌱🔍</summary>
-A Novembre 2016 viene rilasciata la versione 0.13.1 di Bitcoin Core con il Soft Fork Segwit e l'aumento delle dimensioni del blocco con un meccanismo
-di attivazione che richiede il 95% del consenso per essere attivato.  
+A Novembre 2016 viene rilasciata la versione 0.13.1 di Bitcoin Core con il Soft Fork Segwit e l'aumento delle dimensioni del
+blocco con un meccanismo di attivazione che richiede il 95% del consenso per essere attivato.  
   
 **ENG** - https://bitcoincore.org/en/releases/0.13.1/
 </details>
 
 <details>
 <summary>Bitmain VS Soft Fork🚨</summary>
-Bitmain non è d'accordo con il soft fork di Segwit. Vuole che Segwit venga fatto con hard fork per ragioni al momento sconosciute. Bitmain ha 
-molta potenza di calcolo, quindi rende impossibile il soft fork.
+Bitmain non è d'accordo con il soft fork di Segwit. Vuole che Segwit venga fatto con hard fork per ragioni al momento
+sconosciute. Bitmain ha molta potenza di calcolo, quindi rende impossibile il soft fork.
 </details>
 
 </details>
@@ -1526,9 +1530,11 @@ molta potenza di calcolo, quindi rende impossibile il soft fork.
 
 <details>
 <summary>UASF BIP 148 (User Activated Soft Fork)🌱⚔️🟠</summary>
-Il 21 Marzo 2017 l'anonimo Shaolinfry propone la BIP 148 che implementa il soft fork di Segwit. UASF è stato creato per impedire ai miner di bloccare 
-il soft-fork. Il rischio è che se non trova consenso la rete splitta ed una parte della rete non ha Hash Power dei miner, ma se l'aggiornamento trova 
-consenso allora i miner si trovano costretti ad aggiornare a segwit. L'idea è che gli utenti decidano cosa è Bitcoin ed i miner prestano servizio agli
+Il 21 Marzo 2017 l'anonimo Shaolinfry propone la BIP 148 che implementa il soft fork di Segwit. UASF è stato creato per impedire
+ai miner di bloccare il soft-fork. Il rischio è che se non trova consenso la rete splitta ed una parte della rete non ha Hash 
+Power dei miner, ma se l'aggiornamento trova 
+consenso allora i miner si trovano costretti ad aggiornare a segwit. L'idea è che gli utenti decidano cosa è Bitcoin ed i miner 
+prestano servizio agli
 utenti.
 
 **ENG** - https://bitcoin.stackexchange.com/questions/51901/what-is-the-user-activated-softfork-uasf-proposal-how-do-its-risks-compare-to
@@ -1536,44 +1542,44 @@ utenti.
 
 <details>
 <summary>I nodi di Bitcoin Unlimited arrivano al pettine</summary>
-Il 17 Marzo 2017 diverse importanti piattaforme di scambio, tra cui Bitfinex, Kraken e Bitstamp, dopo dei bug importanti e quasi nessuna adozione in 
-termini di utenti e developer, comunicano che non supporteranno più il progetto di Bitcoin Unlimited.
+Il 17 Marzo 2017 diverse importanti piattaforme di scambio, tra cui Bitfinex, Kraken e Bitstamp, dopo dei bug importanti e quasi 
+nessuna adozione in termini di utenti e developer, comunicano che non supporteranno più il progetto di Bitcoin Unlimited.
 
 **ENG** - https://blog.bitmex.com/the-blocksize-war-chapter-13-exchanges/
 </details>
 
 <details>
 <summary>I futures Bitcoin/Bitcoin Unlimited</summary>
-Il 18 marzo 2017, Bitfinex ha lanciato contratti futures per Bitcoin Unlimited contro Bitcoin Core, permettendo agli investitori di esprimere opinioni
-con un reale coinvolgimento finanziario. Di conseguenza il prezzo di Bitcoin Unlimited scende drasticamente.
+Il 18 marzo 2017, Bitfinex ha lanciato contratti futures per Bitcoin Unlimited contro Bitcoin Core, permettendo agli investitori 
+di esprimere opinioni con un reale coinvolgimento finanziario. Di conseguenza il prezzo di Bitcoin Unlimited scende drasticamente.
 
 **ENG** - https://blog.bitmex.com/the-blocksize-war-chapter-13-exchanges/
 </details>
 
 <details>
 <summary>Bitmain Covert AsicBoost🚨</summary>
-Il 5 Aprile 2017 Gregory Maxwell all'epoca CTO di Blockstream, ha rivelato che Bitmain aveva implementato l'exploit "covert AsicBoost" nel suo 
-hardware. Questo software installato da Bitmain sulle ASICS vendute ai clienti permetteva di sottrarre il 20-30 % di potenza di calcolo dai
-proprietari delle macchine ed usarla per se ad insaputa degli acquirenti. Covert AsicBoost funzionava solo in caso di segwit hard fork e non con soft
-fork.
+Il 5 Aprile 2017 Gregory Maxwell all'epoca CTO di Blockstream, ha rivelato che Bitmain aveva implementato l'exploit "covert 
+AsicBoost" nel suo hardware. Questo software installato da Bitmain sulle ASICS vendute ai clienti permetteva di sottrarre il 20-
+30 % di potenza di calcolo dai proprietari delle macchine ed usarla per se ad insaputa degli acquirenti. Covert AsicBoost 
+funzionava solo in caso di segwit hard fork e non con soft fork.
 
 **ENG** - https://thebitcoinmanual.com/articles/asicboost/
 </details>
 
 <details>
 <summary>Bitmain Scandalo Antbleed🚨⚔</summary>
-Il 27 Aprile 2017 Gregory Maxwell e altri sviluppatori scoprono che i firmware degli ASIC prodotti da BITMAIN avrebbero reso possibile all'azienda di 
-spegnere le macchine da remoto.
+Il 27 Aprile 2017 Gregory Maxwell e altri sviluppatori scoprono che i firmware degli ASIC prodotti da BITMAIN avrebbero reso 
+possibile all'azienda di spegnere le macchine da remoto.
 
 **ENG** - https://bitcointalk.org/index.php?topic=1888573.0
 </details>
 
 <details>
 <summary>NYA BIG BLOCK🚨⚔️🟢</summary>
-Il 22 Maggio a New York c'è una conferenza, tenuta organizzata da Coin Desk che si chiama Consensus. All'apertura della conferenza viene annunciato 
-che il New York Agreement con le più importanti aziende Bitcoin (Coinbase, BitPay, Bitmain etc...) ha trovato il modo di implementare l'aumento della 
-grandezza dei blocchi e segwit con hard fork. Nei giorni successivi molte aziende Bitcoin si aggregano a questa proposta. La proposta è BIP 91 con il 
-software BTC1.
+Il 22 Maggio a New York c'è una conferenza, tenuta organizzata da Coin Desk che si chiama Consensus. All'apertura della 
+conferenza viene annunciato che il New York Agreement con le più importanti aziende Bitcoin (Coinbase, BitPay, Bitmain etc...) ha
+trovato il modo di implementare l'aumento della grandezza dei blocchi e segwit con hard fork. Nei giorni successivi molte aziende 
+Bitcoin si aggregano a questa proposta. La proposta è BIP 91 con il software BTC1.
 
 **ENG** - https://bips.dev/91/
 </details>
@@ -1585,9 +1591,10 @@ Il 1 Agosto Bitcoin splitta e nasce Bitcoin Cash. Senza aggiornare a segwit e bl
 
 <details>
 <summary>Da Bitpay a BTCPay Server🔍</summary>
-Il 17 Agosto 2017 BitPay manda una mail ai suoi clienti invitandoli a scaricare una versione di Bitcoin incompatibile con il consenso di Bitcoin Core
-che si chiama BTC1 (software del NYA) per ragioni di sicurezza. Lo sviluppatore Francese Nicolas Dorier, infastidito dal comportamento di BitPay 
-scrive in un Tweet "This is lies, my trust in you is broken, I will make you obsolete" e crea BTCPay Server.
+Il 17 Agosto 2017 BitPay manda una mail ai suoi clienti invitandoli a scaricare una versione di Bitcoin incompatibile con il 
+consenso di Bitcoin Core che si chiama BTC1 (software del NYA) per ragioni di sicurezza. Lo sviluppatore Francese Nicolas Dorier, 
+infastidito dal comportamento di BitPay scrive in un Tweet "This is lies, my trust in you is broken, I will make you obsolete" e 
+crea BTCPay Server.
 </details>
 
 <details>
@@ -1600,14 +1607,14 @@ Il giorno 24 Agosto Segwit è attivo con la proposta di soft fork BIP 141.
 
 <details>
 <summary> FINE BLOCK SIZE WAR 🟠</summary>
-Il giorno 8 Novembre viene abortito il fork di New York Agreement perchè non c'è consenso. Pochi giorni dopo si scopre che il codice di BTC1 avrebbe
-spento tutta la rete di Bitcoin dopo l'hard fork per un bug presente nel codice.
+Il giorno 8 Novembre viene abortito il fork di New York Agreement perchè non c'è consenso. Pochi giorni dopo si scopre che il 
+codice di BTC1 avrebbe spento tutta la rete di Bitcoin dopo l'hard fork per un bug presente nel codice.
 </details>
 
 <details>
 <summary>Bitcoin core bug inflattivo 🚧⚙️</summary>
-Il 14 Novembre 2017 uno sviluppatore di Bitcoin Cash scopre un bug inflattivo su Bitcoin core. Era un baco introdotto poco prima che, se sfruttato, 
-avrebbe causato un altro episodio di inflazione incontrollata su Bitcoin.
+Il 14 Novembre 2017 uno sviluppatore di Bitcoin Cash scopre un bug inflattivo su Bitcoin core. Era un baco introdotto poco prima
+che, se sfruttato, avrebbe causato un altro episodio di inflazione incontrollata su Bitcoin.
 </details>
 
 <details>
@@ -1634,8 +1641,8 @@ Il 22 Gennaio 2018 Gregory Maxwell su Bitcoin Dev mailing list rilascia l'idea T
 
 <details>
 <summary>THE BITCOIN STANDARD 🌍</summary>
-Il 23 Marzo viene pubblicato il libro "The Bitcoin Standard" di Saifedean Ammous. Il libro ha molto successo ed in molti si avvicinano a Bitcoin dopo 
-aver letto il libro.
+Il 23 Marzo viene pubblicato il libro "The Bitcoin Standard" di Saifedean Ammous. Il libro ha molto successo ed in molti si 
+avvicinano a Bitcoin dopo aver letto il libro.
 </details>
 
 <details>
@@ -1661,22 +1668,23 @@ Il 3 Luglio 2018 Giacomo Zucco a Lisbona presenta RGB.
 
 <details>
 <summary>Lightning Torch 🌱🌍</summary>
-Hodlonaut il 19 Gennaio 2019 per promuovere l'uso della rete Lightning di Bitcoin scrive un tweet e offrirà 100.000 satoshi alla prima persona che 
-risponde. Questa persona aggiungerà 10.000 satoshi a un altro partecipante. L'iniziativa, che coinvolgerà figure come Jack Dorsey ed Elizabeth Stark, 
-terminerà il 13 aprile. La transazione passerà anche in Iran, violando le restrizioni, e arriverà infine in Bitcoin Venezuela, dove verranno raccolti
-tutti i satoshi.
+Hodlonaut il 19 Gennaio 2019 per promuovere l'uso della rete Lightning di Bitcoin scrive un tweet e offrirà 100.000 satoshi alla 
+prima persona che risponde. Questa persona aggiungerà 10.000 satoshi a un altro partecipante. L'iniziativa, che coinvolgerà 
+figure come Jack Dorsey ed Elizabeth Stark, terminerà il 13 aprile. La transazione passerà anche in Iran, violando le 
+restrizioni, e arriverà infine in Bitcoin Venezuela, dove verranno raccolti tutti i satoshi.
 </details>
 
 <details>
 <summary>We are all Hodlenauts</summary>
-Hodlonaut accusa Craig Wright di essere un truffatore. Wright lo minaccia di causa se non si ritira. Hodlonaut non cede e viene denunciato, con una 
-taglia sulla sua identità. Nasce così la campagna "WE ARE ALL HODLENAUT".
+Hodlonaut accusa Craig Wright di essere un truffatore. Wright lo minaccia di causa se non si ritira. Hodlonaut non cede e viene 
+denunciato, con una taglia sulla sua identità. Nasce così la campagna "WE ARE ALL HODLENAUT".
 </details>
 
 <details>
 <summary>Payjoin 🔍</summary>
-Il 1 maggio 2019 Nicolas Dorier pubblica la BIP 78 "A Simple Payjoin Proposal". La proposta consente al destinatario di consolidare i propri UTXO e di 
-raggruppare i pagamenti senza creare una nuova transazione, risparmiando così sulle commissioni. Inoltre è utile l'utilizzo per migliorare la privacy
+Il 1 maggio 2019 Nicolas Dorier pubblica la BIP 78 "A Simple Payjoin Proposal". La proposta consente al destinatario di 
+consolidare i propri UTXO e di raggruppare i pagamenti senza creare una nuova transazione, risparmiando così sulle commissioni.
+Inoltre è utile l'utilizzo per migliorare la privacy
 ed ingannare l'analisi on chain.
 
 **ENG** - https://bips.dev/78/
@@ -1684,8 +1692,8 @@ ed ingannare l'analisi on chain.
 
 <details>
 <summary>Binance Hack 🚨</summary>
-Binance subisce un hack e perde oltre 40 milioni di dollari. Il giorno 8 maggio il CEO di Binance propone un rollback della catena pagando i miner per 
-orfanare i blocchi e rifare le transazioni. Non riuscirà a portare avanti il tentativo.
+Binance subisce un hack e perde oltre 40 milioni di dollari. Il giorno 8 maggio il CEO di Binance propone un rollback della 
+catena pagando i miner per orfanare i blocchi e rifare le transazioni. Non riuscirà a portare avanti il tentativo.
 
 **ENG** - https://cointelegraph.com/news/binance-ceo-addresses-concerns-live-after-40-mln-btc-hack-rejects-blockchain-reorg-idea
 </details>
@@ -1719,7 +1727,8 @@ Il 12 Dicembre 2019 viene rilasciato il Wallet Lightning Phoenix.
 
 <details>
 <summary>BIP 119 - CTV (Check Template Verify) 🔍</summary>
-Il 6 gennaio 2020, Jeremy Rubin ha pubblicato la BIP 119, proponendo un soft fork per aggiungere l'operatore OP_CHECKTEMPLATEVERIFY.
+Il 6 gennaio 2020, Jeremy Rubin ha pubblicato la BIP 119, proponendo un soft fork per aggiungere l'operatore 
+OP_CHECKTEMPLATEVERIFY.
 
 **ENG** - https://bips.dev/119/
 </details>
@@ -1750,7 +1759,8 @@ L'11 Maggio 2020 avviene il terzo Halving. La nuova offerta è di 6.25 bitcoin p
 
 <details>
 <summary>La bolla di Tesla</summary>
-L'8 Febbraio Elon Musk con la sua azienda Tesla compra Bitcoin e accetta Bitcoin come sistema di pagamento. Bitcoin cresce di valore rispetto al dollaro molto velocemente.
+L'8 Febbraio Elon Musk con la sua azienda Tesla compra Bitcoin e accetta Bitcoin come sistema di pagamento. Bitcoin cresce di 
+valore rispetto al dollaro molto velocemente.
 </details>
 
 <details>
@@ -1760,16 +1770,16 @@ Il 12 febbraio comincia la campagna "Laser Eye until 100k".
 
 <details>
 <summary>Taproot Speedy Trial ⚙️</summary>
-Il 6 Marzo comincia la votazione dei miner per il consenso a Taproot. Il consenso del 90% minimo viene raggiunto entro i 3 mesi e si procede per 
-l'attivazione di Taproot.
+Il 6 Marzo comincia la votazione dei miner per il consenso a Taproot. Il consenso del 90% minimo viene raggiunto entro i 3 mesi e 
+si procede per l'attivazione di Taproot.
 
 **ENG** - https://taprootactivation.com/
 </details>
 
 <details>
 <summary>Marathon OFAC Compliant</summary>
-Il 6 Maggio Marathon, la società bitcoin quotata in borsa, scrive in un blocco, "questo è un blocco OFAC compliant". I bitcoiner fanno coinjoin come 
-movimento di ribellione, transazioni in Iran, e piccole transazioni sull'indirizzo Coinbase di Marathon.
+Il 6 Maggio Marathon, la società bitcoin quotata in borsa, scrive in un blocco, "questo è un blocco OFAC compliant". I bitcoiner 
+fanno coinjoin come movimento di ribellione, transazioni in Iran, e piccole transazioni sull'indirizzo Coinbase di Marathon.
 
 **TWEET** - https://x.com/thomasheller_/status/1390282795558137860
 </details>
