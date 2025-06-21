@@ -28,13 +28,19 @@
 <details>
 <summary>Ordine esecutivo 6102 ⚠️</summary>
 
-Il 5 aprile 1933, il presidente Franklin D. Roosevelt firma l'ordine esecutivo 6102 che proibisce il possesso di oro in tutte le sue forme, comprese monete, lingotti e certificati aurei, da parte di individui, associazioni o società residenti negli Stati Uniti d'America. Tutti i cittadini statuinitensi sono costretti a consegnare l'oro in cambio di $ 20.67 per oncia (28,35 grammi circa). La maggior parte dell'oro dei cittadini era al "sicuro" nelle banche. Quest'ultime consegnarono immediatamente l'oro dei cittadini al governo.
+Il 5 aprile 1933, il presidente Franklin D. Roosevelt firma l'ordine esecutivo 6102 che proibisce il possesso di oro in tutte le 
+sue forme, comprese monete, lingotti e certificati aurei, da parte di individui, associazioni o società residenti negli Stati
+Uniti d'America. Tutti i cittadini statuinitensi sono costretti a consegnare l'oro in cambio di $ 20.67 per oncia (28,35 grammi 
+circa). La maggior parte dell'oro dei cittadini era al "sicuro" nelle banche. Quest'ultime consegnarono immediatamente l'oro dei 
+cittadini al governo.
 
-⚠️ Questa data è significativa perché sottolinea l'importanza di avere  denaro non confiscabile. Essa rappresenta la necessità di possedere denaro senza dover riporre fiducia su terze parti per la sua custodia. Satoshi Nakamoto con Bitcoin rimuove totalmente il concetto di fiducia dalla moneta.
+⚠️ Questa data è significativa perché sottolinea l'importanza di avere  denaro non confiscabile. Essa rappresenta la necessità di
+possedere denaro senza dover riporre fiducia su terze parti per la sua custodia. Satoshi Nakamoto con Bitcoin rimuove totalmente
+il concetto di fiducia dalla moneta.
 
-In questo contesto, sembra che Satoshi Nakamoto possa aver scelto il 5 aprile come data di nascita fittizia ispirandosi a tale evento. Inoltre, è 
-probabile che abbia preso in considerazione il numero esecutivo 6102, invertendo i numeri per arrivare a 2016, che rappresenta il numero di blocchi 
-dopo il quale si verifica l'aggiustamento della difficoltà.
+In questo contesto, sembra che Satoshi Nakamoto possa aver scelto il 5 aprile come data di nascita fittizia ispirandosi a tale 
+evento. Inoltre, è probabile che abbia preso in considerazione il numero esecutivo 6102, invertendo i numeri per arrivare a 2016,
+che rappresenta il numero di blocchi dopo il quale si verifica l'aggiustamento della difficoltà.
 
 **ENG** - [Wikipedia](https://en.wikipedia.org/wiki/Executive_Order_6102)  
 **ITA** - [Wikipedia](https://it.wikipedia.org/wiki/Ordine_esecutivo_6102)
@@ -506,8 +512,9 @@ Documentario con sottotitoli in inglese: [YouTube](https://www.youtube.com/watch
 <details>
 <summary>Daniel C. Lynch CyberCash 🔍</summary>
 
-Daniel C. implementa Cybercash, uno strumento per pagamenti digitali basato sul dollaro. Aveva un sistema di test con un numero 
-finito di monete. Le monete di test, essendo scarse, avevano acquisito più valore del dollaro.
+Daniel C. implementa Cybercash, uno strumento per pagamenti digitali basato sul dollaro. In questo strumento di pagamenti 
+digitali c'era un sistema di test con un numero finito di monete. Le monete di test, essendo scarse, avevano acquisito più valore 
+del dollaro.
 
 **ENG** - [Wikipedia](https://en.wikipedia.org/wiki/CyberCash)
 </details>
@@ -570,15 +577,14 @@ Nakamoto.
 <summary>Nick Szabo Formalizing and Securing Relationships on Public Networks - Smart contracts, Third part vulnerabilities 🌱🔍
 </summary>
 Nick Szabo, nel suo paper "Formalizing and Securing Relationships on Public Networks", propone di ampliare il concetto di 
-trasferimento di denaro elettronico, andando oltre il l' invio di cash da una chiave pubblica all'altra, come descritto da David 
+trasferimento di denaro elettronico, andando oltre l' invio di cash da una chiave pubblica all'altra, come descritto da David 
 Chaum con e-Cash. Propone l'utilizzo di smart contracts per facilitare tutti i passaggi del processo contrattuale. Attualmente 
-vengono usati per conti multifirma, canali lightining network ed 
-altro.
+vengono usati per conti multifirma, canali lightining network ed altro.
 </details>
 
 <details>
 <summary>L'individuo Sovrano - William Rees-Mogg e James Dale Davidson 🌱</summary>
-In questo libro viene emerge l'importanza di internet per la libertà dell'individuo e la necessità di libero mercato tra monete
+In questo libro emerge l'importanza di internet per la libertà dell'individuo e la necessità di libero mercato tra monete
 digitali private.
 
 **ENG** - https://www.lopp.net/pdf/The%20Sovereign%20Individual.pdf
@@ -596,24 +602,26 @@ https://github.com/ventunobtc
 
 <details>
 <summary>Nick Szabo - BitGold 🌱🔍</summary>
-Nick Szabo nel comincia a riflettere sull'implementazione di un protocollo tramite il quale bit costosi e inimitabili possano essere creati online con 
-una dipendenza minima da terze parti fidate, e poi archiviati, trasferiti e analizzati in modo sicuro. Con Bit Gold stava cercando di imitare il più 
-possibile nello spazio cibernetico le caratteristiche di sicurezza e fiducia dell'oro.
+Nick Szabo nel 1998 comincia a riflettere sull'implementazione di un protocollo tramite il quale bit costosi e inimitabili 
+possano essere creati online con una dipendenza minima da terze parti fidate e poi archiviati, trasferiti e analizzati in modo
+sicuro. Con Bit Gold stava cercando di imitare il più possibile nello spazio cibernetico le caratteristiche di sicurezza e 
+fiducia dell'oro.
 
 **ENG** - https://bitcoinstan.io/prehistory/doc/1998_2.pdf
 </details>
 
 <details>
 <summary>Wei Dai B-money 🌱🔍</summary>
-Il cypherpunk Wei Dai mel 1998 propone nella mailing list dei cypherpunk due probabili soluzioni per ottenere un "sistema di denaro elettronico 
-anonimo e distribuito".
+Il cypherpunk Wei Dai nel 1998 propone, nella mailing list dei cypherpunk, due probabili soluzioni per ottenere un "sistema di 
+denaro elettronico anonimo e distribuito".
 
-1- Propone l'uso di una funzione di prova di lavoro per creare denaro come che si basa su Hashcash. Questa soluzione è impraticabile poiché richiede 
-un canale di trasmissione che sia non disturbabile e anche sincrono.
+1- Propone l'uso di una funzione di prova di lavoro per creare denaro che si basa su Hashcash. Questa soluzione è 
+impraticabile poiché richiede un canale di trasmissione che sia non disturbabile e anche sincrono.
 
-2- Il secondo protocollo prevede solo alcuni partecipanti (i "server") che t**ENG**ono conti pubblici, mentre gli altri verificano i loro saldi. È 
-richiesta una cauzione per diventare server, che viene persa in caso di disonestà. Questo sistema tende alla centralizzazione su pochi server.
-Questa soluzione verrà ripresa successivamente da altre crittovalute basate su meccanismo di consenso proof of stake.
+2- Il secondo protocollo prevede solo alcuni partecipanti (i server) che tengono conti pubblici, mentre gli altri 
+verificano i loro saldi. È richiesta una cauzione per diventare server che viene persa in caso di disonestà. Questo sistema 
+tende alla centralizzazione su pochi server. Questa soluzione verrà ripresa successivamente da altre crittovalute basate su 
+meccanismo di consenso proof of stake.
 
 
 | Caratteristica                | Stato  |
@@ -630,10 +638,11 @@ http://www.weidai.com/bmoney.txt
 
 <details>
 <summary>Liberty dollar - Bernard von NotHaus 🪙</summary>
-Bernard von NotHaus cerara una soluzione al denaro Fiat inflazionato.
-Il Liberty Dollar era strutturato attorno a un sistema di riserva di metalli preziosi, che in origine comprendeva solo oro e argento. Ogni emissione 
-di Liberty Dollar era direttamente correlata alla quantità di oro o argento custodita presso la società di von NotHaus. Nel 2007 oltre 250 mila
-persone detenevano certificati di liberty dollar. Nel 2009 fù costretto a chiudere l'attività perchè accusato di vari crimini. 
+Bernard von NotHaus cercava una soluzione al denaro Fiat inflazionato.
+Il Liberty Dollar era strutturato attorno ad un sistema di riserva di metalli preziosi che, in origine, comprendeva solo oro e 
+argento. Ogni emissione di Liberty Dollar era direttamente correlata alla quantità di oro o argento custodita presso la società 
+di von NotHaus. Nel 2007 oltre 250 mila persone detenevano certificati di liberty dollar. Nel 2009 fù costretto a chiudere 
+l'attività perchè accusato di vari crimini. 
 
 
 | Caratteristica                | Stato  |
@@ -685,7 +694,8 @@ L'economista Milton Friedman rilascia un'intervista e prevede l'arrivo di una mo
 
 <details>
 <summary>Elon Musk e Peter Tiel creano Paypal 🪙</summary>
-Elon Musk e Peter Tiel che avevano la medesima idea di "moneta per internet" si uniscono e creano Paypal. Non porteranno avanti la loro idea iniziale, ma creeranno il sistema di pagamento famoso per le valute tradizionali.
+Elon Musk e Peter Tiel che avevano la medesima idea di "moneta per internet" si uniscono e creano Paypal. Non porteranno avanti 
+la loro idea iniziale, ma creeranno il sistema di pagamento famoso per le valute tradizionali.
 
 **ENG** - https://en.wikipedia.org/wiki/The_PayPal_Wars
 
@@ -707,7 +717,8 @@ Elon Musk e Peter Tiel che avevano la medesima idea di "moneta per internet" si 
 
 <details>
 <summary>Bram Cohen crea BitTorrent 🌱🔍</summary>
-Dopo svariati tentativi di condivisione libera di file digitali, Bram Cohen trova la soluzione creando una rete peer to peer. BitTorrent è la dimostrazione che le reti p2p sono resilienti ad attacchi di censura da parte di governi.
+Dopo svariati tentativi di condivisione libera di file digitali, Bram Cohen trova la soluzione creando una rete peer to peer. 
+BitTorrent è la dimostrazione che le reti p2p sono resilienti ad attacchi di censura da parte di governi.
 
 **ITA** - https://it.wikipedia.org/wiki/BitTorrent_(software)
 
@@ -717,7 +728,8 @@ Dopo svariati tentativi di condivisione libera di file digitali, Bram Cohen trov
 
 <details>
 <summary>Patriot Act ⚠️</summary>
-Dopo l'attacco delle torri gemelle viene rilasciata una legge federale che incrementa la sorveglianza ed i controlli sulla finanza personale dei cittadini.
+Dopo l'attacco delle torri gemelle viene rilasciata una legge federale che incrementa la sorveglianza ed i controlli sulla 
+finanza personale dei cittadini.
 **ITA** - https://it.wikipedia.org/wiki/USA_PATRIOT_Act
 
 **ENG** - https://en.wikipedia.org/wiki/Patriot_Act
@@ -733,9 +745,9 @@ Dopo l'attacco delle torri gemelle viene rilasciata una legge federale che incre
 
 <details>
 <summary>Second Life, Linden Lab 🔍</summary>
-La società Linden Lab sviluppa un gioco di nome Second Life. All'interno del gioco, era presente una moneta scambiabile anche al di fuori del gioco.
-Le politiche monetarie differenti di questo token, hanno portato ad un apprezzamento di valore rispetto al dollaro. Più avanti interverranno le
-autorità per non permettere al linden dollar di circolare al di fuori del videogioco.
+La società Linden Lab sviluppa un gioco di nome Second Life. All'interno del gioco, era presente una moneta scambiabile anche al
+di fuori del gioco. Le politiche monetarie differenti di questo token, hanno portato ad un apprezzamento di valore rispetto al 
+dollaro. Più avanti interverranno le autorità per non permettere al linden dollar di circolare al di fuori del videogioco.
 
 
 
