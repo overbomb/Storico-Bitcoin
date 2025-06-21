@@ -102,10 +102,11 @@ Il Computer Z2, sviluppato dall'ingegnere tedesco Konrad Zuse, è considerato il
 <summary>1971&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚠️</summary>
 
 <details>
-<summary>Nixon Shock -e l'inizio della moneta FIAT⚠️</summary>
+<summary>Nixon Shock e l'inizio della moneta FIAT⚠️</summary>
 
-Il Nixon Shock, avvenuto il 15 agosto 1971, è stato un insieme di decisioni economiche del presidente Richard Nixon, tra cui la sospensione della 
-convertibilità del dollaro in oro. Questo ha segnato la fine agli accordi di Bretton Woods e l'inizio di un sistema monetario basato su valute FIAT.
+Il Nixon Shock, avvenuto il 15 agosto 1971, è stato un insieme di decisioni economiche del presidente Richard Nixon, tra cui la 
+sospensione della convertibilità del dollaro in oro. Questo ha segnato la fine agli accordi di Bretton Woods e l'inizio di un 
+sistema monetario basato su valute fiT.
 
 ⚠️ Questa data rappresenta un punto di partenza per la ricerca di alternative al sistema monetario tradizionale.
 
@@ -132,8 +133,9 @@ convertibilità del dollaro in oro. Questo ha segnato la fine agli accordi di Br
 <details>
 <summary>TCP Protocol "A Protocol for Packet Network Intercommunication" 🔍</summary>
 
-Questo studio segna la nascita di Internet e getta le basi per il protocollo che regola la comunicazione tra reti di pacchetti. Gli autori di questo 
-protocollo sono considerati pionieri di Internet, un'infrastruttura fondamentale su cui si basa anche il protocollo Bitcoin.
+Questo studio segna la nascita di Internet e getta le basi per il protocollo che regola la comunicazione tra reti di pacchetti. 
+Gli autori di questo protocollo sono considerati pionieri di Internet, un'infrastruttura fondamentale su cui si basa anche il 
+protocollo Bitcoin.
 
 
 **ITA**  https://it.wikipedia.org/wiki/Transmission_Control_Protocol
@@ -152,7 +154,9 @@ protocollo sono considerati pionieri di Internet, un'infrastruttura fondamentale
 <details>
 <summary>Viene pubblicato il paper "New Directions in Cryptography" 🔍</summary>
 
-Viene introdotta la crittografia Diffie-Hellman. Fino a quel momento, la crittografia si basava esclusivamente su sistemi simmetrici che non garantivano la sicurezza nelle reti di comunicazione, poiché la chiave crittografica non poteva essere condivisa in spazi non sicuri.
+Viene introdotta la crittografia Diffie-Hellman. Fino a quel momento, la crittografia si basava esclusivamente su sistemi 
+simmetrici che non garantivano la sicurezza nelle reti di comunicazione, poiché la chiave crittografica non poteva essere 
+condivisa in spazi non sicuri.
 
 Whitfield Diffie e Martin E. Hellman scoprono un nuovo metodo per crittografare i messaggi basato sull'uso di chiavi pubbliche e private. Questa innovazione rappresenta una svolta fondamentale nella crittografia. 
 
