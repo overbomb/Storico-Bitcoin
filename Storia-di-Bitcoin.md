@@ -146,11 +146,9 @@ protocollo sono considerati pionieri di Internet, un'infrastruttura fondamentale
 <details>
 <summary>Viene pubblicato il paper "New Directions in Cryptography" 🔍</summary>
 
-Viene introdotta la crittografia Diffie-Hellman. Fino a quel momento, la crittografia si basava esclusivamente su sistemi simmetrici, che non 
-garantivano la sicurezza nelle reti di comunicazione, poiché la chiave crittografica non poteva essere condivisa in spazi non sicuri.
+Viene introdotta la crittografia Diffie-Hellman. Fino a quel momento, la crittografia si basava esclusivamente su sistemi simmetrici che non garantivano la sicurezza nelle reti di comunicazione, poiché la chiave crittografica non poteva essere condivisa in spazi non sicuri.
 
-Whitfield Diffie e Martin E. Hellman scoprono un nuovo metodo per crittografare i messaggi, basato sull'uso di chiavi pubbliche e private. Questa 
-innovazione rappresenta una svolta fondamentale nella crittografia. 
+Whitfield Diffie e Martin E. Hellman scoprono un nuovo metodo per crittografare i messaggi basato sull'uso di chiavi pubbliche e private. Questa innovazione rappresenta una svolta fondamentale nella crittografia. 
 
 **ENG** - [Paper](https://www.cs.jhu.edu/~rubin/courses/sp03/papers/diffie.hellman.pdf)
 </details>
@@ -165,8 +163,8 @@ innovazione rappresenta una svolta fondamentale nella crittografia.
 <details>
 <summary>R. Rivest, A. Shamir and L. Adleman RSA Public-key Cryptosystems 🔍</summary>
   
-Il documento RSA Public-key Cryptosystems introduce il sistema di crittografia RSA, che utilizza la fattorizzazione di numeri interi grandi come base 
-per la sicurezza.
+Il documento RSA Public-key Cryptosystems introduce il sistema di crittografia RSA  che utilizza la fattorizzazione di numeri 
+interi grandi come base per la sicurezza.
 
 [Paper](https://bitcoinstan.io/prehistory/doc/1978.pdf)
 </details>
@@ -174,15 +172,16 @@ per la sicurezza.
 <details>
 <summary>"The Denationalization of Money" di Friedrich August von Hayek 🌱</summary>
 
-Libro molto influente scritto da Friedrich August von Hayek intitolato "The Denationalization of Money". L'autore, Friedrich Hayek, è premio nobel ed 
-esponente della scuola austriaca di economia. In questo libro, Hayek discute vari aspetti dell'economia, ma uno dei temi principali è la critica al 
-monopolio statale sul denaro. Egli sostiene che questo monopolio è una pratica recente e disfunzionale, mai vista nella storia in forma totale. 
-Sebbene ci siano stati casi di monopolio limitato, come quello sul conio, il monopolio attuale è senza precedenti ed ha avuto effetti distruttivi. 
-Hayek argomenta che il denaro dovrebbe essere emesso e scelto liberamente dagli attori del mercato, senza alcun monopolio coercitivo o 
-centralizzazione, che porta a corruzione e crisi.
+Libro molto influente scritto da Friedrich August von Hayek intitolato "The Denationalization of Money". L'autore, Friedrich 
+Hayek, è premio nobel ed esponente della scuola austriaca di economia. In questo libro Hayek discute vari aspetti dell'economia,
+ma uno dei temi principali è la critica al monopolio statale sul denaro. Egli sostiene che questo monopolio è una pratica recente 
+e disfunzionale, mai vista nella storia in forma totale. Sebbene ci siano stati casi di monopolio limitato, come quello sul 
+conio, il monopolio attuale è senza precedenti ed ha avuto effetti distruttivi. Hayek argomenta che il denaro dovrebbe essere 
+emesso e scelto liberamente dagli attori del mercato, senza alcun monopolio coercitivo o centralizzazione che porta a corruzione 
+e crisi.
 
-In un'intervista, Hayek ribadisce che il controllo statale sul denaro ha sempre avuto conseguenze negative. Sostiene che l'unico modo per tornare a un
-sistema monetario sano sarà creare qualcosa che lo Stato non possa fermare.
+In un'intervista, Hayek ribadisce che il controllo statale sul denaro ha sempre avuto conseguenze negative. Sostiene che l'unico 
+modo per tornare a un sistema monetario sano sarà creare qualcosa che lo Stato non possa fermare.
 
 [Video](https://www.youtube.com/watch?v=BZ3JWGibgtw)
 </details>
@@ -197,10 +196,10 @@ sistema monetario sano sarà creare qualcosa che lo Stato non possa fermare.
 <details>
 <summary>Ralph Merkle "Protocols for public key cryptosystems" 🔍</summary>
 
-Ralph Merkle è un noto scienziato informatico e pioniere nel campo della crittografia. Nel 1980, Merkle pubblicò un paper intitolato "Protocols for 
-public key cryptosystems", in cui introdusse il concetto di Merkle Tree. I Merkle Tree garantiscono che anche una piccola modifica ai dati originali
-comporti un cambiamento significativo nell'hash, rendendo semplice rilevare eventuali alterazioni. Questo schema crittografico è utilizzato ampiamente 
-nelle reti p2p e su Bitcoin.
+Ralph Merkle è un noto scienziato informatico e pioniere nel campo della crittografia. Nel 1980, Merkle pubblicò un paper 
+intitolato "Protocols for public key cryptosystems", in cui introdusse il concetto di Merkle Tree. I Merkle Tree garantiscono che 
+anche una piccola modifica ai dati originali comporti un cambiamento significativo nell'hash, rendendo semplice rilevare 
+eventuali alterazioni. Questo schema crittografico è utilizzato ampiamente nelle reti p2p e su Bitcoin.
 
 **ITA** - [Wikipedia](https://it.wikipedia.org/wiki/Albero_di_Merkle)  
 **ENG** - [Paper](https://www.ralphmerkle.com/papers/Protocols.pdf)
@@ -209,10 +208,10 @@ nelle reti p2p e su Bitcoin.
 <details>
 <summary>New Libertarian Manifesto - Samuel Edward Konkin III 🌱</summary>
 
-Konkin ha introdotto l'agorismo come una forma di anarchismo che enfatizza l'importanza del mercato libero e delle interazioni volontarie tra 
-individui. L'agorismo si distingue per la sua critica all'interventismo statale e promuove l'idea di creare una società libertaria attraverso l'azione 
-diretta e l'uso di mercati neri e alternativi. L'agorismo rappresenta una base fondamentale per ciò che si svilupperà in seguito, in particolare nel 
-contesto del pensiero cypherpunk.
+Konkin ha introdotto l'agorismo come una forma di anarchismo che enfatizza l'importanza del mercato libero e delle interazioni 
+volontarie tra individui. L'agorismo si distingue per la sua critica all'interventismo statale e promuove l'idea di creare una 
+Società libertaria attraverso l'azione diretta e l'uso di mercati neri e alternativi. L'agorismo rappresenta una base 
+fondamentale per ciò che si svilupperà in seguito, in particolare nel contesto del pensiero cypherpunk.
 
 **ENG** - [Manifesto](https://praxeology.net/NewLibertarianManifesto.pdf)
 </details>
@@ -227,9 +226,9 @@ contesto del pensiero cypherpunk.
 <details>
 <summary>IPv4 (Internet Protocol versione 4)🔍🌱</summary>
 
-Nel 1981 viene rilasciata la versione 4 del protocollo IP. Tutt'oggi, nella maggior parte dei casi, quando accediamo ad internet, utilizziamo questa 
-versione del protocollo che non viene aggiornata dal 1981. Si pensa che un giorno possa accadere lo stesso per il protocollo Bitcoin e che non ci sia 
-la necessità di doverlo aggiornare continuamente.
+Nel 1981 viene rilasciata la versione 4 del protocollo IP. Tutt'oggi, nella maggior parte dei casi, quando accediamo ad internet, 
+utilizziamo questa versione del protocollo che non viene aggiornata dal 1981. Si pensa che un giorno possa accadere lo stesso per 
+il protocollo Bitcoin e che non ci sia la necessità di doverlo aggiornare continuamente.
 
 **ITA** - [Wikipedia](https://it.wikipedia.org/wiki/IPv4)  
 **ENG** - [Wikipedia](https://en.wikipedia.org/wiki/IPv4)
@@ -240,12 +239,14 @@ la necessità di doverlo aggiornare continuamente.
 <details>
 <summary>David Chaum Untraceable Electronic Mail, Return Address and Digital Pseudonyms🔍🌱</summary>
 
-David Chaum introduce una tecnica innovativa basata sulla crittografia a chiave pubblica, che permette a un sistema di posta elettronica di nascondere 
-sia l'identità dei partecipanti alla comunicazione sia il contenuto dei messaggi, anche in presenza di un sistema di telecomunicazione non sicuro. 
-Questa è la prima volta che la crittografia a chiave pubblica viene impiegata per generare firme digitali, utilizzando la crittografia per certificare
-le informazioni.
+David Chaum introduce una tecnica innovativa basata sulla crittografia a chiave pubblica che permette a un sistema di posta 
+elettronica di nascondere sia l'identità dei partecipanti alla comunicazione sia il contenuto dei messaggi, anche in presenza di
+un sistema di telecomunicazione non sicuro. 
+Questa è la prima volta che la crittografia a chiave pubblica viene impiegata per generare firme digitali, utilizzando la 
+crittografia per certificare le informazioni.
 
-**ENG** - [Paper](https://chaum.com/wp-content/uploads/2022/09/UNTRACEABLE-ELECTRONIC-MAIL-RETURN-ADDRESSES-AND-DIGITAL-PSEUDONYMS-tech-report.pdf)
+**ENG** - [Paper](https://chaum.com/wp-content/uploads/2022/09/UNTRACEABLE-ELECTRONIC-MAIL-RETURN-ADDRESSES-AND-DIGITAL-
+PSEUDONYMS-tech-report.pdf)
 </details>
 
 </details>
@@ -258,9 +259,9 @@ le informazioni.
 <details>
 <summary>Murray Rothbard - The Ethics of Liberty🌱</summary>
 
-L'etica della libertà" di Murray Rothbard, pubblicato nel 1982, è un libro importante che critica l'interferenza dello stato nella proprietà privata.
-Rothbard sostiene che ogni volta che lo stato interviene, viola la libertà delle persone e che una società senza stato è non solo possibile, ma è 
-anche l'unica che rispetta i diritti naturali.
+L'etica della libertà" di Murray Rothbard, pubblicato nel 1982, è un libro importante che critica l'interferenza dello stato 
+nella proprietà privata. Rothbard sostiene che ogni volta che lo stato interviene, viola la libertà delle persone e che una 
+società senza stato è non solo possibile, ma è anche l'unica che rispetta i diritti naturali.
 </details>
 
 </details>
@@ -273,8 +274,8 @@ anche l'unica che rispetta i diritti naturali.
 <details>
 <summary>David Chaum - Blind Signatures for Untraceable Payments🔍</summary>
 
-David Chaum introduce un sistema di firme cieche, che permettono di oscurare un messaggio prima di esser firmato. Ha applicazioni su vari strumenti di 
-Bitcoin come Whirlpool.
+David Chaum introduce un sistema di firme cieche che permettono di oscurare un messaggio prima di esser firmato. Questo sistema
+crittografico trova applicazione applicazione su vari strumenti di Bitcoin come Whirlpool.
 
 **ENG** - [Paper](https://github.com/pburkart/Blind-Signatures-for-Untraceable-Payments/blob/main/Paper.md)
 </details>
@@ -283,7 +284,8 @@ Bitcoin come Whirlpool.
 <details>
 <summary>Richard Stallman - GNU</summary>
 
-GNU è l'acronimo di "GNU's Not Unix". È un progetto avviato da Richard Stallman nel 1983 con l'obiettivo di sviluppare un sistema operativo completamente libero. Il progetto GNU è stato fondamentale per la diffusione del concetto di software libero.
+GNU è l'acronimo di "GNU's Not Unix". È un progetto avviato da Richard Stallman nel 1983 con l'obiettivo di sviluppare un sistema 
+operativo completamente libero. Il progetto GNU è stato fondamentale per la diffusione del concetto di software libero.
 
 **ITA** - [Youtube](https://www.youtube.com/watch?v=y4ko7LnLs4c)
 **ENG** - [GNU Manifesto](https://www.gnu.org/gnu/manifesto.en.html)
@@ -299,8 +301,9 @@ GNU è l'acronimo di "GNU's Not Unix". È un progetto avviato da Richard Stallma
 <details>
 <summary>Elliptic Curve Cryptography - Neal Koblitz 🔍</summary>
 
-Il testo "Elliptic Curve Cryptography" tratta della crittografia a chiave pubblica basata sulle curve ellittiche su campi finiti, una forma avanzata e
-più efficiente di crittografia a chiave pubblica. La crittografia a curve ellittiche oggi è uno standard utilizzato per garantire la sicurezza delle 
+Il testo "Elliptic Curve Cryptography" tratta della crittografia a chiave pubblica basata sulle curve ellittiche su campi finiti, 
+una forma avanzata e più efficiente di crittografia a chiave pubblica. La crittografia a curve ellittiche oggi è uno standard 
+utilizzato per garantire la sicurezza delle 
 chiavi private.
 
 **ENG** - [Paper](https://web.archive.org/web/20180726024835/https://www.ams.org/journals/mcom/1987-48-177/S0025-5718-1987-0866109-5/S0025-5718-1987-0866109-5.pdf)
@@ -309,9 +312,9 @@ chiavi private.
 <details>
 <summary>Transaction system to make big brother obsolete - David Chaum 🌱</summary>
 
-Il testo di David Chaum affronta temi come la moneta digitale, l'anonimato e il pseudoanonimato. Ha ispirato l'uso della crittografia per proteggere 
-la privacy degli individui nei confronti dei governi, introducendo concetti fondamentali che hanno influenzato il movimento Cypherpunk emerso pochi 
-anni dopo.
+Il testo di David Chaum affronta temi come la moneta digitale, l'anonimato e lo pseudoanonimato. Ha ispirato l'uso della 
+crittografia per proteggere la privacy degli individui nei confronti dei governi, introducendo concetti fondamentali che hanno 
+influenzato il movimento Cypherpunk emerso pochi anni dopo.
 
 **ENG** - [Paper](https://chaum.com/security-without-identification/)
 </details>
@@ -326,9 +329,9 @@ anni dopo.
 <details>
 <summary>Timothy C. May The Crypto-Anarchist's Manifesto 🌱</summary>
 
-Timothy C. May nel 1988 scrive che ci sarà larga diffusione dell'uso della crittografia per difendere la privacy delle comunicazioni e delle 
-interazioni su internet tra le persone. Nel testo è scritto che la diffusione dell'utilizzo della crittografia sarà contrastata da parte di governi ma 
-che non potrà essere impedita.
+Timothy C. May nel 1988 scrive che ci sarà larga diffusione dell'uso della crittografia per difendere la privacy delle 
+comunicazioni e delle interazioni su internet tra le persone. Nel testo è scritto che la diffusione dell'utilizzo della 
+crittografia sarà contrastata da parte di governi ma che non potrà essere impedita.
 
 **ITA** - [Biblioteca Bitcoin](https://bibliotecabitcoin.org/cypherpunk/timothy-may/the-crypto-anarchist-manifesto/)  
 **ENG** - [Nakamoto Institute](https://nakamotoinstitute.org/library/crypto-anarchist-manifesto/)
@@ -344,10 +347,11 @@ che non potrà essere impedita.
 <details>
 <summary>David Chaum founded Digicash 🪙</summary>
 
-David Chaum crea una società che si chiama Digicash. Digicash propone un servizio di pagamento di nome ecash che dà la possibilità di prelevare 
-dollari dal conto in banca e detenerli sotto forma di token digitale sul proprio dispositivo elettronico in locale. La sua particolarità è 
-nell'utilizzo di crittografia a chiave pubblica e crittografia cieca (blind signatures) per garantire privacy nei pagamenti. Digicash per registrare e 
-coordinare le transazioni utilizza un server centrale, similmente a come fa una banca.
+David Chaum crea una società che si chiama Digicash. Digicash propone un servizio di pagamento di nome ecash che dà la 
+possibilità di prelevare dollari dal conto in banca e detenerli sotto forma di token digitale sul proprio dispositivo elettronico
+in locale. La sua particolarità è nell'utilizzo di crittografia a chiave pubblica e crittografia cieca (blind signatures) per 
+garantire privacy nei pagamenti. Digicash per registrare e coordinare le transazioni utilizza un server centrale, similmente a 
+come fa una banca.
 
 | Caratteristica                | Stato  |
 |-------------------------------|--------|
@@ -365,8 +369,9 @@ coordinare le transazioni utilizza un server centrale, similmente a come fa una 
 <details>
 <summary>Tim Berners-Lee inventore del World Wide Web🔍</summary>
 
-Tim Berners è un informatico britannico che nel 1989 presentò una proposta al CERN per un sistema che divenne poi il World Wide Web, implementando un 
-browser e un server HTTP. Nel 1993, il CERN rese disponibile il protocollo e il codice del Web senza diritti d'autore, consentendone un uso diffuso.
+Tim Berners è un informatico britannico che nel 1989 presentò una proposta al CERN per un sistema che divenne poi il World Wide 
+Web, implementando un browser e un server HTTP. Nel 1993, il CERN rese disponibile il protocollo e il codice del Web senza 
+diritti d'autore, consentendone un uso diffuso.
 
 **ITA** - [World Wide Web](https://it.wikipedia.org/wiki/World_Wide_Web)  
 **ENG** - [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web)
@@ -382,8 +387,8 @@ browser e un server HTTP. Nel 1993, il CERN rese disponibile il protocollo e il 
 <details>
 <summary>Claus Peter Schnorr brevetta la firma di Schnorr🔍</summary>
 
-Il matematico Peter Schnorr fa un brevetto su una firma digitale che utilizza la crittografia a curva ellittica. Il brevetto di questa firma scade nel 
-2008 ma viene implementata solo nel 2021 con l'aggiornamento taproot.
+Il matematico Peter Schnorr fa un brevetto su una firma digitale che utilizza la crittografia a curva ellittica. Il brevetto di 
+questa firma scade nel 2008 ma la firma schnorr sarà implementata solo nel 2021 con l'aggiornamento taproot.
 
 **ITA** - [Schnorr](https://it.wikipedia.org/wiki/Firma_di_Schnorr)  
 **ENG** - [Schnorr](https://www.geeksforgeeks.org/computer-networks/schnorr-digital-signature/)
@@ -408,9 +413,9 @@ Un sistema che utilizza crittografia forte per scambiare messaggi con massimo li
 <details>
 <summary>S. Haber and W.S. Stornetta How to time-stamp a digital document 🔍</summary>
 
-Stuart Haber e Scott Stornetta sono due studiosi. Nel 1991 rilasciano pubblicano il documento 'How to time-stamp a digital document'. Questo documento 
-verrà citato nel famoso whitepaper di Satoshi Nakamoto nel 2008. I due studiosi elaborano un sistema per certificare l'esistenza di un documento in un 
-certo tempo.
+Stuart Haber e Scott Stornetta sono due studiosi che nel 1991 pubblicano il documento 'How to time-stamp a digital
+document'. Questo documento verrà citato nel famoso whitepaper di Satoshi Nakamoto nel 2008. I due studiosi elaborano un sistema
+per certificare l'esistenza di un documento in un certo tempo.
 
 **ENG** - [Springer](https://link.springer.com/article/10.1007/BF00196791)
 </details>
@@ -427,8 +432,9 @@ certo tempo.
 
 Nel 1992 nasce ufficialmente il movimento cypherpunk.
 
-Il nome "Cypherpunk" coniato da Jude Milhon, trae ispirazione dal genere narrativo Cyberpunk e deriva dalla fusione di cypher (codice) e di punk 
-(ribellione). Il movimento Cypherpunk, è l'antagonista del mondo distopico descritto dalla letteratura cyberpunk.
+Il nome "Cypherpunk", coniato da Jude Milhon, trae ispirazione dal genere narrativo Cyberpunk e deriva dalla fusione di cypher 
+(codice) e di punk (ribellione). Il movimento Cypherpunk è l'antagonista del mondo distopico descritto dalla letteratura
+cyberpunk.
 
 È il movimento che porterà alla creazione di Bitcoin.
 
@@ -449,8 +455,8 @@ La lista: [Mailing List Archive](https://mailing-list-archive.cryptoanarchy.wiki
 <details>
 <summary>"Pricing via Processing or Combatting Junk Mail" di Cynthia Dwork e Moni Naor 🌱🔍</summary>
 
-Con questo documento, nasce l'idea di proof of work, per evitare lo spam nelle mail. Adam Back prenderà ispirazione da questo documento per 
-l'implementazione di Hashcash.
+Con questo documento nasce l'idea di proof of work per evitare lo spam nelle mail. Adam Back prenderà ispirazione da questo 
+documento per l'implementazione di Hashcash.
 
 **ENG** - [PDF](https://web.cs.dal.ca/~abrodsky/7301/readings/DwNa93.pdf)
 </details>
@@ -465,8 +471,8 @@ l'implementazione di Hashcash.
 <details>
 <summary>Eric Hughes, A Cypherpunk's Manifesto 🔍</summary>
 
-In questo manifesto viene chiarito benissimo il concetto di privacy ed il ruolo che deve avere la crittografia per garantirla in una società aperta e 
-digitale.
+In questo manifesto viene chiarito benissimo il concetto di privacy ed il ruolo che deve avere la crittografia per garantirla in 
+una società aperta e digitale.
 
 **ITA** - [Biblioteca Bitcoin](https://bibliotecabitcoin.org/cypherpunk/eric-hughes/a-cypherpunks-manifesto/)  
 **ENG** - [Activism.net](https://www.activism.net/cypherpunk/manifesto.html)
@@ -484,13 +490,15 @@ digitale.
 
 FAQ del Movimento Cypherpunk di Timothy C. May.
 
-**ENG** - [Cyphernomicon](https://web.archive.org/web/20111115030917if_/http://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.txt)
+**ENG** - [Cyphernomicon]
+(https://web.archive.org/web/20111115030917if_/http://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.txt)
 </details>
 
 <details>
 <summary>Cypher wars⚠️</summary>
 
-Diversi Cypherpunk partecipano alla lotta contro il governo degli Stati Uniti che voleva mettere restrizioni sull'uso della crittografia.
+Diversi Cypherpunk partecipano alla lotta contro il governo degli Stati Uniti che voleva mettere restrizioni sull'uso della 
+crittografia.
 
 Documentario con sottotitoli in inglese: [YouTube](https://www.youtube.com/watch?v=EcC0RNsallc)
 </details>
@@ -498,8 +506,8 @@ Documentario con sottotitoli in inglese: [YouTube](https://www.youtube.com/watch
 <details>
 <summary>Daniel C. Lynch CyberCash 🔍</summary>
 
-Daniel C. implementa Cybercash, uno strumento per pagamenti digitali basato sul dollaro. Aveva un sistema di test con un numero finito di monete. Le 
-monete di test, essendo scarse, avevano acquisito più valore del dollaro.
+Daniel C. implementa Cybercash, uno strumento per pagamenti digitali basato sul dollaro. Aveva un sistema di test con un numero 
+finito di monete. Le monete di test, essendo scarse, avevano acquisito più valore del dollaro.
 
 **ENG** - [Wikipedia](https://en.wikipedia.org/wiki/CyberCash)
 </details>
@@ -514,8 +522,9 @@ monete di test, essendo scarse, avevano acquisito più valore del dollaro.
 <details>
 <summary>Nasce E-gold fondato da Douglas Jackson e Barry K. Downey 🪙</summary>
 
-Douglas Jackson e Barry K. Downey fondano E-gold per permettere alle persone di comprare oro con valuta Fiat e ricevere token rappresentativi della
-quantità d'oro acquistata. Il token permetteva di essere scambiato online in modo istantaneo. I due fondatori di E-gold furono chiamati a processo e 
+Douglas Jackson e Barry K. Downey fondano E-gold per permettere alle persone di comprare oro con valuta Fiat e ricevere token 
+rappresentativi della quantità d'oro acquistata. Il token permetteva di essere scambiato online in modo istantaneo. I due 
+fondatori di E-gold furono chiamati a processo e 
 subirono conseguenze legali.
 
 | Caratteristica                | Stato  |
@@ -533,8 +542,9 @@ subirono conseguenze legali.
 <details>
 <summary>NSA How To Make A Mint di Laurie Law, Susan Sabett e Jerry Solinas 🌱</summary>
 
-In questo documento di Laurie Law, Susan Sabett e Jerry Solinas viene discussa l'importanza crescente delle comunicazioni in rete nell'era 
-dell'informazione, con particolare attenzione al commercio elettronico e alla necessità di sistemi di pagamento elettronico sicuri ed efficienti.
+In questo documento di Laurie Law, Susan Sabett e Jerry Solinas viene discussa l'importanza crescente delle comunicazioni in rete
+nell'era dell'informazione, con particolare attenzione al commercio elettronico e alla necessità di sistemi di pagamento 
+elettronico sicuri ed efficienti.
 
 
 **ENG** - [MIT](https://groups.csail.mit.edu/mac/classes/6.805/articles/money/nsamint/nsamint.htm)
@@ -549,27 +559,32 @@ dell'informazione, con particolare attenzione al commercio elettronico e alla ne
 
 <details>
 <summary>Adam Back HashCash, DOS counter-measure w/ proof-of-work 🌱🔍</summary>
-Nel maggio 1997 Hashcash è stato originariamente proposto come meccanismo per limitare l'abuso sistematico delle risorse internet senza costo ed 
-  illimitate, come l'email e i remailer anonimi. Il documento di hashcash sarà citato nel whitepaper di Satoshi Nakamoto. 
+Nel maggio 1997 Hashcash è stato originariamente proposto come meccanismo per limitare l'abuso sistematico delle risorse internet
+senza costo ed illimitate, come l'email e i remailer anonimi. Il documento di hashcash sarà citato nel whitepaper di Satoshi 
+Nakamoto. 
 
 **ENG** - https://bitcoinstan.io/prehistory/doc/1997_1.pdf
 </details>
 
 <details>
-<summary>Nick Szabo Formalizing and Securing Relationships on Public Networks - Smart contracts, Third part vulnerabilities 🌱🔍</summary>
-Nick Szabo, nel suo paper "Formalizing and Securing Relationships on Public Networks", propone di ampliare il concetto di trasferimento di denaro 
-elettronico, andando oltre il l' invio di cash da una chiave pubblica all'altra, come descritto da David Chaum con e-Cash. Propone l'utilizzo di smart
-contracts per facilitare tutti i passaggi del processo contrattuale. Attualmente v**ENG**ono usati per conti multifirma, canali lightining network ed 
+<summary>Nick Szabo Formalizing and Securing Relationships on Public Networks - Smart contracts, Third part vulnerabilities 🌱🔍
+</summary>
+Nick Szabo, nel suo paper "Formalizing and Securing Relationships on Public Networks", propone di ampliare il concetto di 
+trasferimento di denaro elettronico, andando oltre il l' invio di cash da una chiave pubblica all'altra, come descritto da David 
+Chaum con e-Cash. Propone l'utilizzo di smart contracts per facilitare tutti i passaggi del processo contrattuale. Attualmente 
+vengono usati per conti multifirma, canali lightining network ed 
 altro.
 </details>
 
 <details>
 <summary>L'individuo Sovrano - William Rees-Mogg e James Dale Davidson 🌱</summary>
-In questo libro viene emerge l'importanza di internet per la libertà dell'individuo e la necessità di libero mercato tra monete digitali private.
+In questo libro viene emerge l'importanza di internet per la libertà dell'individuo e la necessità di libero mercato tra monete
+digitali private.
 
 **ENG** - https://www.lopp.net/pdf/The%20Sovereign%20Individual.pdf
 
-**ITA** - Sul profilo github di Ventunobtc si trova il libro in italiano. Link al loro profilo github di Ventunobtc: https://github.com/ventunobtc
+**ITA** - Sul profilo github di Ventunobtc si trova il libro in italiano. Link al loro profilo github di Ventunobtc: 
+https://github.com/ventunobtc
 </details>
 
 </details>
