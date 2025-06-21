@@ -1788,5 +1788,24 @@ Il 19 Aprile Jeremy Rubin propone la BIP 119 da fare con speedy trial per fare C
 
 </details>
 
+---
+
+<details>
+<summary>2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔍</summary>
 
 
+
+<details>
+<summary>Bitcoin ETF 🔍</summary>
+  
+Il 10 Gennaio la SEC approva gli ETF su Bitcoin
+
+</details>
+
+
+<details>
+<summary>HALVING🎉</summary>
+  
+Il 20 Aprile 2024 avviene il 4° Halving e la nuova offerta di Bitcoin ogni 10 minuti è di 3,125 Bitcoin.
+
+</details>
