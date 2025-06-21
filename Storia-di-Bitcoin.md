@@ -28,13 +28,9 @@
 <details>
 <summary>Ordine esecutivo 6102 ⚠️</summary>
 
-Il 5 aprile 1933, il presidente Franklin D. Roosevelt firma l'ordine esecutivo 6102 che proibisce il possesso di oro in tutte le sue forme, comprese 
-monete, lingotti e certificati aurei, da parte di individui, associazioni o società residenti negli Stati Uniti d'America. Tutti i cittadini 
-statuinitensi sono costretti a consegnare l'oro in cambio di $ 20.67 per oncia (28,35 grammi circa). La maggior parte dell'oro dei cittadini era 
-tenuto al "sicuro" nelle banche. Quest'ultime consegnarono immediatamente l'oro dei cittadini al governo.
+Il 5 aprile 1933, il presidente Franklin D. Roosevelt firma l'ordine esecutivo 6102 che proibisce il possesso di oro in tutte le sue forme, comprese monete, lingotti e certificati aurei, da parte di individui, associazioni o società residenti negli Stati Uniti d'America. Tutti i cittadini statuinitensi sono costretti a consegnare l'oro in cambio di $ 20.67 per oncia (28,35 grammi circa). La maggior parte dell'oro dei cittadini era al "sicuro" nelle banche. Quest'ultime consegnarono immediatamente l'oro dei cittadini al governo.
 
-⚠️ Questa data è significativa perché sottolinea l'importanza di avere un denaro non confiscabile. Essa rappresenta la necessità di possedere un 
-denaro al portatore, senza dover riporre fiducia su terze parti per la sua custodia. Satoshi Nakamoto con Bitcoin rimuove totalmente il concetto di fiducia dalla moneta.
+⚠️ Questa data è significativa perché sottolinea l'importanza di avere  denaro non confiscabile. Essa rappresenta la necessità di possedere denaro senza dover riporre fiducia su terze parti per la sua custodia. Satoshi Nakamoto con Bitcoin rimuove totalmente il concetto di fiducia dalla moneta.
 
 In questo contesto, sembra che Satoshi Nakamoto possa aver scelto il 5 aprile come data di nascita fittizia ispirandosi a tale evento. Inoltre, è 
 probabile che abbia preso in considerazione il numero esecutivo 6102, invertendo i numeri per arrivare a 2016, che rappresenta il numero di blocchi 
@@ -706,9 +702,7 @@ Dopo svariati tentativi di condivisione libera di file digitali, Bram Cohen trov
 
 <details>
 <summary>Patriot Act ⚠️</summary>
-Dopo l'attacco delle torri gemelle viene rilasciata una legge federale, che incrementa la sorveglianza ed i controlli sulla finanza personale delle 
-persone.
-
+Dopo l'attacco delle torri gemelle viene rilasciata una legge federale che incrementa la sorveglianza ed i controlli sulla finanza personale dei cittadini.
 **ITA** - https://it.wikipedia.org/wiki/USA_PATRIOT_Act
 
 **ENG** - https://en.wikipedia.org/wiki/Patriot_Act
