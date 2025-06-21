@@ -661,7 +661,7 @@ l'attività perchè accusato di vari crimini.
 
 <details>
 <summary>Peter Tiel - coinfinity 🪙</summary>
-Peter Tiel nel 1998 vuole creare una moneta per internet, indipendete dalle valute fiat.
+Peter Tiel nel 1998 vuole creare una moneta per internet, indipendete dalle valute FIAT.
 </details>
 
 </details>
@@ -694,7 +694,7 @@ L'economista Milton Friedman rilascia un'intervista e prevede l'arrivo di una mo
 
 <details>
 <summary>Elon Musk e Peter Tiel creano Paypal 🪙</summary>
-Elon Musk e Peter Tiel che avevano la medesima idea di "moneta per internet" si uniscono e creano Paypal. Non porteranno avanti 
+Elon Musk e Peter Tiel, che avevano la medesima idea di "moneta per internet", si uniscono e creano Paypal. Non porteranno avanti 
 la loro idea iniziale, ma creeranno il sistema di pagamento famoso per le valute tradizionali.
 
 **ENG** - https://en.wikipedia.org/wiki/The_PayPal_Wars
@@ -746,7 +746,7 @@ finanza personale dei cittadini.
 <details>
 <summary>Second Life, Linden Lab 🔍</summary>
 La società Linden Lab sviluppa un gioco di nome Second Life. All'interno del gioco, era presente una moneta scambiabile anche al
-di fuori del gioco. Le politiche monetarie differenti di questo token, hanno portato ad un apprezzamento di valore rispetto al 
+di fuori dal gioco. Le politiche monetarie differenti di questo token, hanno portato ad un apprezzamento di valore rispetto al 
 dollaro. Più avanti interverranno le autorità per non permettere al linden dollar di circolare al di fuori del videogioco.
 
 
@@ -772,9 +772,10 @@ dollaro. Più avanti interverranno le autorità per non permettere al linden dol
 
 <details>
 <summary>Hal Finney RPOW - Reusable Proofs of Work 🪙</summary>
-Il cypherpunk Hal Finney rilascia programma RPOW, un sistema di moneta digitale che risolve la doppia spesa mantenendo la proprietà dei token 
-registrata su un server fidato. I server sono progettati per funzionare sul coprocessore crittografico sicuro IBM 4758, che è in grado di verificare
-in modo sicuro l'hash del software che sta eseguendo. Sposta la fiducia da una persona fisica all'hardware.
+Il cypherpunk Hal Finney rilascia il programma RPOW, un sistema di moneta digitale che risolve la doppia spesa mantenendo la 
+proprietà dei token, registrata su un server fidato. I server sono progettati per funzionare sul coprocessore crittografico sicuro
+IBM 4758 che è in grado di verificare in modo sicuro l'hash del software che sta eseguendo. Il sistema RPOW sposta la fiducia da
+una persona fisica all'hardware.
 
 
 | Caratteristica                | Stato  |
@@ -799,8 +800,8 @@ in modo sicuro l'hash del software che sta eseguendo. Sposta la fiducia da una p
 
 <details>
 <summary>Nick Szabo rilancia Bitgold 🪙</summary>
-Nel 2005 Nick Szabo cerca sviluppatori per creare un sistema monetario che riduca la dipendenza dalla fiducia in terze parti. Utilizzando funzioni di 
-prova di lavoro, Bit Gold permette di generare e verificare stringhe di bit in modo sicuro e distribuito.
+Nel 2005 Nick Szabo cerca sviluppatori per creare un sistema monetario che riduca la dipendenza della fiducia in terze parti. 
+Utilizzando funzioni di prova di lavoro, Bit Gold permette di generare e verificare stringhe di bit in modo sicuro e distribuito.
 
   
 
@@ -826,8 +827,9 @@ prova di lavoro, Bit Gold permette di generare e verificare stringhe di bit in m
 
 <details>
 <summary>Arthur Budovsky and Vladimir Kats creano Liberty Reserve 🪙</summary>
-Arthur Budovsky and Vladimir implementano un sistema come E-gold ma in Costa Rica, un paese strategico per ricevere meno pressioni da parte dello 
-stato. Tuttavia nel 2013 Arthur Budovsky verrà arrestato in Spagna ed estradato negli Stati Uniti nel 2014.
+Arthur Budovsky and Vladimir implementano un sistema come E-gold, ma in Costa Rica, un paese strategico per ricevere meno 
+pressioni da parte dello stato. Tuttavia, nel 2013, Arthur Budovsky verrà arrestato in Spagna ed estradato negli Stati Uniti nel 
+2014.
 
 **ENG** - https://ia800303.us.archive.org/28/items/704540-liberty-reserve-indictment/704540-liberty-reserve-indictment_text.pdf
 </details>
@@ -842,27 +844,27 @@ stato. Tuttavia nel 2013 Arthur Budovsky verrà arrestato in Spagna ed estradato
 
 <details>
 <summary>Scade il brevetto di firme Schnorr 🔍</summary>
-Nel 2008 scade il brevetto di firme Schnorr. Vedranno utilizzo su Bitcoin nel 2021 con l'aggiornamento Taproot.
+Nel 2008 scade il brevetto di firme Schnorr. Vedranno utilizzo su Bitcoin dal 2021 con l'aggiornamento Taproot.
 </details>
 
 <details>
 <summary>Crisi economica mondiale ⚠️</summary>
-La bancarotta di Lehman Brothers è stata il culmine della crisi dei mutui subprime. La fiducia sulla gestione dell'economia da parte del governo è in
-forte crisi.
+La bancarotta di Lehman Brothers è stata il culmine della crisi dei mutui subprime. La fiducia nella gestione dell'economia da 
+parte del governo è in forte crisi.
 </details>
 
 <details>
 <summary>Registrazione sito bitcoin.org</summary>
-Il 18 Agosto 2008 viene registrato il sito bitcoin.org. Viene registrato anonimamente attraverso il servizio di anonymous speech che accettava
-pagamenti cash o e-gold. Satoshi registrerà anche il dominio netcoin.com.
+Il 18 Agosto 2008 viene registrato il sito bitcoin.org. Viene registrato anonimamente attraverso il servizio di anonymous speech 
+che accettava pagamenti cash o e-gold. Satoshi registrerà anche il dominio netcoin.com.
 
 https://web.archive.org/web/20090313031316/https://www.anonymousspeech.com/default.aspx
 </details>
 
 <details>
 <summary>Satoshi Nakamoto pubblica il whitepaper di Bitcoin ₿🔍🌱🎊</summary>
-Il 31 Ottobre Satoshi Nakamoto pubblica il whitepaper di Bitcoin. Crea un denaro digitale senza controparte fidata, ed utilizza la proof of work per
-risolvere il problema della doppia spesa.
+Il 31 Ottobre Satoshi Nakamoto pubblica il whitepaper di Bitcoin. Crea un denaro digitale senza controparte fidata, utilizzando
+la PROOF OF WORK per risolvere il problema della doppia spesa.
 
 
 
@@ -880,14 +882,16 @@ https://bitcoin.org/en/bitcoin-paper
 
 <details>
 <summary>James A. Donald risponde al whitepaper di Satoshi Nakamoto</summary>
-Il 2 Novembre James A. Donald risponde alla pubblicazione di Satoshi Nakamoto portando scetticismo sulla possibilità di scalare il protocollo.
+Il 2 Novembre James A. Donald risponde alla pubblicazione di Satoshi Nakamoto portando scetticismo sulla possibilità di scalare 
+il protocollo.
 
 **ENG** - https://www.metzdowd.com/pipermail/cryptography/2008-November/014815.html
 </details>
 
 <details>
 <summary>Pre-release del software di Bitcoin</summary>
-Nel Novembre del 2008, Satoshi Nakamoto invia privatamente la versione alpha di bitcoin per poterla revisionare prima del rilascio ufficiale.
+Nel Novembre del 2008, Satoshi Nakamoto invia privatamente la versione alpha di bitcoin per poterla revisionare prima del
+rilascio ufficiale.
 
 **ENG**  [Nakamoto Institute](https://satoshi.nakamotoinstitute.org/code/)
 </details>
@@ -902,8 +906,9 @@ Nel Novembre del 2008, Satoshi Nakamoto invia privatamente la versione alpha di 
 
 <details>
 <summary>Blocco Genesi 🎊</summary>
-Il 3 gennaio 2009 Satoshi Nakamoto esegue la versione 0.1 di Bitcoin e mina il primo blocco della timechain, conosciuto con il nome "genesis block".
-All'interno del blocco Satoshi scrive il titolo in prima pagina del giornale "The Times" di Londra "Chancellor on brink of second bailout for banks".
+Il 3 gennaio 2009 Satoshi Nakamoto esegue la versione 0.1 di Bitcoin e mina il primo blocco della timechain, conosciuto con il 
+nome "genesis block". All'interno del blocco Satoshi scrive il titolo in prima pagina del giornale "The Times" di Londra 
+"Chancellor on brink of second bailout for banks".
 
 https://mempool.space/it/tx/4a5e1e4baab89f3a32518a88c31bc87f618f76673e2cc77ab2127b7afdeda33b
 
@@ -911,14 +916,14 @@ https://mempool.space/it/tx/4a5e1e4baab89f3a32518a88c31bc87f618f76673e2cc77ab212
 
 <details>
 <summary>Satoshi Nakamoto rilascia il Codice di Bitcoin </summary>
-Il 9 Gennaio 2009 Satoshi Nakamoto annuncia la versione 0.1 di Bitcoin sul sito https://sourceforge.net/p/bitcoin/news/ con il link per poter 
-scaricare il software.
+Il 9 Gennaio 2009 Satoshi Nakamoto annuncia la versione 0.1 di Bitcoin sul sito https://sourceforge.net/p/bitcoin/news/ con il 
+link per poter scaricare il software.
 </details>
 
 <details>
 <summary>Hal Finney pubblica su Twitter "Running Bitcoin" 🎊🌍</summary>
-Il giorno 11 Gennaio 2009, Hal Finney installa il software di Satoshi Nakamoto e condivide su Twitter la celebre frase "Running Bitcoin". Questo
-giorno viene ricordato e festeggiato tutti gli anni dalla community Bitcoin.
+Il giorno 11 Gennaio 2009, Hal Finney installa il software di Satoshi Nakamoto e condivide su Twitter la celebre frase "Running 
+Bitcoin". Questo giorno viene ricordato e festeggiato tutti gli anni dalla community Bitcoin.
 
 [Tweet](https://x.com/halfin/status/1110302988)
 
@@ -939,7 +944,7 @@ https://web.archive.org/web/20100414172629/http://newlibertystandard.wetpaint.co
 </details>
 
 <details>
-<summary>La prima vendita di Bitcoin per USD testimoniata da Martty Malmi</summary>
+<summary>La prima vendita di Bitcoin per USD testimoniata da Martti Malmi</summary>
 Il 5 ottobre 2009 Martti Malmi vende 5050 Bitcoin per 5.02 Dollari.
 
 tweet: https://x.com/marttimalmi/status/423455561703624704  
@@ -965,16 +970,17 @@ Il 22 Novembre il forum su SourceForge si sposta su Bitcointalk.
 
 <details>
 <summary>Pizza Day 🎊</summary>
-Il 22 Maggio 2010, lo sviluppatore Lazlo scambia 10000 Bitcoin per 2 pizze. Il 22 Maggio di tutti gli anni si festeggia il pizza day, in ricordo del 
-primo scambio di Bitcoin per un bene reale.
+Il 22 Maggio 2010, lo sviluppatore Lazlo scambia 10000 Bitcoin per 2 pizze. Il 22 Maggio di tutti gli anni si festeggia il pizza 
+day, in ricordo del primo scambio di Bitcoin per un bene reale.
 
 https://bitcointalk.org/index.php?topic=137.0
 </details>
 
 <details>
 <summary>Limite dello spazio del blocco ad 1 Mb ⚙️⚔️</summary>
-I blocchi di Bitcoin non hanno un limite massimo di dati da poter scrivere all'interno dei blocchi. Il 15 Luglio 2010 Satoshi Nakamoto rilascia una
-nuova versione del codice ed inserisce il parametro "Max block size" ad un 1 megabyte. Ora i blocchi non possono contenere più di 1 Mb di dati.
+I blocchi di Bitcoin non hanno un limite massimo di dati da poter scrivere all'interno dei blocchi. Il 15 Luglio 2010 Satoshi 
+Nakamoto rilascia una nuova versione del codice ed inserisce il parametro "Max block size" ad un 1 megabyte. Ora i blocchi non 
+possono contenere più di 1 Mb di dati.
 </details>
 
 <details>
@@ -993,25 +999,25 @@ A luglio 2010 MtGox offre servizio di Exchange per comprare e vendere Bitcoin pe
 
 <details>
 <summary>Satoshi Nakamoto modifica il codice di Bitcoin⚙️</summary>
-Nel 2010 Satoshi Nakamoto interviene più volte sul codice per risolvere problemi di sicurezza e stabilità del software. In particolare il 15 Agosto
-2010 viene sfruttato un bug che permette ad un utente della rete di creare 184,467,440,737.09551616 Bitcoin. Satoshi Nakamoto interviene per riparare
-il software.
+Nel 2010 Satoshi Nakamoto interviene più volte sul codice per risolvere problemi di sicurezza e stabilità del software. In 
+particolare il 15 Agosto 2010 viene sfruttato un bug che permette ad un utente della rete di creare 184,467,440,737.09551616 
+Bitcoin. Satoshi Nakamoto interviene per riparare il software.
 
 **ENG** - https://en.bitcoin.it/wiki/Value_overflow_incident
 </details>
 
 <details>
 <summary>Bug importante su Bitcoin🚧⚙️</summary>
-Il 15 Agosto un utente di Bitcoin sfrutta un baco e genera 184.5 miliardi di Bitcoin. Satoshi è ancora presente, dopo poche ore verrà rilasciato il 
-nuovo client che impedisce di sfruttare il baco.
+Il 15 Agosto un utente di Bitcoin sfrutta un baco e genera 184.5 miliardi di Bitcoin. Satoshi è ancora presente, dopo poche ore 
+verrà rilasciato il nuovo client che impedisce di sfruttare il baco.
 
 **ENG** - https://bitcointalk.org/index.php?topic=822.0
 </details>
 
 <details>
 <summary>Jeff Garzik suggerisce di togliere il limite di un Mega ⚔️</summary>
-Il 4 Ottobre 2010 lo sviluppatore Jeff Garzik rilascia un nuovo client che elimina il blocksize precedentemente inserito da Satoshi Nakamoto. Satoshi 
-Nakamoto non è d'accordo e suggerisce di rimandare la questione più avanti.
+Il 4 Ottobre 2010 lo sviluppatore Jeff Garzik rilascia un nuovo client che elimina il blocksize precedentemente inserito da 
+Satoshi Nakamoto. Satoshi Nakamoto non è d'accordo e suggerisce di rimandare la questione più avanti.
 
 **ENG** - https://bitcointalk.org/index.php?topic=1347.0
 </details>
@@ -1025,9 +1031,11 @@ Il 27 novembre 2010 lo sviluppatore Marek Palatinus (Slush) inventa il concetto 
 
 <details>
 <summary>Bitcoin e Wikileaks🌍</summary>
-Nel dicembre 2010, WikiLeaks ha affrontato un blocco finanziario da parte degli Stati Uniti, con diverse istituzioni che hanno interrotto le donazioni
-e i pagamenti a favore dell'organizzazione. Per aggirare le restrizioni, WikiLeaks sceglie Bitcoin come sistema di pagamento per ricevere donazioni.
-Satoshi Nakamoto invita WikiLeaks a non accettare Bitcoin perchè il protocollo è appena nato e potrebbe essere vulnerabile.
+Nel dicembre 2010, WikiLeaks ha affrontato un blocco finanziario da parte degli Stati Uniti, con diverse istituzioni bancarie e 
+di pagamenti che hanno interrotto le donazioni a favore dell'organizzazione. Per aggirare le restrizioni, WikiLeaks sceglie 
+Bitcoin come sistema di pagamento per ricevere donazioni.
+Satoshi Nakamoto invita WikiLeaks a non accettare Bitcoin per le donazioni perchè il protocollo è stato rilasiato da poco e 
+potrebbe essere vulnerabile.
 
 **ENG** - https://bitcointalk.org/index.php?topic=1735.msg26999#msg26999  
 **ENG** - https://bitcointalk.org/index.php?topic=2216.msg29280#msg29280
@@ -1062,14 +1070,15 @@ Nel Febbraio 2011 apre "The Silk Road", un sito onion su rete Tor dove è possib
 
 <details>
 <summary>Mike Hearn "impiegato Bitcoin"</summary>
-Nel Marzo 2011 Mike Hearn sviluppatore Google, propone a Google di esser pagato per lavorare sul protofollo Bitcoin il 20% del suo tempo. Sarà il 
-primo sviluppatore pagato per lavorare su Bitcoin.
+Nel Marzo 2011 Mike Hearn sviluppatore Google, propone a Google di esser pagato per lavorare sul protofollo Bitcoin il 20% del 
+suo tempo. Sarà il primo sviluppatore pagato per lavorare su Bitcoin.
 </details>
 
 <details>
 <summary>Satoshi Nakamoto(?) scrive l'ultima mail a Mike Hearn</summary>
-Mike Hearn rivela una mail ricevuta da Satoshi Nakamoto il 23 Aprile 2011 dove gli annuncia che lascia il progetto BITCOIN definitivamente per 
-dedicarsi ad altro e che Bitcoin è in buone mani con Gavin Andresen. Questa mail non viene messa in dubbio dalla community nel 2011 ma non ne è mai 
+Mike Hearn rivela una mail ricevuta da Satoshi Nakamoto il 23 Aprile 2011 dove gli annuncia che lascia il progetto BITCOIN 
+definitivamente per dedicarsi ad altro e che Bitcoin è in buone mani con Gavin Andresen. Questa mail non viene messa in dubbio 
+dalla community nel 2011 ma non ne è mai 
 stata verificata l'esistenza.  
 
 **ENG** [**MAIL**](https://plan99.net/~mike/satoshi-emails/thread5.html)
@@ -1077,14 +1086,15 @@ stata verificata l'esistenza.
 
 <details>
 <summary>Gregory Maxwell entra nella community di BitcoinTalk ⚔️🟠</summary>
-Il 5 maggio 2011 Gregory Maxwell scrive per la prima volta sul forum di Bitcointalk. Parteciperà attivamente alle discussioni sulla grandezza dei 
-blocchi di Bitcoin. Sin da subito fa notare l'importanza di avere blocchi con spazio limitato per creare scarsità ed un economia per scrivere 
-all'interno dei blocchi utile ad evitare lo spam.
+Il 5 maggio 2011 Gregory Maxwell scrive per la prima volta sul forum di Bitcointalk. Parteciperà attivamente alle discussioni 
+sulla grandezza dei blocchi di Bitcoin. Sin da subito fa notare l'importanza di avere blocchi con spazio limitato per creare 
+scarsità ed un economia per scrivere all'interno dei blocchi utile ad evitare lo spam.
 </details>
 
 <details>
 <summary>La seconda Crittovaluta</summary>
-Nel maggio 2011 Namecoin viene lanciata ed è la seconda crittovaluta creata dopo Bitcoin. Namecoin è un tentativo di portare i domini su Bitcoin.
+Nel maggio 2011 Namecoin viene lanciata ed è la seconda crittovaluta creata dopo Bitcoin. Namecoin è un tentativo di portare i 
+domini su Bitcoin.
 </details>
 
 <details>
@@ -1096,7 +1106,8 @@ Wikileaks comincia ad accettare donazioni in bitcoin
 
 <details>
 <summary>Bitcoin ad un dollaro 🌍</summary>
-Il 9 Febbraio 2011 il prezzo di Bitcoin supera il valore di 1 dollaro creando una corrente mediatica che porterà alla prima bolla di prezzo. In pochi 
+Il 9 Febbraio 2011 il prezzo di Bitcoin supera il valore di 1 dollaro creando una corrente mediatica che porterà alla prima bolla
+di prezzo. In pochi 
 mesi bitcoin raggiunge il valore di 29,60 dollari per poi crollare a 2 dollari in poche ore.  
 
 </details>
