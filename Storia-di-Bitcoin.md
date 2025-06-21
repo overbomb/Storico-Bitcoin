@@ -1253,7 +1253,7 @@ Il primo Ban di Bitcoin da parte del governo cinese.
 
 <details>
 <summary>Mt Gox, not your keys not your bitcoin</summary>
-Dopo svariati hack subiti dall'exchange negli anni, MtGox il 24 Febbraio 2014 è offline e le persone che hanno i bitcoin 
+Dopo svariati hack subiti dall'exchange negli anni, MtGox, il 24 Febbraio 2014, è offline e le persone che hanno i bitcoin 
 depositati sull'exchange non li otterranno più indietro. 
   
 **ENG** - [MEDIUM](https://medium.com/@bishr_tabbaa/the-rise-and-fall-of-mt-gox-whats-in-your-bitcoin-wallet-bd5eb4106f4e)
@@ -1298,10 +1298,9 @@ war.
 
 <details>
 <summary>Gavin Andresen Big Blocker ⚔️🟢</summary>
-Gavin Andresen il 15 aprile 2015 partecipa alla conferenza "Devcore" e discute sulla necessità di avere blocchi più grandi per 
-scalare Bitcoin. Nel Q&A successivo il 18 Aprile Gavin risponde che se non si troverà "accordo" sull'aumentare lo spazio nei 
-blocchi, imporrà la decisione a tutto il 
-network.  
+Gavin Andresen, il 15 aprile 2015, partecipa alla conferenza "Devcore" e discute della necessità di avere blocchi più grandi per 
+scalare Bitcoin. Nel Q&A successivo, il 18 aprile, Gavin risponde che se non si troverà "accordo" sull'aumentare lo spazio nei 
+blocchi, imporrà la decisione a tutto il network.  
   
 [Youtube](https://www.youtube.com/watch?v=RIafZXRDH7w)
 
@@ -1309,19 +1308,26 @@ network.
 
 <details>
 <summary>Vladimir van der Laan si oppone a modifiche senza consenso ⚔️🟠</summary>
-Il nuovo Maintener Vladimir van der Laan non è d'accordo sulla scelta di aumentare lo spazio nei blocchi soprattutto senza 
-consenso da parte della 
-rete.
+Il nuovo Maintener Vladimir van der Laan non è d'accordo sulla scelta di aumentare lo spazio nei blocchi, soprattutto senza 
+consenso da parte della rete.
   
 </details>
 
 <details>
-<summary>Le BIP di Giugno e Luglio 2015🚨</summary>
-BIP 101. Gavin Andresen con la BIP 101 🚨 propone un hard fork per aumentare la dimensione del blocco ogni anno. Mette una
-scadenza nell'implementazione al 11 Gennaio 2016 altrimenti passerà su Bitcoin XT. Non trova consenso.  
-BIP 102. Jeff Garzik con la BIP 102 propone un hard fork di aumentare il blocco fino a 2 mega. Non trova consenso perché non è 
+<summary>Le BIP di giugno e luglio 2015🚨</summary>
+BIP 101.
+  
+Gavin Andresen con la BIP 101 🚨 propone un hard fork per aumentare la dimensione del blocco ogni anno. La
+scadenza per l'implementazione è l' 11 Gennaio 2016, altrimenti passerà su Bitcoin XT. Non trova consenso.
+
+BIP 102.
+  
+Jeff Garzik con la BIP 102 propone un hard fork per aumentare il blocco fino a 2 mega. Non trova consenso perché non è 
 una soluzione per scalare sul lungo periodo.  
-BIP 103. Sipa con la BIP 103 propone un hard fork che aumenta la dimensione del blocco ogni anno del 17.7% fino al 2063. Non 
+
+BIP 103.
+
+Sipa con la BIP 103 propone un hard fork che aumenta la dimensione del blocco ogni anno del 17.7% fino al 2063. Non 
 trova consenso. 
   
 **ENG** [BIP 101](https://bips.dev/101/)  
@@ -1339,8 +1345,8 @@ Il 30 Luglio 2015 Vitalik Buterin lancia Ethereum.
 
 <details>
 <summary>THE BLOCK SIZE WAR ⚔️🟢</summary>
-Il 15 Agosto 2015 ha inizio la guerra della dimensione del blocco. Gavin Andresen smette di contribuire a Bitcoin Core e passa a 
-Bitcoin XT con Mike Hearn. Annunciano che nel nuovo aggiornamento di Bitcoin XT verrà implementata la BIP 101.  
+Il 15 agosto 2015 ha inizio la guerra della dimensione del blocco. Gavin Andresen smette di contribuire a Bitcoin Core e passa a 
+Bitcoin XT con Mike Hearn.  Gavin e Mike annunciano che nel nuovo aggiornamento di Bitcoin XT verrà implementata la BIP 101.  
   
 [**ENG**](https://en.bitcoin.it/wiki/Bitcoin_XT)
 
@@ -1348,10 +1354,9 @@ Bitcoin XT con Mike Hearn. Annunciano che nel nuovo aggiornamento di Bitcoin XT 
 
 <details>
 <summary>Riapparizione di SATOSHI?</summary>
-Il 15 Agosto dopo la dichiarazione di Mike Hearn e Gavin Andresen, una mail dalla casella di posta di Satoshi Nakamoto 
-satoshi@vistomail.com scrive che se 2 persone hanno il potere di decidere che cos'è Bitcoin, allora il progetto Bitcoin si può 
-dichiarare fallito. Non c'è certezza che questa mail 
-giunga da Satoshi Nakamoto.  
+Il 15 agosto, dopo la dichiarazione di Mike Hearn e Gavin Andresen, una mail dalla casella di posta di Satoshi Nakamoto 
+satoshi@vistomail.com scrive che, se 2 persone hanno il potere di decidere che cos'è Bitcoin, allora il progetto Bitcoin si può 
+dichiarare fallito. Non c'è certezza che questa mail giunga da Satoshi Nakamoto.  
   
 [REDDIT](https://www.reddit.com/r/Bitcoin/comments/76mwyv/satoshi_nakamoto_about_hijack_fork_attempts/#lightbox)
 
@@ -1359,10 +1364,9 @@ giunga da Satoshi Nakamoto.
 
 <details>
 <summary>Moderazione o Censura</summary>
-Sul Forum di Bitcoin Reddit gestito da Theymus si parla di Bitcoin XT e blocchi grandi. Theymus invita le persone interessate a 
-questi argomenti di aprire un forum dedicato. Il 17 Agosto Theymus banna più persone che volevano parlare di Bitcoin XT sul 
-forum Bitcoin perché era più popolato. Anche Bitcoin Jesus (Roger Ver) è bannato dal forum e diventerà sostenitore di molte 
-shitcoin in futuro.
+Sul forum di Bitcoin Reddit gestito da Theymus si parla di Bitcoin XT e blocchi grandi. Theymus invita le persone interessate a 
+questi argomenti ad aprire un forum dedicato. Il 17 Agosto Theymus banna alcune persone che volevano parlare di Bitcoin XT sul 
+forum Bitcoin perché era più popolato. Anche Bitcoin Jesus (Roger Ver) è bannato dal forum e, in futuro,  diventerà sostenitore di molte shitcoin
   
 </details>
 
