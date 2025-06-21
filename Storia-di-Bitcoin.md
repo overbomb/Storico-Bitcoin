@@ -1531,19 +1531,15 @@ sconosciute. Bitmain ha molta potenza di calcolo, quindi rende impossibile il so
 <details>
 <summary>UASF BIP 148 (User Activated Soft Fork)🌱⚔️🟠</summary>
 Il 21 Marzo 2017 l'anonimo Shaolinfry propone la BIP 148 che implementa il soft fork di Segwit. UASF è stato creato per impedire
-ai miner di bloccare il soft-fork. Il rischio è che se non trova consenso la rete splitta ed una parte della rete non ha Hash 
-Power dei miner, ma se l'aggiornamento trova 
-consenso allora i miner si trovano costretti ad aggiornare a segwit. L'idea è che gli utenti decidano cosa è Bitcoin ed i miner 
-prestano servizio agli
-utenti.
+ai miner di bloccare il soft-fork. Il rischio è che, se non trova consenso, la rete splitta ed una parte della rete non ha hash 
+power dei miner. Se l'aggiornamento trova consenso, allora i miner si trovano costretti ad aggiornare a segwit. L'idea è che gli utenti decidano cos'è Bitcoin ed i miner prestino servizio agli utenti. Per questo l'acronimo è UASF "User Activated Soft Fork".
 
 **ENG** - https://bitcoin.stackexchange.com/questions/51901/what-is-the-user-activated-softfork-uasf-proposal-how-do-its-risks-compare-to
 </details>
 
 <details>
 <summary>I nodi di Bitcoin Unlimited arrivano al pettine</summary>
-Il 17 Marzo 2017 diverse importanti piattaforme di scambio, tra cui Bitfinex, Kraken e Bitstamp, dopo dei bug importanti e quasi 
-nessuna adozione in termini di utenti e developer, comunicano che non supporteranno più il progetto di Bitcoin Unlimited.
+Il 17 Marzo 2017 diverse importanti piattaforme di scambio, tra cui Bitfinex, Kraken e Bitstamp, dopo alcuni bug importanti e quasi nessuna adozione in termini di utenti e developer, comunicano che non supporteranno più il progetto di Bitcoin Unlimited.
 
 **ENG** - https://blog.bitmex.com/the-blocksize-war-chapter-13-exchanges/
 </details>
@@ -1551,16 +1547,16 @@ nessuna adozione in termini di utenti e developer, comunicano che non supportera
 <details>
 <summary>I futures Bitcoin/Bitcoin Unlimited</summary>
 Il 18 marzo 2017, Bitfinex ha lanciato contratti futures per Bitcoin Unlimited contro Bitcoin Core, permettendo agli investitori 
-di esprimere opinioni con un reale coinvolgimento finanziario. Di conseguenza il prezzo di Bitcoin Unlimited scende drasticamente.
+di esprimere opinioni con un reale coinvolgimento finanziario. Di conseguenza, il prezzo di Bitcoin Unlimited scende rasticamente.
 
 **ENG** - https://blog.bitmex.com/the-blocksize-war-chapter-13-exchanges/
 </details>
 
 <details>
 <summary>Bitmain Covert AsicBoost🚨</summary>
-Il 5 Aprile 2017 Gregory Maxwell all'epoca CTO di Blockstream, ha rivelato che Bitmain aveva implementato l'exploit "covert 
-AsicBoost" nel suo hardware. Questo software installato da Bitmain sulle ASICS vendute ai clienti permetteva di sottrarre il 20-
-30 % di potenza di calcolo dai proprietari delle macchine ed usarla per se ad insaputa degli acquirenti. Covert AsicBoost 
+Il 5 Aprile 2017 Gregory Maxwell, all'epoca CTO di Blockstream, ha rivelato che Bitmain aveva implementato l'exploit "covert 
+AsicBoost" nel suo hardware. Questo software, installato da Bitmain sulle ASICS vendute ai clienti, permetteva di sottrarre il 20-
+30 % di potenza di calcolo dai proprietari delle macchine e di usarla per sè ad insaputa degli acquirenti. Covert AsicBoost 
 funzionava solo in caso di segwit hard fork e non con soft fork.
 
 **ENG** - https://thebitcoinmanual.com/articles/asicboost/
@@ -1576,7 +1572,7 @@ possibile all'azienda di spegnere le macchine da remoto.
 
 <details>
 <summary>NYA BIG BLOCK🚨⚔️🟢</summary>
-Il 22 Maggio a New York c'è una conferenza, tenuta organizzata da Coin Desk che si chiama Consensus. All'apertura della 
+Il 22 Maggio, a New York, c'è una conferenza organizzata da Coin Desk che si chiama Consensus. All'apertura della 
 conferenza viene annunciato che il New York Agreement con le più importanti aziende Bitcoin (Coinbase, BitPay, Bitmain etc...) ha
 trovato il modo di implementare l'aumento della grandezza dei blocchi e segwit con hard fork. Nei giorni successivi molte aziende 
 Bitcoin si aggregano a questa proposta. La proposta è BIP 91 con il software BTC1.
@@ -1586,7 +1582,7 @@ Bitcoin si aggregano a questa proposta. La proposta è BIP 91 con il software BT
 
 <details>
 <summary>Bitcoin Cash⚔️🟢</summary>
-Il 1 Agosto Bitcoin splitta e nasce Bitcoin Cash. Senza aggiornare a segwit e blocchi più grandi.
+Il 1 Agosto Bitcoin splitta e nasce Bitcoin Cash con blocchi più grandi e senza l'implementazione di segwit.
 </details>
 
 <details>
@@ -1624,7 +1620,7 @@ Il 7 Dicembre 2017 Steam smette di accettare Bitcoin.
 
 <details>
 <summary>Bitcoin Futures</summary>
-Il 9 Dicembre 2017 v**ENG**ono annunciati i primi future su Bitcoin.
+Il 9 Dicembre 2017 vengono annunciati i primi future su Bitcoin.
 </details>
 
 </details>
@@ -1636,13 +1632,12 @@ Il 9 Dicembre 2017 v**ENG**ono annunciati i primi future su Bitcoin.
 
 <details>
 <summary>Gregory Maxwell - Taproot 🔍🌱</summary>
-Il 22 Gennaio 2018 Gregory Maxwell su Bitcoin Dev mailing list rilascia l'idea Taproot.
+Il 22 gennaio 2018 Gregory Maxwell su Bitcoin Dev mailing list rilascia l'idea Taproot.
 </details>
 
 <details>
 <summary>THE BITCOIN STANDARD 🌍</summary>
-Il 23 Marzo viene pubblicato il libro "The Bitcoin Standard" di Saifedean Ammous. Il libro ha molto successo ed in molti si 
-avvicinano a Bitcoin dopo aver letto il libro.
+Il 23 Marzo viene pubblicato il libro "The Bitcoin Standard" di Saifedean Ammous. Il libro ha molto successo, in molti dopo la sua lettura, si avvicinano a Bitcoin.
 </details>
 
 <details>
@@ -1668,15 +1663,14 @@ Il 3 Luglio 2018 Giacomo Zucco a Lisbona presenta RGB.
 
 <details>
 <summary>Lightning Torch 🌱🌍</summary>
-Hodlonaut il 19 Gennaio 2019 per promuovere l'uso della rete Lightning di Bitcoin scrive un tweet e offrirà 100.000 satoshi alla 
-prima persona che risponde. Questa persona aggiungerà 10.000 satoshi a un altro partecipante. L'iniziativa, che coinvolgerà 
-figure come Jack Dorsey ed Elizabeth Stark, terminerà il 13 aprile. La transazione passerà anche in Iran, violando le 
-restrizioni, e arriverà infine in Bitcoin Venezuela, dove verranno raccolti tutti i satoshi.
+Hodlonaut, il 19 Gennaio 2019, per promuovere l'uso della rete Lightning di Bitcoin scrive un tweet dove offrirà 100.000 satoshi alla prima persona che risponde. Questa persona aggiungerà 10.000 satoshi per un altro partecipante. L'iniziativa, che oinvolgerà 
+figure come Jack Dorsey ed Elizabeth Stark, terminerà il 13 aprile. La transazione passerà anche in Iran violando le 
+restrizioni e arriverà infine in Bitcoin Venezuela, dove verranno raccolti tutti i satoshi.
 </details>
 
 <details>
 <summary>We are all Hodlenauts</summary>
-Hodlonaut accusa Craig Wright di essere un truffatore. Wright lo minaccia di causa se non si ritira. Hodlonaut non cede e viene 
+Hodlonaut accusa Craig Wright di essere un truffatore. Wright lo minaccia di causa se non si ritira ma Hodlonaut non cede e viene 
 denunciato, con una taglia sulla sua identità. Nasce così la campagna "WE ARE ALL HODLENAUT".
 </details>
 
@@ -1684,8 +1678,7 @@ denunciato, con una taglia sulla sua identità. Nasce così la campagna "WE ARE 
 <summary>Payjoin 🔍</summary>
 Il 1 maggio 2019 Nicolas Dorier pubblica la BIP 78 "A Simple Payjoin Proposal". La proposta consente al destinatario di 
 consolidare i propri UTXO e di raggruppare i pagamenti senza creare una nuova transazione, risparmiando così sulle commissioni.
-Inoltre è utile l'utilizzo per migliorare la privacy
-ed ingannare l'analisi on chain.
+Inoltre, l'utilizzo di Payjoin migliora la privacy ed inganna l'analisi on chain.
 
 **ENG** - https://bips.dev/78/
 </details>
@@ -1735,14 +1728,14 @@ OP_CHECKTEMPLATEVERIFY.
 
 <details>
 <summary>Taproot BIP 341 di SIPA 🔍</summary>
-Sipa il 19 Gennaio 2020 propone la BIP 341, sarà la BIP che implementa l'aggiornamento Taproot.
+Sipa, il 19 Gennaio 2020, propone la BIP 341. Sarà la BIP che implementa l'aggiornamento Taproot.
 
 https://bips.dev/341/
 </details>
 
 <details>
 <summary>COVID DROP</summary>
-Sono sempre di più le restrizioni imposte per l'emergenza COVID ed il 12 Marzo 2020 Bitcoin crolla a 3300 dollari.
+Sono sempre di più le restrizioni imposte per l'emergenza COVID.  Il 12 Marzo 2020 Bitcoin crolla a 3300 dollari.
 </details>
 
 <details>
@@ -1770,7 +1763,7 @@ Il 12 febbraio comincia la campagna "Laser Eye until 100k".
 
 <details>
 <summary>Taproot Speedy Trial ⚙️</summary>
-Il 6 Marzo comincia la votazione dei miner per il consenso a Taproot. Il consenso del 90% minimo viene raggiunto entro i 3 mesi e 
+Il 6 Marzo comincia la votazione dei miner per il consenso a Taproot. Il consenso minimo del 90% viene raggiunto entro i 3 mesi e 
 si procede per l'attivazione di Taproot.
 
 **ENG** - https://taprootactivation.com/
@@ -1778,15 +1771,15 @@ si procede per l'attivazione di Taproot.
 
 <details>
 <summary>Marathon OFAC Compliant</summary>
-Il 6 Maggio Marathon, la società bitcoin quotata in borsa, scrive in un blocco, "questo è un blocco OFAC compliant". I bitcoiner 
-fanno coinjoin come movimento di ribellione, transazioni in Iran, e piccole transazioni sull'indirizzo Coinbase di Marathon.
+Il 6 Maggio Marathon, la società bitcoin quotata in borsa, scrive in un blocco "questo è un blocco OFAC compliant". I bitcoiner 
+fanno coinjoin come movimento di ribellione, transazioni in Iran e piccole transazioni sull'indirizzo Coinbase di Marathon.
 
 **TWEET** - https://x.com/thomasheller_/status/1390282795558137860
 </details>
 
 <details>
 <summary>Tesla non accetta più Bitcoin come mezzo di pagamento</summary>
-Tesla il 19 Maggio smette di accettare Bitcoin come mezzo di pagamento. Tiene le riserve di Bitcoin acquistate.
+Tesla il 19 Maggio smette di accettare Bitcoin come mezzo di pagamento e mantiene le riserve di Bitcoin acquistate.
 </details>
 
 <details>
@@ -1799,7 +1792,7 @@ Il 21 Maggio il governo cinese banna il mining sul suolo Cinese.
 
 <details>
 <summary>EL SALVADOR SU BITCOIN 🌍</summary>
-Il 5 Giugno durante Bitcoin conference di Miami viene annunciato che El Salvador adotterà Bitcoin come valuta a corso legale.
+Il 5 Giugno, durante Bitcoin conference di Miami, viene annunciato che El Salvador adotterà Bitcoin come valuta a corso legale.
 </details>
 
 <details>
@@ -1837,7 +1830,7 @@ Dal 14 Novembre Taproot viene attivato.
 
 <details>
 <summary>BIP 119 - Jeremy Rubin 🔍</summary>
-Il 19 Aprile Jeremy Rubin propone la BIP 119 da fare con speedy trial per fare CTV (check template verify).
+Il 19 Aprile Jeremy Rubin propone la BIP 119 con l'uso di speedy trial per l'aggiornamento CTV (Check Template Verify).
 
 **ENG** - https://bips.dev/119/
 </details>
@@ -1862,6 +1855,6 @@ Il 10 Gennaio la SEC approva gli ETF su Bitcoin
 <details>
 <summary>HALVING🎉</summary>
   
-Il 20 Aprile 2024 avviene il 4° Halving e la nuova offerta di Bitcoin ogni 10 minuti è di 3,125 Bitcoin.
+Il 20 Aprile 2024 avviene il 4° Halving e la nuova offerta di Bitcoin, ogni 10 minuti, è di 3,125 Bitcoin.
 
 </details>
