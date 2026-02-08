@@ -106,7 +106,7 @@ Il Computer Z2, sviluppato dall'ingegnere tedesco Konrad Zuse, è considerato il
 
 Il Nixon Shock, avvenuto il 15 agosto 1971, è stato un insieme di decisioni economiche del presidente Richard Nixon, tra cui la 
 sospensione della convertibilità del dollaro in oro. Questo ha segnato la fine agli accordi di Bretton Woods e l'inizio di un 
-sistema monetario basato su valute fiT.
+sistema monetario basato su valute FIAT.
 
 ⚠️ Questa data rappresenta un punto di partenza per la ricerca di alternative al sistema monetario tradizionale.
 
